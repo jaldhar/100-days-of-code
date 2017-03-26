@@ -1,6 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 2: March 24, 2017
+## Day 3: March 25, 2017
+
+**Today's Progress**: Did the FreeCodeCamp HTML5 and CSS exercises;  Built a tribute page; Helped a Freecodecamper learn C.
+
+**Thoughts**:
+
+I started with the javascript algorithm stuff first because I thought that
+would be more interesting and challenging and because, if you remember, I had
+started and dropped FreeCodeCamp once before and I thought that I remembered
+the basics of JavaScript, HTML5, CSS, jQuery, and Bootstrap well enough from
+then.  However today I decided that it might be prudent to review it once more.
+It being the weekend, there were domestic things to attend to but I did get
+through all the HTML5 and CSS exercises.
+
+I also took some time to help a camper who is learning C which I know well. I
+am still wondering if I should go into web development or C/C++.  Whichever
+results in big $$$$ first I guess.
+
+Lastly I took the old tribute page I had done as the first Basic Frontend
+Development Project from the last time and gave it the once over.  I think it
+is good so I submitted it.  The only difference is last time I had it up on
+codepen, which no offense, is a wonderful service but a little inflexible
+unless you pay for the pro features.  I have a server of my one so I just put
+it up there instead.
+
+**Links to work:**
+
+* [A Tribute to the Sinclair ZX Spectrum](http://www.braincells.com/webdev/tribute-to-spectrum/)
+
+## Day 2: March 24, 2017
 
 **Today's Progress**: Finished the rest of the Basic Algorithm Scripting Challenges from FreeCodeCamp; learned about git.
 
@@ -35,7 +64,7 @@ backup branch.  Phew! Disaster averted.
 * [Challenge 15: Where do I belong](https://github.com/jaldhar/FreeCodeCamp/blob/master/Basic%20Algorithm%20Challenges/algorithms15.js)
 * [Challenge 16: Caesars Cipher](https://github.com/jaldhar/FreeCodeCamp/blob/master/Basic%20Algorithm%20Challenges/algorithms16.js)
 
-### Day 1: March 23, 2017
+## Day 1: March 23, 2017
 
 **Today's Progress**: First 5 Basic Algorithm Scripting Challenges from FreeCodeCamp
 
