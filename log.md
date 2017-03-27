@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Day 4: March 26, 2017
+
+**Today's Progress**: Did the FreeCodeCamp Bootstrap exercises; Started work on Portfolio.
+
+**Thoughts**:
+
+Bootstrap is a godsend to artistically challenged people like myself.  I did
+FreeCodeCamps bootstrap exercises to refresh my memory of how it works.  It
+seems they are based on version 3 and there is a Bootstrap 4 out.  Last time
+aound what finally sunk me was agonizing over getting the portfolio (which
+is the second Basic Frontend Development Project in the FCC curriculum) just
+right and eventually losing all momentum.  So this time I'm not going to worry
+just yet and stick with 3.
+
+However I am going to ditch my previous attempt and start from scratch.  One
+thing I will be keeping is the [Flat-UI toolkit](https://github.com/designmodo/Flat-UI), a theme for Bootstrap which gives it a more modern "flat" look.
+
+I did the basic framework of the portfolio page but ran out of time to add content
+today.
+
+
+**Links to work:**
+
+* [Portfolio (WIP)](http://www.braincells.com/webdev/)
+
 ## Day 3: March 25, 2017
 
 **Today's Progress**: Did the FreeCodeCamp HTML5 and CSS exercises;  Built a tribute page; Helped a Freecodecamper learn C.
@@ -52,7 +77,7 @@ backup branch.  Phew! Disaster averted.
 
 **Links to work:**
 
-* [challenge 6: Return Largest Numbers in Arrays](https://github.com/jaldhar/FreeCodeCamp/blob/master/Basic%20Algorithm%20Challenges/algorithms06.js)
+* [Challenge 6: Return Largest Numbers in Arrays](https://github.com/jaldhar/FreeCodeCamp/blob/master/Basic%20Algorithm%20Challenges/algorithms06.js)
 * [Challenge 7: Confirm the Ending](https://github.com/jaldhar/FreeCodeCamp/blob/master/Basic%20Algorithm%20Challenges/algorithms07.js)
 * [Challenge 8: Repeat a string repeat a string](https://github.com/jaldhar/FreeCodeCamp/blob/master/Basic%20Algorithm%20Challenges/algorithms08.js)
 * [Challenge 9: Truncate a string](https://github.com/jaldhar/FreeCodeCamp/blob/master/Basic%20Algorithm%20Challenges/algorithms09.js)
