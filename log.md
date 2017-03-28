@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 
+## Day 5: March 27, 2017
+
+**Today's Progress**: Did the FreeCodeCamp jQuery exercises; Learned about grunt; Continued work on Portfolio.
+
+**Thoughts**:
+
+I did the FreeCodeCamp jQuery exercises.  All stuff I knew already so that
+didn't take long.
+
+After the nth iteration of writing files, uploading them to the server, and then
+moving them into place I wondered if there was a way to automate it all and the
+answer is, yes there is.  In fact as is usual in the javascript world there
+are several incompatible ones, no one agrees which is standard, and the
+"coolest" keeps changing every few months.  I settled on grunt mainly because
+a book I'm reading has a chapter on it.
+
+With grunt, you can set up various tasks.  I currently have:
+
+* htmlhint: which checks your HTML syntax for things like missing end tags etc.
+* imagemin: which compresses images so loading them will not use as much bandwith.
+* cssmin: which does the same but for CSS.  It can also concatanate all your CSS files into one so you get one big but efficient download instead of several smaller but slower ones.
+* uglify: compresses and concatenates javascript.
+* copy: moves files around so you can arrange them as you need in a destination directory.
+
+This destination directory is a git repository which tracks a repository on my
+server.  So after running 'grunt build' I commit any changes that occured and
+then do a 'git push' to upload everything in one go.
+
+It was suggested to me on gitter that I put all my work on github so potential
+employers etc. can inspect it.  I haven't set it up yet but with this setup
+I can easily set up github as another push target and use it as a mirror
+(and backup!) with only one extra command.
+
+With all this going on there was little time to actually work on the portfolio
+(I must be careful about this.)
+
+**Links to work:**
+
+* [Portfolio (WIP)](http://www.braincells.com/webdev/)
+
 ## Day 4: March 26, 2017
 
 **Today's Progress**: Did the FreeCodeCamp Bootstrap exercises; Started work on Portfolio.
