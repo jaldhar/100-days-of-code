@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+## Day 6: March 28, 2017
+
+**Today's Progress**: Did some FreeCodeCamp javascript exercises; Learned about less; Continued work on Portfolio.
+
+**Thoughts**:
+
+I did some of the FreeCodeCamp javascript exercises mostly just to keep my
+activity streak going more than anything else. 
+
+Today I learned about LESS.  This is a language for generating CSS so there is
+less boilerplate you actually need to write. (As usual in the Javascript world
+there are alternatives like SASS and Compass.  I haven't looked at them yet.)
+Bootstrap is generated from LESS files.  So I found out how to change
+parameters like default colors and recompile bootstrap.  (A Grunt task comes
+in handy for that.)  Flat-UI which I mentioned yesterday is created just like
+that.  I forgot to mention in yesterdays log that I had been looking for
+themes to use as inspiration.  I found one for portfolios at
+[startbootstrap](https://startbootstrap.com/template-overviews/freelancer/)
+called Freelancer that seemed nice.  From
+[bootswatch](http://bootswatch.com/superhero/) came Superhero which was more
+basic but had the kind of color scheme I wanted.  Finally, I replaced the
+glyphicons font that came with Flat-UI with
+[Font Awesome](http://fontawesome.io/) for the icons.  All of these are
+distributed with LESS files so I integrated them into my custom bootstrap.
+
+So now my portfolio is looking much better&mdash;apart from the woeful lack of content.
+
+**Links to work:**
+
+* [Portfolio (WIP)](http://www.braincells.com/webdev/)
+
 ## Day 5: March 27, 2017
 
 **Today's Progress**: Did the FreeCodeCamp jQuery exercises; Learned about grunt; Continued work on Portfolio.
