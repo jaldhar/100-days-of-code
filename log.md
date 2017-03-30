@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 7: March 29, 2017
+
+**Today's Progress**: More FreeCodeCamp javascript exercises; Learned about less; Started doing exercises from Codefights.
+
+**Thoughts**:
+
+I'm sad to say I've just been treading water today.  I did do some more of the
+freeCodeCamp javascript exercises.  Also via the FCC forum I learned of a site
+called [CodeFights](https://codefights.com/) where you can practice algorithmic
+problems in a variety of languages.  (I'm using Perl with C++ as a backup.)  The
+first few problems were easy but this one had me stumped for a long time:
+
+Given a sequence of integers as an array, determine whether it is possible to
+obtain a strictly increasing sequence by removing no more than one element
+from the array.
+
+Eventually I was forced to look at [Stack Overflow](http://stackoverflow.com/questions/43017251/solve-almostincreasingsequence-codefights) for help.
+I was relieved to see that I was basically on the right track but it shows I
+need more practice in this sort of thing.
+
+**Links to work:**
+
+* [Portfolio (WIP still)](http://www.braincells.com/webdev/)
+
 ## Day 6: March 28, 2017
 
 **Today's Progress**: Did some FreeCodeCamp javascript exercises; Learned about less; Continued work on Portfolio.
