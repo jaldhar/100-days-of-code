@@ -1,8 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 8: March 30, 2017
+
+**Today's Progress**: More freeCodeCamp javascript exercises; Worked on Portfolio a bit more.
+
+**Thoughts**:
+
+Today I did even more of the freeCodeCamp javascript exercises.  I also did
+more work on my portfolio including some interesting experiments in making it
+responsive.  I didn't put up the current state publically yet but I think that
+by tomorrow I'll be ready to mark this as done.  For now.
+
+I should have done some codefights but got lazy.  I am suitably ashamed.
+
+**Links to work:**
+
+* [Portfolio (WIP but not for much longer!)](http://www.braincells.com/webdev/)
+
 ## Day 7: March 29, 2017
 
-**Today's Progress**: More FreeCodeCamp javascript exercises; Learned about less; Started doing exercises from Codefights.
+**Today's Progress**: More freeCodeCamp javascript exercises; Learned about less; Started doing exercises from Codefights.
 
 **Thoughts**:
 
@@ -26,11 +43,11 @@ need more practice in this sort of thing.
 
 ## Day 6: March 28, 2017
 
-**Today's Progress**: Did some FreeCodeCamp javascript exercises; Learned about less; Continued work on Portfolio.
+**Today's Progress**: Did some freeCodeCamp javascript exercises; Learned about less; Continued work on Portfolio.
 
 **Thoughts**:
 
-I did some of the FreeCodeCamp javascript exercises mostly just to keep my
+I did some of the freeCodeCamp javascript exercises mostly just to keep my
 activity streak going more than anything else. 
 
 Today I learned about LESS.  This is a language for generating CSS so there is
@@ -57,11 +74,11 @@ So now my portfolio is looking much better&mdash;apart from the woeful lack of c
 
 ## Day 5: March 27, 2017
 
-**Today's Progress**: Did the FreeCodeCamp jQuery exercises; Learned about grunt; Continued work on Portfolio.
+**Today's Progress**: Did the freeCodeCamp jQuery exercises; Learned about grunt; Continued work on Portfolio.
 
 **Thoughts**:
 
-I did the FreeCodeCamp jQuery exercises.  All stuff I knew already so that
+I did the freeCodeCamp jQuery exercises.  All stuff I knew already so that
 didn't take long.
 
 After the nth iteration of writing files, uploading them to the server, and then
@@ -97,12 +114,12 @@ With all this going on there was little time to actually work on the portfolio
 
 ## Day 4: March 26, 2017
 
-**Today's Progress**: Did the FreeCodeCamp Bootstrap exercises; Started work on Portfolio.
+**Today's Progress**: Did the freeCodeCamp Bootstrap exercises; Started work on Portfolio.
 
 **Thoughts**:
 
 Bootstrap is a godsend to artistically challenged people like myself.  I did
-FreeCodeCamps bootstrap exercises to refresh my memory of how it works.  It
+freeCodeCamps bootstrap exercises to refresh my memory of how it works.  It
 seems they are based on version 3 and there is a Bootstrap 4 out.  Last time
 aound what finally sunk me was agonizing over getting the portfolio (which
 is the second Basic Frontend Development Project in the FCC curriculum) just
@@ -122,13 +139,13 @@ today.
 
 ## Day 3: March 25, 2017
 
-**Today's Progress**: Did the FreeCodeCamp HTML5 and CSS exercises;  Built a tribute page; Helped a Freecodecamper learn C.
+**Today's Progress**: Did the freeCodeCamp HTML5 and CSS exercises;  Built a tribute page; Helped a Freecodecamper learn C.
 
 **Thoughts**:
 
 I started with the javascript algorithm stuff first because I thought that
 would be more interesting and challenging and because, if you remember, I had
-started and dropped FreeCodeCamp once before and I thought that I remembered
+started and dropped freeCodeCamp once before and I thought that I remembered
 the basics of JavaScript, HTML5, CSS, jQuery, and Bootstrap well enough from
 then.  However today I decided that it might be prudent to review it once more.
 It being the weekend, there were domestic things to attend to but I did get
@@ -151,7 +168,7 @@ it up there instead.
 
 ## Day 2: March 24, 2017
 
-**Today's Progress**: Finished the rest of the Basic Algorithm Scripting Challenges from FreeCodeCamp; learned about git.
+**Today's Progress**: Finished the rest of the Basic Algorithm Scripting Challenges from freeCodeCamp; learned about git.
 
 **Thoughts**:
 
@@ -186,7 +203,7 @@ backup branch.  Phew! Disaster averted.
 
 ## Day 1: March 23, 2017
 
-**Today's Progress**: First 5 Basic Algorithm Scripting Challenges from FreeCodeCamp
+**Today's Progress**: First 5 Basic Algorithm Scripting Challenges from freeCodeCamp
 
 **Thoughts**:
 
