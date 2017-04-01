@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 9: March 31, 2017
+
+**Today's Progress**: Finished freeCodeCamp javascript exercises; struggled with Bootstrap.
+
+**Thoughts**:
+
+I finishwed the freeCodeCamp basic javascript exercises.  Now it's onwards to
+object-oriented and functional programming.
+
+I had hoped to finish my portfolio today but ran into an unexpected snag.  I
+have a set of icons in my Bootstrap-produced navbar.  I wanted to change their
+color.  Easy right?  Somehow I can't get the right sequence of CSS classes to
+override in order to make this happen.  The Firefox developer tools were very
+useful but I still didn't get it.  Bootstrap is wonderful for the design-challenged
+like me but there is a lot of magic under the hood which makes it hard to 
+understand exactly what's going on.
+
+No codefights today either.
+
+**Links to work:**
+
+* [Portfolio (alas, still WIP)](http://www.braincells.com/webdev/)
+
 ## Day 8: March 30, 2017
 
 **Today's Progress**: More freeCodeCamp javascript exercises; Worked on Portfolio a bit more.
