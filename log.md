@@ -11,7 +11,7 @@ I did all the freeCodeCamp object-oriented and functional programming exercises.
 I try to keep reminding myself that the perfect is the enemy of the good but
 this I think is too important not to fix.  I mentioned previously that I have
 some icons in my navbar.  As the navbar is responsive, it collapses into a 
-"Veggie burger" button (this is what I am choosing to call a ("hamburger button")(https://en.wikipedia.org/wiki/Hamburger_button) with a dropdown menu if the screen width gets too narrow.  The problem is that the menu looks
+"veggie burger button" (this is what I am choosing to call a ("hamburger button")[https://en.wikipedia.org/wiki/Hamburger_button] :-) with a dropdown menu if the screen width gets too narrow.  The problem is that the menu looks
 bad if there are only icons on it.  There ought to be text labels too IMO.  But
 I don't want those labels when the navbar is full size.  Figuring out how to do
 this in CSS and Javascript has been quite difficult.  However I'm sure this is
@@ -29,7 +29,7 @@ out so I'm confident I can solve this one too.
 
 **Thoughts**:
 
-I finishwed the freeCodeCamp basic javascript exercises.  Now it's onwards to
+I finished the freeCodeCamp basic javascript exercises.  Now it's onwards to
 object-oriented and functional programming.
 
 I had hoped to finish my portfolio today but ran into an unexpected snag.  I
