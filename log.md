@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 10: March April 1, 2017
+
+**Today's Progress**: Finished freeCodeCamp Functional and OOP exercises; More Bootstrap aggravation.
+
+**Thoughts**:
+
+I did all the freeCodeCamp object-oriented and functional programming exercises..
+
+I try to keep reminding myself that the perfect is the enemy of the good but
+this I think is too important not to fix.  I mentioned previously that I have
+some icons in my navbar.  As the navbar is responsive, it collapses into a 
+"Veggie burger" button (this is what I am choosing to call a ("hamburger button")(https://en.wikipedia.org/wiki/Hamburger_button) with a dropdown menu if the screen width gets too narrow.  The problem is that the menu looks
+bad if there are only icons on it.  There ought to be text labels too IMO.  But
+I don't want those labels when the navbar is full size.  Figuring out how to do
+this in CSS and Javascript has been quite difficult.  However I'm sure this is
+the kind of scenario real front-end developers have to deal with so I'm 
+determined to figure it out.  I did get the color problem from yesterday sorted
+out so I'm confident I can solve this one too.
+
+**Links to work:**
+
+* [Portfolio (WWWWWWWWIIIIIIIIIIIIIIIIIPPPPPPP)](http://www.braincells.com/webdev/)
+
 ## Day 9: March 31, 2017
 
 **Today's Progress**: Finished freeCodeCamp javascript exercises; struggled with Bootstrap.
