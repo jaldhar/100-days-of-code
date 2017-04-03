@@ -1,5 +1,47 @@
 # 100 Days Of Code - Log
 
+## Day 11: March April 2, 2017
+
+**Today's Progress**: Finished freeCodeCamp JSON APIs and AJAX exercises; The tide is turning in the war on Bootstrap.
+
+**Thoughts**:
+
+I finished all the freeCodeCamp JSON APIs and AJAX exercises which wasn't very
+hard because they were all cut-and-paste and there weren't even that many.  It
+is definitely a part of the curriculum that needs to be strengthened IMO.
+
+My Bootstrap customizations are looking a lot better as I understand its' 
+structure in greater depth.  I'm still not done yet.
+
+I learned a nifty CSS trick.  Given HTML like this:
+
+```
+<span class="fa fa-envelope"><span class="hidden-text">Contact</span></span>
+```
+
+This CSS will make it so only the icon shows up in a graphical browser but the
+text will be displayed in a text-mode browser such as w3m or lynx.
+
+```
+.hidden-text {
+    display: none;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+```
+
+Ok, maybe the general public rarely need or use something like that but I do
+and I know a lot of my fellow Linux users do too so I definitely wanted to
+make my site usable in text-mode.  I imagine that would also help e.g. blind
+people using screen-readers etc.  (There is a specification called ARIA which
+I have been reading about and partially implemented though there is more work
+to be done on that front.)
+
+**Links to work:**
+
+* [Portfolio (WIP)](http://www.braincells.com/webdev/)
+
 ## Day 10: March April 1, 2017
 
 **Today's Progress**: Finished freeCodeCamp Functional and OOP exercises; More Bootstrap aggravation.
