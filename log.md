@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 11: March April 2, 2017
+## Day 11: April 2, 2017
 
 **Today's Progress**: Finished freeCodeCamp JSON APIs and AJAX exercises; The tide is turning in the war on Bootstrap.
 
@@ -42,7 +42,7 @@ to be done on that front.)
 
 * [Portfolio (WIP)](http://www.braincells.com/webdev/)
 
-## Day 10: March April 1, 2017
+## Day 10: April 1, 2017
 
 **Today's Progress**: Finished freeCodeCamp Functional and OOP exercises; More Bootstrap aggravation.
 
