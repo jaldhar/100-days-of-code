@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 12: April 3, 2017
+
+**Today's Progress**: Finished the portfolio project.
+
+**Thoughts**:
+
+Phew!
+
+Ok in greater depth; some of the things I learned doing this project include:
+
+* How to customize bootstrap with LESS.
+* How to minify images, stylesheets and javascript to prevent page bloat.
+* How to use Grunt to automate all these.
+* Establishing a workflow (dev -> staging -> production) powered by git.
+* Web standards and conventions such as ARIA, microformats, and humans.txt
+* Letting go of perfection in order to actually get things done.
+
+Now I just need some content to put in it.
+
+**Links to work:**
+
+* [Portfolio](http://www.braincells.com/webdev/)
+
 ## Day 11: April 2, 2017
 
 **Today's Progress**: Finished freeCodeCamp JSON APIs and AJAX exercises; The tide is turning in the war on Bootstrap.
