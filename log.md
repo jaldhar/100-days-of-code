@@ -1,8 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 14: April 5, 2017
+
+**Today's Progress**: Started building Random Quote Machine.
+
+**Thoughts**:
+
+Converted my existing Random Quote Machine design to use flexbox instead of 
+Bootstraps' grid.  It basically works but there is more to be done to make it
+responsive.  I also need to remove jQuery from the javascript code.
+
+I didn't have time for anything else.
+
+**Links to work:**
+
+* [Random Quote Machine (WIP)](http://www.braincells.com/webdev/random-quote-machine/)
+
 ## Day 13: April 4, 2017
 
-**Today's Progress**: Learned about Flexbox;
+**Today's Progress**: Learned about Flexbox.
 
 **Thoughts**:
 
