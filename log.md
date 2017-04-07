@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 15: April 6, 2017
+
+**Today's Progress**: Continued building Random Quote Machine.
+
+**Thoughts**:
+
+Another light day.  In the time I could spare, I fixed some bugs concerning
+responsiveness in my flexbox-based layout.  I also converted a lot of jQuery
+into plain javascript but the task is not complete.
+
+**Links to work:**
+
+* [Random Quote Machine (WIP)](http://www.braincells.com/webdev/random-quote-machine/)
+
 ## Day 14: April 5, 2017
 
 **Today's Progress**: Started building Random Quote Machine.
