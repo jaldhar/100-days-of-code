@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 16: April 7, 2017
+
+**Today's Progress**: Finished building Random Quote Machine.
+
+**Thoughts**:
+
+Finished off converting the Random Quote machine to plain javascript.  It wasn't
+that hard really though the DOM has some quirks that jQuery smooths over nicely.
+Though doing without has been a very educational experience, I think I'll keep
+using jQuery.  Ditto for Bootstrap.
+
+I also learned about CSS filters though in the end I decided not to use them.
+
+
+**Links to work:**
+
+* [Random Quote Machine](http://www.braincells.com/webdev/random-quote-machine/)
+
 ## Day 15: April 6, 2017
 
 **Today's Progress**: Continued building Random Quote Machine.
