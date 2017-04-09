@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 17: April 8, 2017
+
+**Today's Progress**: Started Free Code Camp Weather App; Learned about CSS Shapes extension.
+
+**Thoughts**:
+
+The day started well. I started the next freeCodeCamp project which is to build
+a local weather app.  I used the [OpenWeatherMap](http://openweathermap.org) API
+for the data.  Instead of navigator.geolocation I used the [ipinfo.io](http://ipinfo.io) API to get the users location.  It seems less flakey that way.  There was a requirement to use icons to display the current weather type for
+which I used [Erik Flowers' weather icon font](http://erikflowers.github.io/weather-icons).  And I also had to have a button that toggles between -normal- Fahrenheit and -foreign- celsius which was easy.
+
+Trouble started when I decided it looks a little drab so I wanted to put the
+data inside a circle which would have a picture of the planet Earth as a
+background.  It turns out there is no standard way to display text in anything
+other than a straight line in CSS.  There is a shapes extension that does what
+I want but it is not well supported yet.  There is a polyfill but so far I have
+been unable to get it to work.  I'll try again tomorrow.
+
+**Links to work:**
+
+* [Free Code Camp Weather App (WIP)](http://www.braincells.com/webdev/local-weather/)
+
 ## Day 16: April 7, 2017
 
 **Today's Progress**: Finished building Random Quote Machine.
