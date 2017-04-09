@@ -9,7 +9,7 @@
 The day started well. I started the next freeCodeCamp project which is to build
 a local weather app.  I used the [OpenWeatherMap](http://openweathermap.org) API
 for the data.  Instead of navigator.geolocation I used the [ipinfo.io](http://ipinfo.io) API to get the users location.  It seems less flakey that way.  There was a requirement to use icons to display the current weather type for
-which I used [Erik Flowers' weather icon font](http://erikflowers.github.io/weather-icons).  And I also had to have a button that toggles between -normal- Fahrenheit and -foreign- celsius which was easy.
+which I used [Erik Flowers' weather icon font](http://erikflowers.github.io/weather-icons).  And I also had to have a button that toggles between ~~normal~~ Fahrenheit and ~~foreign~~ celsius which was easy.
 
 Trouble started when I decided it looks a little drab so I wanted to put the
 data inside a circle which would have a picture of the planet Earth as a
