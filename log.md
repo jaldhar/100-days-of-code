@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 18: April 9, 2017
+
+**Today's Progress**: Still stuck with CSS shapes; Did some JavaScript algorithms.
+
+**Thoughts**:
+Busy for most of the day with household chores but spent time trying to get
+CSS shapes to work, this time with a different polyfill.  Still no dice.
+
+Drowned my sorrows in some JavaScript algorithm challenges.
+
+**Links to work:**
+
+* [Free Code Camp Weather App (WIP)](http://www.braincells.com/webdev/local-weather/)
+* [Intermediate algorithm challenge 2: Diff Two Arrays](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms02.js)
+* [Intermediate algorithm challenge 3: Roman Numeral Converter](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms03.js)
+* [Intermediate algorithm challenge 4: Wherefore Art Thou](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms04.js)
+* [Intermediate algorithm challenge 5: Search and Replace](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms05.js)
+* [Intermediate algorithm challenge 6: Pig Latin](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms06.js)
+* [Intermediate algorithm challenge 7: DNA Pairing](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms07.js)
+* [Intermediate algorithm challenge 8: Missing Letters](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms08.js)
+* [Intermediate algorithm challenge 9: Boo Who](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms09.js)
+* [Intermediate algorithm challenge 10: Sorted Union](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms10.js)
+
 ## Day 17: April 8, 2017
 
 **Today's Progress**: Started Free Code Camp Weather App; Learned about CSS Shapes extension.
