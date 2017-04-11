@@ -1,5 +1,41 @@
 # 100 Days Of Code - Log
 
+## Day 19: April 10, 2017
+
+**Today's Progress**: Progress on round text in weather app; Finished JavaScript algorithms.
+
+**Thoughts**:
+
+If at first you don't succeed, move onto something else productive.  You can
+always revisit the problem later.
+
+I've given up on CSS shapes.  I have however managed to acheive circular text
+with a combination of three jQuery plugins: lettering, roundType and fitText.
+They work by the horribly hacky method of making each letter of text into a
+span and using CSS transforms to rotate it to the desired angle.  CSS shapes
+would have been a lot cleaner but atleast this does work.  Well, mostly; apparently
+you cannot embed icon fonts into the rotated text.
+
+I ran out of allotted time today but I think I will soon be able to make my 
+design work.
+
+Also, I finished the rest of the intermediate JavaScript algorithm challenges.
+
+**Links to work:**
+
+* [Free Code Camp Weather App (WIP)](http://www.braincells.com/webdev/local-weather/)
+* [Intermediate algorithm challenge 11: Convert HTML Entities](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms11.js)
+* [Intermediate algorithm challenge 12: Spinal Tap Case](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms12.js)
+* [Intermediate algorithm challenge 13: Sum All Odd Fibonacci Numbers](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms13.js)
+* [Intermediate algorithm challenge 14: Sum All Primes](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms14.js)
+* [Intermediate algorithm challenge 15: Smallest Common Multiple](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms15.js)
+* [Intermediate algorithm challenge 16: Finders Keepers](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms16.js)
+* [Intermediate algorithm challenge 17: Drop It](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms17.js)
+* [Intermediate algorithm challenge 18: Steamroller](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms18.js)
+* [Intermediate algorithm challenge 19: Binary Agents](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms19.js)
+* [Intermediate algorithm challenge 20: Everything Be True](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms20.js)
+* [Intermediate algorithm challenge 21: Arguments Optional](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms21.js)
+
 ## Day 18: April 9, 2017
 
 **Today's Progress**: Still stuck with CSS shapes; Did some JavaScript algorithms.
