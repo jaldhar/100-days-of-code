@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 20: April 11, 2017
+
+**Today's Progress**: Finished weather app!.
+
+**Thoughts**:
+
+Hooray! I finished the Local Weather app.  It required a lot of last minute
+fiddling to get things looking right at different resolutions but I think I 
+did it more or less.
+
+By far the biggest stumbling block is that Lettering.js in the process of slicing
+up a piece of text into spans does something to its container making it 0 width.
+I don't know enough about JavaScript and the DOM to know if this is a bug in
+the plugin or a natural consequence of the method used.  I'll see if I can
+contact the maintainer and get some guidance.
+
+**Links to work:**
+
+* [Free Code Camp Weather App](http://www.braincells.com/webdev/local-weather/)
+
 ## Day 19: April 10, 2017
 
 **Today's Progress**: Progress on round text in weather app; Finished JavaScript algorithms.
