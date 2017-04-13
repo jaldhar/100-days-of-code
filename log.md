@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 21: April 12, 2017
+
+**Today's Progress**: Finished Advanced Javascript Algorithms challenges
+
+**Thoughts**:
+
+**Links to work:**
+* [Advanced algorithm challenge 1: Validate US Phone Numbers](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms01.js)
+* [Advanced algorithm challenge 2: Record Collection](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms02.js)
+* [Advanced algorithm challenge 3: Symmetric Difference](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms03.js)
+* [Advanced algorithm challenge 4: Exact Change](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms04.js)
+* [Advanced algorithm challenge 5: Inventory Update](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms05.js)
+* [Advanced algorithm challenge 6: No Repeats Please](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms06.js)
+* [Advanced algorithm challenge 7: Make a Person](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms07.js)
+* [Advanced algorithm challenge 8: Map the Debris](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms08.js)
+* [Advanced algorithm challenge 9: Pairwise](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms09.js)
+
+
 ## Day 20: April 11, 2017
 
 **Today's Progress**: Finished weather app!.
