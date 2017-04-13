@@ -2,10 +2,13 @@
 
 ## Day 21: April 12, 2017
 
-**Today's Progress**: Finished Advanced Javascript Algorithms challenges
+**Today's Progress**: Finished Advanced Javascript algorithm challenges
 
 **Thoughts**:
 
+My head was pounding all day today so I didn't feel like starting a new
+project but I did do all the Advanced Javascript algorithm challenges.
+ 
 **Links to work:**
 * [Advanced algorithm challenge 1: Validate US Phone Numbers](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms01.js)
 * [Advanced algorithm challenge 2: Record Collection](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms02.js)
