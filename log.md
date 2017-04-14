@@ -7,7 +7,7 @@
 **Thoughts**:
 
 It's official; I'm sick.  Being dissatisfied with just the canned solutions
-Bootstrap gives you, I took a detour from [freeCodeCamp](https://freecodecamp.com) and started a Responsive Web Design Course from [The Gymnasium](https://thegymnasium.com") which is centered around
+Bootstrap gives you, I took a detour from [freeCodeCamp](https://freecodecamp.com) and started a Responsive Web Design Course from [The Gymnasium](https://thegymnasium.com) which is centered around
 building a responsive portfolio site from scratch.  I only got through the
 first two chapters in my weakened state but I'm happy I atleast did something.
 
