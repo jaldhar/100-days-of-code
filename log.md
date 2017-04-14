@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 22: April 13, 2017
+
+**Today's Progress**: Started Responsive Web Design course from The Gymnasium
+
+**Thoughts**:
+
+It's official; I'm sick.  Being dissatisfied with just the canned solutions
+Bootstrap gives you, I took a detour from [freeCodeCamp](https://freecodecamp.com) and started a Responsive Web Design Course from [The Gymnasium](https://thegymnasium.com") which is centered around
+building a responsive portfolio site from scratch.  I only got through the
+first two chapters in my weakened state but I'm happy I atleast did something.
+
+
+**Links to work:**
+
+* [Responsive Portfolio (WIP)](http://www.braincells.com/webdev/responsive-portfolio/)
+
+
 ## Day 21: April 12, 2017
 
 **Today's Progress**: Finished Advanced Javascript algorithm challenges
