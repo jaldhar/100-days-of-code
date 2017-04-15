@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 23: April 14, 2017
+
+**Today's Progress**: Continued Responsive Web Design course from The Gymnasium
+
+**Thoughts**:
+
+Feeling a bit better but not 100%.  I did a few more sections of the Responsive
+Web Design course.  I learned a lot about media queries.  It's really impressive
+how much work has to go into making a layout look good in all possible dimensions.
+I really have to respect Bootstrap for hiding most of that complexity.
+
+**Links to work:**
+
+* [Responsive Portfolio (WIP)](http://www.braincells.com/webdev/responsive-portfolio/)
+
+
 ## Day 22: April 13, 2017
 
 **Today's Progress**: Started Responsive Web Design course from The Gymnasium
@@ -7,7 +23,7 @@
 **Thoughts**:
 
 It's official; I'm sick.  Being dissatisfied with just the canned solutions
-Bootstrap gives you, I took a detour from [freeCodeCamp](https://freecodecamp.com) and started a Responsive Web Design Course from [The Gymnasium](https://thegymnasium.com) which is centered around
+Bootstrap gives you, I took a detour from [freeCodeCamp](https://freecodecamp.com) and started a Responsive Web Design course from [The Gymnasium](https://thegymnasium.com) which is centered around
 building a responsive portfolio site from scratch.  I only got through the
 first two chapters in my weakened state but I'm happy I atleast did something.
 
