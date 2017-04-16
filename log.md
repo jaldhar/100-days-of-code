@@ -1,15 +1,33 @@
 # 100 Days Of Code - Log
 
+## Day 24: April 15, 2017
+
+**Today's Progress**: Continued Responsive Web Design course from The Gymnasium
+
+**Thoughts**:
+
+Back to full strength but today was mostly dedicated to household chores. I did
+the next section of the Responsive Design course which was about typography.
+I learned a lot of new terminology which I'm not sure I've fully assimilated
+just yet.  I can see how important it is to learn this stuff.  Design is my
+weak point and I did not realize how much good use of type can improve a web
+page.
+
+**Links to work:**
+
+* [Responsive Portfolio (WIP)](http://www.braincells.com/webdev/responsive-portfolio/)
+
 ## Day 23: April 14, 2017
 
 **Today's Progress**: Continued Responsive Web Design course from The Gymnasium
 
 **Thoughts**:
 
-Feeling a bit better but not 100%.  I did a few more sections of the Responsive
-Web Design course.  I learned a lot about media queries.  It's really impressive
-how much work has to go into making a layout look good in all possible dimensions.
-I really have to respect Bootstrap for hiding most of that complexity.
+Feeling a bit better but not 100%.  I did a few more sections of the
+Responsive Web Design course.  I learned a lot about media queries.  It's
+really impressive how much work has to go into making a layout look good in
+all possible dimensions. I really have to respect Bootstrap for hiding most of
+that complexity.
 
 **Links to work:**
 
