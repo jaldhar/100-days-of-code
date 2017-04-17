@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 25: April 16, 2017
+
+**Today's Progress**: Continued Responsive Web Design course from The Gymnasium
+
+**Thoughts**:
+
+I am a quarter of the way through the 100 Days of Code challenge.
+
+Today I did two more sections of the Responsive Design course on grids and 
+forms.  I even implemented a fluid two-column layout of my own but you can't 
+see it because I went back to the old layout to stay in sync with the course.
+
+I really should try to wrap this up tomorrow if I can (there are 5 sections 
+left) and get back to freeCodeCamp.
+
+
+**Links to work:**
+
+* [Responsive Portfolio (WIP)](http://www.braincells.com/webdev/responsive-portfolio/)
+
 ## Day 24: April 15, 2017
 
 **Today's Progress**: Continued Responsive Web Design course from The Gymnasium
