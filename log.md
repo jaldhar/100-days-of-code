@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 26: April 17, 2017
+
+**Today's Progress**: Continued Responsive Web Design course from The Gymnasium
+
+**Thoughts**:
+
+I was hoping to have the Responsive Web Design course done today but I ran into
+a problem which got me so engrossed I ran out of time. The problem is my
+responsive layout is supposed to show a "hamburger menu" if the viewport gets
+too small.  This collapses the navigation links into a drop down menu.  This
+works well but for some reason the "hamburger" itself which is a background 
+image in a label element just isn't showing up.  The exact same CSS is working
+for other people.  I've been wracking my brains but I just can't figure it out.
+
+Oh well I think I better call it a night and come back to it tomorrow.
+
+**Links to work:**
+
+* [Responsive Portfolio (WIP)](http://www.braincells.com/webdev/responsive-portfolio/)
+
 ## Day 25: April 16, 2017
 
 **Today's Progress**: Continued Responsive Web Design course from The Gymnasium
@@ -8,7 +28,7 @@
 
 I am a quarter of the way through the 100 Days of Code challenge.
 
-Today I did two more sections of the Responsive Design course on grids and 
+Today I did two more sections of the Responsive Web Design course on grids and 
 forms.  I even implemented a fluid two-column layout of my own but you can't 
 see it because I went back to the old layout to stay in sync with the course.
 
