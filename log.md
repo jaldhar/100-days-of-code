@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 27: April 18, 2017
+
+**Today's Progress**: Finished Responsive Web Design course from The Gymnasium
+
+**Thoughts**:
+
+It turns out yesterdays problem was nothing to do with code.  I had
+inadvertently corrupted the hamburger image.  I must remember to take this
+into consideration when debugging in the future.
+
+I finished the Responsive Web Design Course.  I learned a lot but the lectures
+were recorded in 2014 and in web development terms that's ancient history.
+For instance supporting Internet Explorer isn't a big deal anymore and HTML5
+features such as the picture element are more widely supported.  Other
+important topics such as flexbox were not covered at all. All in all I would
+give it an 8/10.
+
+**Links to work:**
+
+* [Responsive Portfolio](http://www.braincells.com/webdev/responsive-portfolio/)
+
 ## Day 26: April 17, 2017
 
 **Today's Progress**: Continued Responsive Web Design course from The Gymnasium
