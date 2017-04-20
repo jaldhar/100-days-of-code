@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+## Day 28: April 19, 2017
+
+**Today's Progress**: Went to Android meetup; Started Wikipedia Viewer
+
+**Thoughts**:
+
+Today I went to a meetup organized by New York Android Developers. There were
+two talks, one on using Exoplayer as a replacement for the MediaPlayer class 
+and one on Android Lint and writing custom rules for it.
+
+Android development is another interest of mine.  I have a few apps in the 
+Play Store and some more in various stages of completion on my laptop.  It's a 
+possible career too.  I actually started the Udacity NanoDegree program a 
+while ago but didn't pursue it very far.  As I am actually paying money each 
+month for it and after receiving the latest bill I thought that I should 
+finish it once and for all and attending this meetup was to be the beginning 
+of the process.
+
+But this is another bad habit of mine.  I start things, sometimes get as far 
+as 90% of the way through them and then drop them before completion.  As one 
+of my reasons for doing the 100 Days of Code challenge is to improve my 
+self-discipline,  I decided that I must complete the FreeCodeCamp front-end
+certificate before I go to Android in earnest.
+
+So even though I was tired and wanted to go to sleep, I forced myself to atleast
+start the Wikipedia Viewer project today.
+
+
+**Links to work:**
+
+* [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
+
 ## Day 27: April 18, 2017
 
 **Today's Progress**: Finished Responsive Web Design course from The Gymnasium
