@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 29: April 20, 2017
+
+**Today's Progress**: Continued Wikipedia Viewer
+
+**Thoughts**:
+
+Made progress on the wikipedia viewer.  Copying the functionality of the
+example project without peeking at the code has been frustrating but enjoyable.
+
+Take for example getting the close icon to appear at the right of the search
+box.  Initially gave me a great deal of difficulty but then I had an epiphany;
+instead of drawing a border around the input element and then somehow fitting
+a close icon into it, I could just draw a border around the whole div that
+wraps them both.
+
+Recreating the rest of the UI was simple.  I haven't matched the color scheme 
+and fonts 100% correctly but what I have looks good enough IMO.  Tommorow I 
+will write the code to actually fetch results from the Wikipedia API.
+
+
+**Links to work:**
+
+* [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
+
 ## Day 28: April 19, 2017
 
 **Today's Progress**: Went to Android meetup; Started Wikipedia Viewer
