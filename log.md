@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 30: April 21, 2017
+
+**Today's Progress**: Continued Wikipedia Viewer; Learned CSS transitions and transformations
+
+**Thoughts**:
+
+I was hoping to finish the wikipedia viewer today but I got waylaid with
+learning about CSS transitions and transformations.  I want to replicate the
+way the search box expands like in the example project but I'm afraid I still
+haven't got it right though I feel I am close.  So I am still resisting the
+urge to peek at their code for now.
+
+**Links to work:**
+
+* [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
+
 ## Day 29: April 20, 2017
 
 **Today's Progress**: Continued Wikipedia Viewer
