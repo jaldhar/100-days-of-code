@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 31: April 22, 2017
+
+**Today's Progress**: Still working on Wikipedia Viewer
+
+**Thoughts**:
+
+The good news is that I can now make the search box expand as it should.  The
+bad news is I don't seem to be able to make it contract again and I don't
+understand why.  Please take a look at the codepen linked below and let me
+know what I'm doing wrong.
+
+**Links to work:**
+
+* [Codepen illustrating my problem](https://codepen.io/jaldhar/pen/PmzdmY/)
+* [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
+
 ## Day 30: April 21, 2017
 
 **Today's Progress**: Continued Wikipedia Viewer; Learned CSS transitions and transformations
