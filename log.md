@@ -13,7 +13,7 @@ know what I'm doing wrong.
 
 **Links to work:**
 
-* [Codepen illustrating my problem](https://codepen.io/jaldhar/pen/PmzdmY/)
+* [Codepen illustrating my problem](https://codepen.io/jaldhar/details/PmzdmY/)
 * [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
 
 ## Day 30: April 21, 2017
