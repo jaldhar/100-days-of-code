@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 32: April 23, 2017
+
+**Today's Progress**: Success with Wikipedia Viewer searchbox
+
+**Thoughts**:
+
+Even though I was distracted by household chores and Amazon delivering a brand
+new smartphone to me.  (ZTE Axon 7 if you're interested) I did manage to put in
+some solid time today and I finally got the searchbox to expand and contract
+properly.  Take a look at the linked codepen to see how I did it. I learned
+more about CSS in the last few days than I have in my whole life so I'm very
+proud of this though there are better ways of achieving this effect in a
+real-life scenario. (e.g. jQuery and its various animation plugins.)
+
+I ran out of time to finish the project but I hope to do so tomorrow.
+
+**Links to work:**
+
+* [A Searchbox That Expands From an Icon and Contracts Again](https://codepen.io/jaldhar/details/PmzdmY/)
+* [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
+
 ## Day 31: April 22, 2017
 
 **Today's Progress**: Still working on Wikipedia Viewer
