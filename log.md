@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 33: April 24, 2017
+
+**Today's Progress**: Continuing work Wikipedia Viewer
+
+**Thoughts**:
+
+I really ought to submit the wikipedia viewer and be done with the damn thing 
+but I noticed something.  It should have been obvious but I only noticed now 
+that the wikipedia API query only gives you a maximum of 10 items no matter 
+how many hits a search term gets.  You are supposed to "page" through the 
+results 10 at a time.  This is to reduce load I imagine.  The simple way to 
+implement this would be to have a "next" button (and "previous" to go back in 
+the result set) which would keep track of an offset and then get those items.
+However modern sites seem to eschew this approach and have instead have an
+"infinite scroll" effect where going to the bottom the page instantly loads the
+next page of results.  So I researched how to implement this and soon ran out
+of time.  If I can't get this working by tomorrow, I'm just going to submit it
+as-is.  I've got to keep moving.
+
+**Links to work:**
+
+* [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
+
 ## Day 32: April 23, 2017
 
 **Today's Progress**: Success with Wikipedia Viewer searchbox
