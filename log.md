@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+## Day 34: April 24, 2017
+
+**Today's Progress**: No progress :(
+
+**Thoughts**:
+
+My new phone arrived from Amazon.  It's a ZTE Axion 7 that's miles ahead of my
+old phone in every measure of power you can think off.  I installed LineageOS,
+a custom build of Android on it.  That took a lot of my available time and as
+a result, I did not work on the wikipedia viewer.  I did fulfill my one hour of
+coding requirement by porting a little Android ggame I had made at an earlier
+time but as that didn't really involve learning anything new, I consider the
+day a loss.
+
+And it has me worried.  It's been a week since I started the wikipedia viewer 
+project and I really should have been done in half that time. I recognize this 
+pattern in myself where I start doing something with enthusiasm and then 
+slowly lose momentum eventually leaving it incomplete. The whole point of doing
+this challenge was to break out that behavior so I'm a little depressed that
+I can still be distracted that easily.  But I won't give up the fight just yet!
+
+
+**Links to work:**
+
+* [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
+
 ## Day 33: April 24, 2017
 
 **Today's Progress**: Continuing work Wikipedia Viewer
