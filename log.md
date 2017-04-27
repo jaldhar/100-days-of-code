@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
-## Day 34: April 24, 2017
+## Day 35: April 26, 2017
+
+**Today's Progress**: Finished Wikipedia Viewer
+
+**Thoughts**:
+
+I forced myself to finish the wikipedia viewer.  I even improved my previous 
+design a bit by using client-side templates using 
+[Hogan.js](http://twitter.github.io/hogan.js/), Twitters version of the 
+popular Mustache template system.  While there are probably some rough edges,
+I think it is good enough to mark as done so I can move forward once again.
+
+**Links to work:**
+
+* [Wikipedia Viewer](http://www.braincells.com/webdev/wikipedia-viewer/)
+
+## Day 34: April 25, 2017
 
 **Today's Progress**: No progress :(
 
