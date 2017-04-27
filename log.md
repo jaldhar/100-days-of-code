@@ -12,6 +12,9 @@ design a bit by using client-side templates using
 popular Mustache template system.  While there are probably some rough edges,
 I think it is good enough to mark as done so I can move forward once again.
 
+I should mention I didn't implement infinite scrolling in the end but I do want
+to visit that at some point in the future.
+
 **Links to work:**
 
 * [Wikipedia Viewer](http://www.braincells.com/webdev/wikipedia-viewer/)
