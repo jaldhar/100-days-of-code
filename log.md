@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 36: April 27, 2017
+
+**Today's Progress**: Started work on Twitch.tv API project
+
+**Thoughts**:
+
+I started the next freeCodeCamp front-end certificate project.  Mainly, I did
+a lot of reading to see how their API works so there is not much to see at the
+moment.
+
+**Links to work:**
+
+* [Twitch.tv JSON API](http://www.braincells.com/webdev/twitch-api/)
+
 ## Day 35: April 26, 2017
 
 **Today's Progress**: Finished Wikipedia Viewer
