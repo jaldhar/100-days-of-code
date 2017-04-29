@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Day 37: April 28, 2017
+
+**Today's Progress**: Continued work on Twitch.tv API project
+
+**Thoughts**:
+
+The javascript to access the API has been straightforward but getting the
+filter buttons to toggle as in the example project has been an interesting
+challenge.  Using javascript should be easy but it seems to me I should be
+able to do it in pure css if I can just figure out how.
+
+My first inclination was to have actual radio buttons and labels in a form.
+But that didn't work because something (bootstrap?) kept leaving a space for
+the label.  Normally you'd want that to make the radio buttons line up neatly
+but this time I wanted the opposite.
+
+So I've fade fake radio buttons and labels out of divs and spans for what ought
+to be more control.  But the same thing happens.
+
+Oh well let me sleep on this mystery and maybe it will solve itself tomorrow.
+
+**Links to work:**
+
+* [Twitch.tv JSON API](http://www.braincells.com/webdev/twitch-api/)
+
 ## Day 36: April 27, 2017
 
 **Today's Progress**: Started work on Twitch.tv API project
