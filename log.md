@@ -16,7 +16,7 @@ But that didn't work because something (bootstrap?) kept leaving a space for
 the label.  Normally you'd want that to make the radio buttons line up neatly
 but this time I wanted the opposite.
 
-So I've fade fake radio buttons and labels out of divs and spans for what ought
+So I've made fake radio buttons and labels out of divs and spans for what ought
 to be more control.  But the same thing happens.
 
 Oh well let me sleep on this mystery and maybe it will solve itself tomorrow.
