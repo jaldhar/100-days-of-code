@@ -23,7 +23,7 @@ Oh well let me sleep on this mystery and maybe it will solve itself tomorrow.
 
 **Links to work:**
 
-* [Twitch.tv JSON API](http://www.braincells.com/webdev/twitch-api/)
+* [Twitch.tv JSON API (WIP)](http://www.braincells.com/webdev/twitch-api/)
 
 ## Day 36: April 27, 2017
 
@@ -37,7 +37,7 @@ moment.
 
 **Links to work:**
 
-* [Twitch.tv JSON API](http://www.braincells.com/webdev/twitch-api/)
+* [Twitch.tv JSON API (WIP)](http://www.braincells.com/webdev/twitch-api/)
 
 ## Day 35: April 26, 2017
 
