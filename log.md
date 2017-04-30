@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 38: April 29, 2017
+
+**Today's Progress**: Continued work on Twitch.tv API project
+
+**Thoughts**:
+
+Being the weekend, household chores and dinner with my parents left little
+time for coding but what I did have was very productive.  I got the CSS toggle
+effect to work without going to stackoverflow or github or anyone elses code.
+It turns out I did need radio buttons after all or atleast that is the most
+straightforward way to implement this effect.  However a problem with radio
+buttons is as far as I can see there is no way to style them.  I'll have to
+think about this.
+
+**Links to work:**
+
+* [Twitch.tv JSON API (WIP)](http://www.braincells.com/webdev/twitch-api/)
+
 ## Day 37: April 28, 2017
 
 **Today's Progress**: Continued work on Twitch.tv API project
