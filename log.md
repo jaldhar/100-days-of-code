@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 39: April 30, 2017
+
+**Today's Progress**: Continued work on Twitch.tv API project
+
+**Thoughts**:
+
+This log is very late because of an Internet outage which couldn't have come
+at a worse time.  I was _this_ close to having the Twitch.tv project done and
+shipped.  I still haven't figured out the radio button thing but that is just
+cosmetic.
+
+**Links to work:**
+
+* [Twitch.tv JSON API (WIP)](http://www.braincells.com/webdev/twitch-api/)
+
 ## Day 38: April 29, 2017
 
 **Today's Progress**: Continued work on Twitch.tv API project
