@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 40: May 1, 2017
+
+**Today's Progress**: Finished Twitch.tv API project
+
+**Thoughts**:
+
+The Twitch.tv project is done and submitted.  I couldn't resist trying to do
+the radio button toggle effect and I finally got it with a little help from
+the internet.  It turns out you need both real radio buttons for the clicking
+_and_ fake ones so you can style them.  Now it's onwards to the advanced
+projects.  I think I will start with the calculator first.  It looks
+interesting.
+
+Also I attended a meeting of the New York Perl Mongers today.  It was an
+interesting talk about XML.  I need to get back into Perl.  It is so much
+better than JavaScript IMO.
+
+**Links to work:**
+
+* [Twitch.tv JSON API](http://www.braincells.com/webdev/twitch-api/)
+
 ## Day 39: April 30, 2017
 
 **Today's Progress**: Continued work on Twitch.tv API project
