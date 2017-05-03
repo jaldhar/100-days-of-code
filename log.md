@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 41: May 2, 2017
+
+**Today's Progress**: Started Calculator project
+
+**Thoughts**:
+
+I started the calculator project today.  I am going to use flexbox as it
+makes this kind of tabular layout easy yet responsive.  I have the basic
+key layout done.  I also spent some time reading about parsing and evaluating
+arithmetic in javascript.
+
+Speaking of flexbox, Dave "geddski" Geddes launched his free 
+[Flexbox course](http://flexboxzombies.com/p/flexbox-zombies) yesterday.
+I went through the first couple of chapters. So far it is pretty simple
+but I hope I can learn more advanced flexbox usage through it.
+
+**Links to work:**
+
+* [Calculator](http://www.braincells.com/webdev/calculator/)
+
 ## Day 40: May 1, 2017
 
 **Today's Progress**: Finished Twitch.tv API project
