@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 42: May 3, 2017
+
+**Today's Progress**: Continuing Calculator project
+
+**Thoughts**:
+
+I didn't have a lot of time today. But I managed to improve the CSS for the 
+calculator quite a bit.  I wrote some code for evaluating arithmetic.  But it 
+turns out that is unnecessary because JavaScripts inbuilt eval function can do 
+the job.  So I took it out again.  Some say eval is insecure but that is only 
+if you feed it unfiltered user input.  We restrict input to that which comes 
+from the buttons only.  Eval also does the right thing in regards to order of 
+operations which I noticed the sample calculator does not.  I.e. 3+5*6 should 
+be 33 not 48.
+
+I also did another chapter of Flexbox Zombies.
+
+**Links to work:**
+
+* [Calculator (WIP)](http://www.braincells.com/webdev/calculator/)
+
 ## Day 41: May 2, 2017
 
 **Today's Progress**: Started Calculator project
@@ -18,7 +39,7 @@ but I hope I can learn more advanced flexbox usage through it.
 
 **Links to work:**
 
-* [Calculator](http://www.braincells.com/webdev/calculator/)
+* [Calculator (WIP)](http://www.braincells.com/webdev/calculator/)
 
 ## Day 40: May 1, 2017
 
