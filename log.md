@@ -1,8 +1,26 @@
 # 100 Days Of Code - Log
 
-## Day 42: May 3, 2017
+## Day 43: May 3, 2017
 
 **Today's Progress**: Continuing Calculator project
+
+**Thoughts**:
+
+The calculator is essentially complete but there are a couple of small logic
+problems to be chased down and I'm too tired for that right now.
+
+I couldn't resist one more UI improvement, namely an LCD font for the output.
+I was surprised that [Google fonts](https://google.com/fonts) doesn't have on or maybe I couldn't find
+it with their, ironically, horrible search.  [Font Squirrel](https://www.fontsquirrel.com) does.
+They even have a service to convert it into a webfont which I did.
+
+**Links to work:**
+
+* [Calculator (WIP)](http://www.braincells.com/webdev/calculator/)
+
+## Day 42: May 3, 2017
+
+**Today's Progress**: Continuing Calculator project; Flexbox Zombies
 
 **Thoughts**:
 
