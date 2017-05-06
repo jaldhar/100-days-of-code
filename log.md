@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
-## Day 43: May 3, 2017
+## Day 44: May 5, 2017
+
+**Today's Progress**: Finished Calculator project
+
+**Thoughts**:
+
+I redid all the key handling code and reimplemented it as a state machine.  It's
+much cleaner and bug-free now. The app is complete and has been submitted to
+freeCodeCamp.
+
+Next I'm going to do the Tic-tac-toe (or as I know it better, noughts and
+crosses.) project.  I've already made a prototype which plays the game but not
+intelligently.  This will be the next step along with UI improvements.
+
+
+**Links to work:**
+
+* [Calculator](http://www.braincells.com/webdev/calculator/)
+
+## Day 43: May 4, 2017
 
 **Today's Progress**: Continuing Calculator project
 
