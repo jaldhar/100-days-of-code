@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 45: May 6, 2017
+
+**Today's Progress**: Debugging Calculator project
+
+**Thoughts**:
+
+I was going to continue with the tic-tac-toe project today but I got reports
+thats there were still a couple of bugs in the calculator which I decided to
+fix.  Unfortunately that used up all my available time.
+
+**Links to work:**
+
+* [Calculator](http://www.braincells.com/webdev/calculator/)
+
 ## Day 44: May 5, 2017
 
 **Today's Progress**: Finished Calculator project
