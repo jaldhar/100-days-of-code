@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 46: May 7, 2017
+
+**Today's Progress**: Tic-tac-toe project
+
+**Thoughts**:
+
+I spent some time learning about the minmax AI algorithm today.  I'm going to
+need this for my games computer player mode.  I'm not a 100% there yet but I
+think I am slowly getting it.  As the state machine approach worked well for
+the calculator, I rewrote the tic-tac-toe prototype to use it.
+
+This is all infrastructure stuff so there is not much to see yet but I think
+I've got a good foundation set up.
+
+**Links to work:**
+
+* [Tic Tac Toe](http://www.braincells.com/webdev/tic-tac-toe/)
+
 ## Day 45: May 6, 2017
 
 **Today's Progress**: Debugging Calculator project
