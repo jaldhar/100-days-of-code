@@ -1,8 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 47: May 8, 2017
+
+**Today's Progress**: Continued Tic-tac-toe project
+
+**Thoughts**:
+
+Once again I did not have a lot of time.  I decided that O's and X's are boring
+so I've given the project a fun fantasy theme.  The AI works.  (In weak form not
+minmax just yet.)  I need to complete the setup screen and then I'm done.
+
+**Links to work:**
+
+* [Orcs & Elves (AKA Tic Tac Toe) (WIP)](http://www.braincells.com/webdev/tic-tac-toe/)
+
 ## Day 46: May 7, 2017
 
-**Today's Progress**: Tic-tac-toe project
+**Today's Progress**: Continued Tic-tac-toe project
 
 **Thoughts**:
 
@@ -16,7 +30,7 @@ I've got a good foundation set up.
 
 **Links to work:**
 
-* [Tic Tac Toe](http://www.braincells.com/webdev/tic-tac-toe/)
+* [Tic Tac Toe (WIP)](http://www.braincells.com/webdev/tic-tac-toe/)
 
 ## Day 45: May 6, 2017
 
