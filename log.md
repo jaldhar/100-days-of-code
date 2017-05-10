@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 48: May 9, 2017
+
+**Today's Progress**: Alas! Still on Tic-tac-toe project
+
+**Thoughts**:
+
+I thought I was almost done but got derailed at the last minute because 
+apparently event handlers behave strangely with &lt;button&gt; tags.  Changing
+it to &lt;input type="button"&gt; made everything work but I lost a lot of time
+figuring it out.  On the bright side I was able to figure it out.
+
+As I write this, I've noticed another bug where the game doesn't end properly
+if both players are humans (i.e. not AI) and it is a draw.  I think I know why
+but I'm too tired to deal with it now so it will have to wait until tomorrow.
+
+I also attended the New York Android Developers meetup today.  One talk was
+about RxJava which I haven't looked at yet and the other was about a library
+called Conductor which replaces/supplements fragments which is something I
+haven't needed to do yet.  Despite this, attending was still worthwhile IMO.
+
+**Links to work:**
+
+* [Orcs & Elves (AKA Tic Tac Toe) (WIP)](http://www.braincells.com/webdev/tic-tac-toe/)
+
 ## Day 47: May 8, 2017
 
 **Today's Progress**: Continued Tic-tac-toe project
