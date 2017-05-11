@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 49: May 10, 2017
+
+**Today's Progress**: Completed Tic-tac-toe (for now.) Began Simon game 
+
+**Thoughts**:
+
+My minmax is not working properly.  So I submitted this project with a much
+weaker one which just randomly picks a square.  It looks like I will have to
+investigate this in greater depth but for now, in order to keep up momentum,
+I am setting it aside and moving on to the Simon game project.
+
+**Links to work:**
+
+* [Orcs & Elves (AKA Tic Tac Toe)](http://www.braincells.com/webdev/tic-tac-toe/)
+
 ## Day 48: May 9, 2017
 
 **Today's Progress**: Alas! Still on Tic-tac-toe project
