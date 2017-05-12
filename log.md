@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 50: May 11, 2017
+
+**Today's Progress**: Continued Simon game 
+
+**Thoughts**:
+
+I am half way through the 100 days of code challenge.
+
+I Did not have much time to code today.  I made a small change to the Orcs
+and Elves game based on feedback and the minmax code works now making the
+AI much more challenging.
+
+The majority of my time was spent on the Simon game.  So far there is not much
+to see but things are progressing behind the scenes.
+
+**Links to work:**
+
+* [Simon (WIP)](http://www.braincells.com/webdev/simon/)
+
 ## Day 49: May 10, 2017
 
 **Today's Progress**: Completed Tic-tac-toe (for now.) Began Simon game 
