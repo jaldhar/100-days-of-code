@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 51: May 12, 2017
+
+**Today's Progress**: Continued Simon game 
+
+**Thoughts**:
+
+I'm running into a problem with the CSS for the Simon game.  I need a circle
+within a circle which seems like it should be easy enough to do but if you
+look at what I have now, there are unsightly "peaks" at the top and bottom of
+my inner circle.  (This is in chrome, it's worse on firefox.)  I don't
+understand why.  I'm going to sleep on this for now but I can't figure it out
+now, I will have to ask for help.
+
+**Links to work:**
+
+* [Simon (WIP)](http://www.braincells.com/webdev/simon/)
+
 ## Day 50: May 11, 2017
 
 **Today's Progress**: Continued Simon game 
