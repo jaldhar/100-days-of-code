@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 52: May 13, 2017
+
+**Today's Progress**: Continued Simon game 
+
+**Thoughts**:
+
+With a little hint from a friendly freecodecamper, I solved my CSS problem but
+it took a lot of the meager time that was available today.  I learned about
+the web audio api which I'm going to need to create the beeps for the game.
+
+**Links to work:**
+
+* [Simon (WIP)](http://www.braincells.com/webdev/simon/)
+
 ## Day 51: May 12, 2017
 
 **Today's Progress**: Continued Simon game 
