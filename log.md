@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 53: May 14, 2017
+
+**Today's Progress**: Continued Simon game 
+
+**Thoughts**:
+
+As today was Mothers Day as well as a normal domestic weekend day, not a lot of
+coding got done.  I did manage to finish the rest of the Simon game UI.  Now
+all I need to do is the JavaScript.  Let's see if I can put in some solid time
+tomorrow.
+
+**Links to work:**
+
+* [Simon (WIP)](http://www.braincells.com/webdev/simon/)
+
 ## Day 52: May 13, 2017
 
 **Today's Progress**: Continued Simon game 
