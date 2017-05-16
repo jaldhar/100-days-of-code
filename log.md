@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 54: May 15, 2017
+
+**Today's Progress**: Continued Simon game 
+
+**Thoughts**:
+
+Today turned out to be more hectic than I had hoped so I have not finished the
+game but steady progress has been made.
+
+**Links to work:**
+
+* [Simon (WIP)](http://www.braincells.com/webdev/simon/)
+
 ## Day 53: May 14, 2017
 
 **Today's Progress**: Continued Simon game 
