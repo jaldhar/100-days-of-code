@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 55: May 15, 2017
+
+**Today's Progress**: Continued Simon game; Learned about Phaser framework.
+
+**Thoughts**:
+
+Work on the Simon game continues apace.
+
+This evening I attended a presentation by [Playcrafting NYC](https://www.playcrafting.com/) introducing
+the [Phaser](http://phaser.io/) JavaScript game framework.  We built a little
+game which shows the basics of this powerful framework. One day I would like
+to explore this further and make a real game.  But some other day.  For now it
+is back to Simon.
+
+**Links to work:**
+
+* [Simon (WIP)](http://www.braincells.com/webdev/simon/)
+* [An Introduction to Phaser](https://github.com/jaldhar/intro-to-phaser)
+
 ## Day 54: May 15, 2017
 
 **Today's Progress**: Continued Simon game 
