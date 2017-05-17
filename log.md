@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
-## Day 55: May 15, 2017
+## Day 56: May 17, 2017
+
+**Today's Progress**: Continued Simon game
+
+**Thoughts**:
+
+The Simon game is now pretty much complete with one huge exception.  The sounds.
+Playing a sound with the Web Audio API reliably locks up the browser. Browsers
+I should say--this happens on Firefox for Linux and Chrome for windows and 
+Linux so I'm pretty sure its a problem in my code and not a browser bug.  I also
+need to review my use of timers.  I use them to make sure the color sequence
+doesn't occur to rapidly but it sometimes goes faster and sometimes slower for
+as yet unknown reasons.  It may even be related to the sound problem.
+
+This has definitely been the toughest project to date.
+
+**Links to work:**
+
+* [Simon (WIP)](http://www.braincells.com/webdev/simon/)
+
+## Day 55: May 16, 2017
 
 **Today's Progress**: Continued Simon game; Learned about Phaser framework.
 
