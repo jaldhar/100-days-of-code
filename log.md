@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 57: May 18, 2017
+
+**Today's Progress**: Finished Simon game
+
+**Thoughts**:
+
+Finished at last.  I abandoned the web audio api and just kept the sounds as
+audio elements in the HTML.  As it's already very late, I'm going to wait until 
+tomorrow to submit this just to check for any latent bugs but I think it is
+pretty solid.
+
+**Links to work:**
+
+* [Simon](http://www.braincells.com/webdev/simon/)
+
 ## Day 56: May 17, 2017
 
 **Today's Progress**: Continued Simon game
