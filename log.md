@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 58: May 19, 2017
+
+**Today's Progress**: Began Pomodoro clock challenge
+
+**Thoughts**:
+
+I started the challenge.  There is not much to see at the moment but I have
+a design in mind so I "merely" have to implement it.
+
+I couldn't resist tinkering with the Simon game (which is still unsubmitted by
+the way.)  I realize I am missing one feature namely a timeout if you don't
+press a key fast enough.  Also I'd like different sounds for errors or if you
+win.  I'll revisit these issues after I've worked more on the Pomodoro clock.
+
+
+**Links to work:**
+
+* [Pomodoro Clock (WIP)](http://www.braincells.com/webdev/pomodoro/)
+
 ## Day 57: May 18, 2017
 
 **Today's Progress**: Finished Simon game
