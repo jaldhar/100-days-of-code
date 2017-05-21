@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 59: May 20, 2017
+
+**Today's Progress**: Continued Pomodoro clock.
+
+**Thoughts**:
+
+Another short day where real life intruded on my coding time.  I did manage
+to make some progress on the pomodoro clock though.  The main thing was some
+architectural changes.  I was initially going to use the spinner from jQueryUI
+but the HTML5 input type=number should be sufficient.  (I'm still going to use
+jQuery itself for the logic.)  I was also going to hand code the CSS.  I'm now
+using bootstrap instead.
+
+**Links to work:**
+
+* [Pomodoro Clock (WIP)](http://www.braincells.com/webdev/pomodoro/)
+
 ## Day 58: May 19, 2017
 
 **Today's Progress**: Began Pomodoro clock challenge
