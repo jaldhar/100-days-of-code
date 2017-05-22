@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 60: May 21, 2017
+
+**Today's Progress**: Continued Pomodoro clock.
+
+**Thoughts**:
+
+The Pomodoro clock is almost done.  It is functionally complete but I want
+to add an effect where the border turns color according to the percentage of
+time elapsed.  I think I know how it should work but I'm not quite there yet.
+
+**Links to work:**
+
+* [Pomodoro Clock (WIP)](http://www.braincells.com/webdev/pomodoro/)
+
 ## Day 59: May 20, 2017
 
 **Today's Progress**: Continued Pomodoro clock.
