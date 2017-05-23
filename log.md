@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 61: May 21, 2017
+
+**Today's Progress**: Still not done with Pomodoro clock.
+
+**Thoughts**:
+
+Aargh this is so frustrating.  My radial progress effect is just not working
+and I don't know why.  I'm going to sleep in the hopes that this problem will
+magically resolve itself overnight.
+
+**Links to work:**
+
+* [Pomodoro Clock (WIP)](http://www.braincells.com/webdev/pomodoro/)
+
 ## Day 60: May 21, 2017
 
 **Today's Progress**: Continued Pomodoro clock.
