@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+## Day 62: May 22, 2017
+
+**Today's Progress**: Pomodoro clock finished at last!  Wrote interpreter in C
+
+**Thoughts**:
+
+Hooray got the radial progress bar  working. I made a few more cosmetic changes.
+I used Comic Sans!  (Though as a respectable web designer I only used it as a
+a fallback for Brush Script MT so don't drum me out of polite society yet.) I
+feel comfortable submitting this but I shall wait one more day to see if I 
+can get some critique from freecodecampers.
+
+As I was researching my radial progress problem, I came across [a stackexchange entry](https://codegolf.stackexchange.com/questions/121921/make-a-interpreter.)
+about an esoteric programming language called ;# that only has two
+instructions: ';' and of course '#'.  I had to try and make an interpreter for it.
+
+I also wanted to see how small I could make the executable.  I did a lot of reading
+about assembly language, and Linux syscalls, compiler flags and so on and I
+eventually got it down to 1064 bytes.  I think it could get smaller than that 
+though just how is beyond my current capabilities.
+
+**Links to work:**
+
+* [Pomodoro Clock](http://www.braincells.com/webdev/pomodoro/)
+* [;# interpreter](https://github.com/jaldhar/semicolonhash)
+
 ## Day 61: May 21, 2017
 
 **Today's Progress**: Still not done with Pomodoro clock.
