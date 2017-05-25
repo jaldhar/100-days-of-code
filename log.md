@@ -22,6 +22,16 @@ in 30 bite-size morsels" which sounds like it could work.
 I should also do some algorithms practice by starting hackerrank or codefights
 again.
 
+I neglected to mention that I attended the New York Perlmongers tech meeting
+this evening.  There were two talks both given by people who will be presenting
+at this years Perl conference.  (Which sadly I will not be able to attend barring
+a miracle.)  The second was about the inner workings of the Perl QA and release
+processes.  Interesting in its own way but not nearly as much as the first talk
+which was an overview of many of the most interesting modules which have been
+uploaded to CPAN this year.  Although it is no longer in the limelight as much
+these days, there is still a lot of life left in the Perl community so that's
+another avenue I'd like to explore.
+
 **Links to work:**
 
 * [Pomodoro Clock](http://www.braincells.com/webdev/pomodoro/)
