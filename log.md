@@ -1,6 +1,33 @@
 # 100 Days Of Code - Log
 
-## Day 62: May 22, 2017
+## Day 63: May 24, 2017
+
+**Today's Progress**: Got freeCodeCamp frontend cert
+
+**Thoughts**:
+
+I submitted the last two challenges, the Simon game and the Pomodoro clock and
+claimed my certificate.  Altogether it has taken me approximately 200 hours over
+9 weeks to finish.
+
+So what next?  I want to take a break from webdev and (re)start the Udacity
+Android dev nanodegree.  I expect that will take most of my free time.
+
+I also would like to polish up my portfolio and projects and I want to do the
+Roguelike Dungeon Crawler challenge from the next freeCodeCamp certificate
+just because it's a roguelike.  That will involve learning react which is a
+daunting proposition.  I have a book called ["30 days of React"](https://www.fullstackreact.com/30-days-of-react/) whose subtitle is "An introduction to React
+in 30 bite-size morsels" which sounds like it could work.
+
+I should also do some algorithms practice by starting hackerrank or codefights
+again.
+
+**Links to work:**
+
+* [Pomodoro Clock](http://www.braincells.com/webdev/pomodoro/)
+* [Simon](http://www.braincells.com/webdev/simon/)
+
+## Day 62: May 23, 2017
 
 **Today's Progress**: Pomodoro clock finished at last!  Wrote interpreter in C
 
@@ -8,8 +35,8 @@
 
 Hooray got the radial progress bar  working. I made a few more cosmetic changes.
 I used Comic Sans!  (Though as a respectable web designer I only used it as a
-a fallback for Brush Script MT so don't drum me out of polite society yet.) I
-feel comfortable submitting this but I shall wait one more day to see if I 
+a fallback for Brush Script MT so don't drum me out of polite society just yet.)
+I feel comfortable submitting this but I shall wait one more day to see if I 
 can get some critique from freecodecampers.
 
 As I was researching my radial progress problem, I came across [a stackexchange entry](https://codegolf.stackexchange.com/questions/121921/make-a-interpreter.)
@@ -26,7 +53,7 @@ though just how is beyond my current capabilities.
 * [Pomodoro Clock](http://www.braincells.com/webdev/pomodoro/)
 * [;# interpreter](https://github.com/jaldhar/semicolonhash)
 
-## Day 61: May 21, 2017
+## Day 61: May 22, 2017
 
 **Today's Progress**: Still not done with Pomodoro clock.
 
