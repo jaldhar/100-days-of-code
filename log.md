@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 64: May 25, 2017
+
+**Today's Progress**: Restarted Udacity Android Dev nanodegree; Learned about React; Started compiler tutorial
+
+
+**Thoughts**:
+
+I (re)started the Udacity Android Dev nanodegree.  Nothing to show yet; I just watched some videos and updated Android Studio.
+
+I read Day 1 (which was short and introductory) and Day 2 of 30 Days of React.  Again nothing to show yet; it's all theory and definitions so far.
+
+I found an old tutorial in 16 parts by  Jack Crenshaw called "Let's Build a Compiler")
+and thought that might be interesting to pursue.  His examples are written in
+Pascal but I shall use C++.  So far my git repository only includes the articles.
+I'll start work in earnest tomorrow.
+
+**Links to work:**
+
+[Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
+
 ## Day 63: May 24, 2017
 
 **Today's Progress**: Got freeCodeCamp frontend cert
@@ -16,7 +36,7 @@ Android dev nanodegree.  I expect that will take most of my free time.
 I also would like to polish up my portfolio and projects and I want to do the
 Roguelike Dungeon Crawler challenge from the next freeCodeCamp certificate
 just because it's a roguelike.  That will involve learning react which is a
-daunting proposition.  I have a book called ["30 days of React"](https://www.fullstackreact.com/30-days-of-react/) whose subtitle is "An introduction to React
+daunting proposition.  I have a book called ["30 Days of React"](https://www.fullstackreact.com/30-days-of-react/) whose subtitle is "An introduction to React
 in 30 bite-size morsels" which sounds like it could work.
 
 I should also do some algorithms practice by starting hackerrank or codefights
