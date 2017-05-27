@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 65: May 25, 2017
+
+**Today's Progress**: Restarted Udacity Android Dev nanodegree; Learned about React; Started compiler tutorial
+
+
+**Thoughts**:
+
+My mother had an operation to have a pacemaker involved and I accompanied her.
+Plus as the Friday before the Memorial Day long weekend, there was not much
+going on at work so I got a lot of coding done and, rarely for me, during the
+daytime too.
+
+I watched nearly all the material design videos from Udacity.
+
+Day 3 of 30 Days of React.  Now we are getting to the good stuff: components.  
+This was illustrated with a basic "Hello world" example.
+
+I translated part 1 of "Let's Build a Compiler" into c++.  This is all the
+support routines which will be needed for the compiler.
+
+**Links to work:**
+
+[Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
+
 ## Day 64: May 25, 2017
 
 **Today's Progress**: Restarted Udacity Android Dev nanodegree; Learned about React; Started compiler tutorial
