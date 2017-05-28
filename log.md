@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 66: May 26, 2017
+
+**Today's Progress**: Started XYZ Reader project from Udacity Android Dev nanodegree
+
+**Thoughts**:
+
+I finished the rest of the "Make Your App Material" course on material design
+and began the associated project; beautifying the XYZ Reader app.  I had 
+problems with Android Studio which I only rectified after a lot of fiddling
+around so no work got done apart from importing the project into my github.
+
+No react or let's build a compiler today.
+
+**Links to work:**
+
+[XYZ Reader](https://github.com/jaldhar/xyz-reader)
+
 ## Day 65: May 25, 2017
 
 **Today's Progress**: Restarted Udacity Android Dev nanodegree; Learned about React; Started compiler tutorial
