@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 67: May 27, 2017
+
+**Today's Progress**: Continued XYZ Reader; continued compiler tutorial 
+
+**Thoughts**:
+
+I spent a lot of my time reading through the XYZ Reader source code to understand
+what it does and how.  I tried to make some changes but they didn't seem to work.
+I will have to investigate further tomorrow.
+
+I did part 2 of "Let's Build a Compiler" which involved expression parsing. One
+problem is that the machine code the compiler emits is for the M68K processor. I
+will have to translate it to Intel if I actually want to see if it works which
+means yet another thing to learn.
+
+No react today either.
+
+**Links to work:**
+
+[XYZ Reader](https://github.com/jaldhar/xyz-reader)
+[Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
+
 ## Day 66: May 26, 2017
 
 **Today's Progress**: Started XYZ Reader project from Udacity Android Dev nanodegree
@@ -11,7 +33,7 @@ and began the associated project; beautifying the XYZ Reader app.  I had
 problems with Android Studio which I only rectified after a lot of fiddling
 around so no work got done apart from importing the project into my github.
 
-No react or let's build a compiler today.
+No react or "Let's Build a Compiler" today.
 
 **Links to work:**
 
