@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
-## Day 67: May 27, 2017
+## Day 68: May 29, 2017
+
+**Today's Progress**: continued compiler tutorial 
+
+**Thoughts**:
+
+Today being Memorial Day I was too busy with my family to do much coding. So no
+android or react today.
+
+In the short time available I did part 3 of "Let's Build a Compiler" which 
+finishes up expression parsing.
+
+**Links to work:**
+
+[Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
+
+## Day 67: May 28, 2017
 
 **Today's Progress**: Continued XYZ Reader; continued compiler tutorial 
 
@@ -22,7 +38,7 @@ No react today either.
 [XYZ Reader](https://github.com/jaldhar/xyz-reader)
 [Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
 
-## Day 66: May 26, 2017
+## Day 66: May 27, 2017
 
 **Today's Progress**: Started XYZ Reader project from Udacity Android Dev nanodegree
 
@@ -39,7 +55,7 @@ No react or "Let's Build a Compiler" today.
 
 [XYZ Reader](https://github.com/jaldhar/xyz-reader)
 
-## Day 65: May 25, 2017
+## Day 65: May 26, 2017
 
 **Today's Progress**: Restarted Udacity Android Dev nanodegree; Learned about React; Started compiler tutorial
 
