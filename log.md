@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 69: May 30, 2017
+
+**Today's Progress**: continued compiler tutorial 
+
+**Thoughts**:
+
+My laptop froze for no reason and I had no choice to do a hard reboot destroying
+a lot of todays work.  (In a fit of coding I had gone half an hour without
+commiting to git.  Just as editors have autosave they should have autocommit.)
+I redid it mostly but I'm too disheartened to continue today.  Plus there is
+a bug in the compiler that is causing an incorrect error message.  That's why
+I haven't finished all of part 4 yet.
+
+No android or react today.
+
+**Links to work:**
+
+[Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
+
 ## Day 68: May 29, 2017
 
 **Today's Progress**: continued compiler tutorial 
