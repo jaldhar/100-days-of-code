@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 70: May 31, 2017
+
+**Today's Progress**: continued compiler tutorial 
+
+**Thoughts**:
+
+I've pinpointed where the bug is but I cannot for the life of me understand
+why it is a problem.  I'm going to have to put this aside.  It's taking up
+all my time and I'm not getting anywhere.
+
+No android or react today.
+
+**Links to work:**
+
+[Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
+
 ## Day 69: May 30, 2017
 
 **Today's Progress**: continued compiler tutorial 
