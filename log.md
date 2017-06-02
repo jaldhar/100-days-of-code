@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+## Day 71: June 1, 2017
+
+**Today's Progress**: Learned about Kotlin, Perl 6, and Assembly.
+
+**Thoughts**:
+
+Today was Alternative Language Day.  I found out that Treehouse has a free
+course [introducing Kotlin for Java developers](https://teamtreehouse.com/library/kotlin-for-java-developers).
+Kotlin has been on my radar for a while but now that Google has made it an
+officially supported language on Android knowing about it has gone up in
+priority.  I installed the development version of Android Studio 3 which has
+Kotlin support and watched some of the videos.  In the course a solitaire game
+is built up.  I followed along but don't have my code on github yet.
+
+Green Tea Press announced they are making their book "Think Perl 6" available as
+a [free download](http://greenteapress.com/thinkperl6/thinkperl6.pdf).  I began reading through it.
+
+Although "Let's Build a Compiler" is on hiatus for now, C is not being
+neglected.  Well sort of. On day 62 I had mentioned writing a tiny interpreter
+for a programming language called semicolonhash.  The reason it was so small
+is that instead of linking with the C standard Library (libc) I was directly
+calling the undelying Linux system calls via inline assembly.  Today on a
+whim, I decided to make those syscall, um, callers, pure assembly. libc gives
+you an extra layer over the raw system calls by giving you the error status in
+the errno variable.  I wanted to do the same but ran into some difficulties and
+had to ask on Stack Overflow.  I got it working in the end and the interpreter
+is still only just over 1k in size.
+
+Overall today was a good sign I've left the doldrums of the last few days.
+
+**Links to work:**
+
+* [;# interpreter](https://github.com/jaldhar/semicolonhash)
+
 ## Day 70: May 31, 2017
 
 **Today's Progress**: continued compiler tutorial 
