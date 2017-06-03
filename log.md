@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 72: June 2, 2017
+
+**Today's Progress**: Built Solitaire game in Kotlin.
+
+**Thoughts**:
+
+A slow day at work meant I had a lot more time for coding than usual.  I used it
+to finish watching all but two of the Treehouse Intro to Kotlin videos and
+followed along in code.
+
+Still no react.  I should devote a day to that.
+
+**Links to work:**
+
+* [Solitaire in Kotlin](https://github.com/jaldhar/Solitaire)
+
 ## Day 71: June 1, 2017
 
 **Today's Progress**: Learned about Kotlin, Perl 6, and Assembly.
