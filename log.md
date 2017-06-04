@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 73: June 3, 2017
+
+**Today's Progress**: Built Solitaire game in Kotlin.
+
+**Thoughts**:
+
+Limited time for coding today with family stuff to attend to but I finished off
+the two remaining Kotlin videos and I received a response to my Stack Overflow
+question from a couple of days ago suggesting some improvements to my assembly
+code which I implemented.
+ 
+**Links to work:**
+
+* [Solitaire in Kotlin](https://github.com/jaldhar/Solitaire)
+* [;# interpreter](https://github.com/jaldhar/semicolonhash)
+
 ## Day 72: June 2, 2017
 
 **Today's Progress**: Built Solitaire game in Kotlin.
