@@ -1,8 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 74: June 4, 2017
+
+**Today's Progress**: Android XYZ Reader overhaul continues.
+
+**Thoughts**:
+
+Although I had a good amount of free time for coding today, it was Nirjala
+Ekadashi a Hindu fast day where you do not eat or drink even a drop of water.
+I can manage that fine for most activities but not highly intellectual ones
+like programming.  After the fast has gone on for a while you feel foggy and
+unable to concentrate.  So I focused on reading about Android and Material
+Design and went over the code in XYZ Reader but didn't make any permanent
+changes.
+
+**Links to work:**
+
+[XYZ Reader](https://github.com/jaldhar/xyz-reader)
+
+
 ## Day 73: June 3, 2017
 
-**Today's Progress**: Built Solitaire game in Kotlin.
+**Today's Progress**: Built Solitaire game in Kotlin; small improvements to ;#
 
 **Thoughts**:
 
