@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 75: June 5, 2017
+
+**Today's Progress**: Continuing with Android XYZ Reader; Revisiting Popular Movies
+
+**Thoughts**:
+
+Three Quarters of the way through the 100 Days of Code challenge!
+
+After watching some videos from this years Google I/O conference I am excited 
+about the new architecture components they have introduced for lifecycle management,
+ORM, etc.  As I haven't proceeded far with my udacity projects yet, I am 
+investigating how to integrate them into atleast Popular Movies and maybe
+XYZ Reader too.
+
+**Links to work:**
+
+[Popular Movies](https://github.com/jaldhar/PopularMovies)
+[XYZ Reader](https://github.com/jaldhar/xyz-reader)
+
+
 ## Day 74: June 4, 2017
 
 **Today's Progress**: Android XYZ Reader overhaul continues.
