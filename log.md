@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+## Day 76: June 6, 2017
+
+**Today's Progress**: Started new interpreter tutorial
+
+**Thoughts**:
+
+I feel bad about giving up on Crenshaws' compiler tutorial but it isn't the
+right material for me and would have wasted my time which is in short enough
+supply as it is.  Happily, today I came accross another, similiar, tutorial.
+This one is [by Ruslan Spivak](https://ruslanspivak.com/lsbasi-part1/) It's in
+Python not Pascal so it should be easier to translate to C++.  Ruslan says
+that you should formally commit to learning about interpreters and compilers
+so here is my pledge:
+
+I, Jaldhar H. Vyas, of being sound mind and body, do hereby pledge to commit
+to studying interpreters and compilers starting today and get to a point
+where I know 100% how they work!
+
+Signature: Jaldhar H. Vyas
+
+Date: June 06, 2017
+
+**Links to work:**
+
+[Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
+
+
 ## Day 75: June 5, 2017
 
 **Today's Progress**: Continuing with Android XYZ Reader; Revisiting Popular Movies
