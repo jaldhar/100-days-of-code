@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 78: June 8, 2017
+
+**Today's Progress**: Continued interpreter tutorial and XYZ Reader
+
+**Thoughts**:
+
+Did part 3 of the Interpreter tutorial.  The exercises were mostly on theory.
+The only part that needed code was to reimplement the interpreter on your own
+which I'm doing anyway.
+
+A bit of forward progress with XYZ reader.  It looks better but still doesn't
+conform entirely to the Material Design spec.
+
+**Links to work:**
+
+[Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
+
+
 ## Day 77: June 7, 2017
 
 **Today's Progress**: Continued interpreter tutorial
