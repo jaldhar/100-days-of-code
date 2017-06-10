@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 79: June 9, 2017
+
+**Today's Progress**: Continued XYZ Reader
+
+**Thoughts**:
+
+I didn;t have much time today but I did manage to get some solid work done on
+XYZ reader.  It looks a lot more like a Material app now though I still need to
+make sure all the little details are taken care of.  Nevertheless I'm going to
+go out on a limb and say I will have it finished this weekend.
+
+**Links to work:**
+
+[XYZ Reader](https://github.com/jaldhar/xyz-reader)
+
+
 ## Day 78: June 8, 2017
 
 **Today's Progress**: Continued interpreter tutorial and XYZ Reader
