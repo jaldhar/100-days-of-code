@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 80: June 10, 2017
+
+**Today's Progress**: Continued XYZ Reader
+
+**Thoughts**:
+
+Work contains apace on XYZ reader.  I was having a bit of a problem with
+collapsing toolbars but I was pleased to be able to solve it myself without
+having to ask on a forum or Stack Overflow etc.  It did waste a lot of time
+though.
+ 
+**Links to work:**
+
+[XYZ Reader](https://github.com/jaldhar/xyz-reader)
+
+
 ## Day 79: June 9, 2017
 
 **Today's Progress**: Continued XYZ Reader
