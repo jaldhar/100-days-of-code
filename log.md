@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 81: June 11, 2017
+
+**Today's Progress**: Continued XYZ Reader
+
+**Thoughts**:
+
+Today I just put the finishing touches on XYZ Reader.  Little adjustments to
+make it look good on a tablet etc.  I will submit it tomorrow.
+
+**Links to work:**
+
+[XYZ Reader](https://github.com/jaldhar/xyz-reader)
+
+
 ## Day 80: June 10, 2017
 
 **Today's Progress**: Continued XYZ Reader
