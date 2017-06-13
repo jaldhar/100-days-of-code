@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 82: June 12, 2017
+
+**Today's Progress**: Continued Popular Movies and interpreter tutorial.
+
+**Thoughts**:
+
+Now that XYZ Reader is in the reviewers hands, I continued converting Popular
+Movies (the first project in the Udacity Android nanodegree.) over to the new
+architecture components this might be a bigger job than I had anticipated.
+
+I also did part 4 of the Interpreter tutorial.
+
+**Links to work:**
+
+[Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
+
+
 ## Day 81: June 11, 2017
 
 **Today's Progress**: Continued XYZ Reader
