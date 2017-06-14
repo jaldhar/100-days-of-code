@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 83: June 13, 2017
+
+**Today's Progress**: Continued interpreter tutorial.
+
+**Thoughts**:
+
+I was only able to do the bare minimum today; part 5 of the Interpreter
+tutorial and even then not the exercises.
+
+**Links to work:**
+
+[Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
+
+
 ## Day 82: June 12, 2017
 
 **Today's Progress**: Continued Popular Movies and interpreter tutorial.
