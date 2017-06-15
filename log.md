@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 84: June 14, 2017
+
+**Today's Progress**: Continued interpreter tutorial.
+
+**Thoughts**:
+
+I spent a lot of time upgrading various computers to the next version of Debian
+GNU/Linux, "stretch" which is going to be released this Saturday.  And if I have
+to be honest, a lot of time playing a game called [Little Alchemy](https://play.google.com/store/apps/details?id=com.sometimeswefly.littlealchemy).
+
+But neither of those activities count for this challenge.  What I did do was
+add parentheses to my interpreter which was the exercise in part 5 of the
+tutorial.  It took me a long time but I finally figured it out all by myself
+and I was pleased to see it was basically the same solution as Ruslan gives in
+part 6.
+
+**Links to work:**
+
+[Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
+
+
 ## Day 83: June 13, 2017
 
 **Today's Progress**: Continued interpreter tutorial.
