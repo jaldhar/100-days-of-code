@@ -10,6 +10,12 @@ After rethinking my database schema, things are moving forward once again in the
 rewrite of Popular Movies to use architecture components.  There is still a lot
 of work to do however.
 
+I attended a meetup of the New York Android Developers group in the evening.
+There were two talks; one about navigation design patterns, and the other which
+I was more looking forward to, about the architecture components.  But it 
+turned out not to tell me much I hadn't figured out myself these past few days.
+I actually learned some things from the navigation talk.
+
 **Links to work:**
 
 [Popular Movies](https://github.com/jaldhar/PopularMovies)
