@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 85: June 15, 2017
+
+**Today's Progress**: Continued Popular Movies.
+
+**Thoughts**:
+
+After rethinking my database schema, things are moving forward once again in the
+rewrite of Popular Movies to use architecture components.  There is still a lot
+of work to do however.
+
+**Links to work:**
+
+[Popular Movies](https://github.com/jaldhar/PopularMovies)
+
+
 ## Day 84: June 14, 2017
 
 **Today's Progress**: Continued interpreter tutorial.
