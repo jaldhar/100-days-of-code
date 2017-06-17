@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 86: June 16, 2017
+
+**Today's Progress**: Continued Popular Movies.
+
+**Thoughts**:
+
+A feature I wanted to add to Popular Movies is to check if the user is online
+before trying to fetch movie details from the cloud as the cool kids call it.
+So today I learned about setting this up via a broadcast receiver.  The code
+doesn't quite work but I think it is almost there. I'll debug it tomorrow.
+
+**Links to work:**
+
+[Popular Movies](https://github.com/jaldhar/PopularMovies)
+
+
 ## Day 85: June 15, 2017
 
 **Today's Progress**: Continued Popular Movies.
