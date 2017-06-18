@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 87: June 17, 2017
+
+**Today's Progress**: Continued Popular Movies.
+
+**Thoughts**:
+
+I think the network status broadcast receiver is working properly now but I am
+facing a new problem with updating the database when the status changes.  It
+could potentially happen lots of times in rapid succession if the wifi goes
+in and out so I don't want react every time.  Perhaps I should just inform the
+user and leave it up to him to start the sync instead of doing it automatically.
+I'll think about that tomorrow.
+
+**Links to work:**
+
+[Popular Movies](https://github.com/jaldhar/PopularMovies)
+
+
 ## Day 86: June 16, 2017
 
 **Today's Progress**: Continued Popular Movies.
