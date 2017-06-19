@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 88: June 18, 2017
+
+**Today's Progress**: Continued Popular Movies.
+
+**Thoughts**:
+
+I'm ready to call this complete.  As it is late I'll give it a final once over
+and submit it tomorrow.
+
+**Links to work:**
+
+[Popular Movies](https://github.com/jaldhar/PopularMovies)
+
+
 ## Day 87: June 17, 2017
 
 **Today's Progress**: Continued Popular Movies.
