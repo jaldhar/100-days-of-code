@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 89: June 19, 2017
+
+**Today's Progress**: Started C++ roguelike project
+
+**Thoughts**:
+
+Having submitted the Popular Movies app I wanted to take a little break from
+Android stuff so I started playing about with C++ by reimplementing the 
+dungeon building algorithm from Rogue -- the original roguelike.  I've done this
+before but this time I want to implement all the C++ best practices.  It won't
+become a full game; I should work on one of my several incomplete roguelikes
+for that.  Right now the github repository only has the details of the algorithm
+itself.  I'll put up the rest of the code tomorrow when its fully finished.
+
+
+**Links to work:**
+
+[dungeon](https://github.com/jaldhar/dungeon)
+
+
 ## Day 88: June 18, 2017
 
 **Today's Progress**: Continued Popular Movies.
