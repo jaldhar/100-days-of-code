@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 90: June 20, 2017
+
+**Today's Progress**: Continued C++ roguelike project
+
+**Thoughts**:
+
+At this point the roguelike displays a title and an (empty) window.  It accepts
+input from the keyboard (only the Q key to quit really.) and it has a game loop.
+The actual dungeon building code has a bug I need to track down so I will
+add it tomorrow.
+
+**Links to work:**
+
+[dungeon](https://github.com/jaldhar/dungeon)
+
+
 ## Day 89: June 19, 2017
 
 **Today's Progress**: Started C++ roguelike project
