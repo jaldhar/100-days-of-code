@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 91: June 21, 2017
+
+**Today's Progress**: Continued C++ roguelike project
+
+**Thoughts**:
+
+I've uploaded the code that implements the features I mentioned yesterday but
+maddeningly I still can't figure out why the dungeon generation is going wrong.
+I need to get back to android so I've resolved to fix this tomorrow or forget
+about it.
+
+**Links to work:**
+
+[dungeon](https://github.com/jaldhar/dungeon)
+
+
 ## Day 90: June 20, 2017
 
 **Today's Progress**: Continued C++ roguelike project
