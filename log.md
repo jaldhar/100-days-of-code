@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 92: June 22, 2017
+
+**Today's Progress**: Folding a string into a triangle
+
+**Thoughts**:
+
+I got offered an interview today which was unexpected because I'm not actively
+looking just yet.  This means tonights coding session is off as I have to make
+sure I get a good nights rest for tomorrow.  The roguelike, android etc. will
+have to wait.
+
+In order to fulfill the terms of the 100 days of code challenge I have done
+something though.  I came accross an interesting algorithm problem on
+Stack Exchanges' code golf site.  Instead of trying to make my version really
+small (the objective of code golf) I have kept it easy to read and follow.
+  
+**Links to work:**
+
+[Fold a string into a triangle](https://gist.github.com/jaldhar/5c24443fb3a5d34e1778962d17d53135)
+
+
 ## Day 91: June 21, 2017
 
 **Today's Progress**: Continued C++ roguelike project
