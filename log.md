@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 93: June 23, 2017
+
+**Today's Progress**: Android; roguelike shelved for now.
+
+**Thoughts**:
+
+I found the bug in my dungeon generating code but that also uncovered other
+problems.  What I have uploaded today implements corridors but not rooms etc.
+That will be trivial to add in but some other time, I have to get back to
+Android now.
+  
+**Links to work:**
+
+[dungeon](https://github.com/jaldhar/dungeon)
+
 ## Day 92: June 22, 2017
 
 **Today's Progress**: Folding a string into a triangle
