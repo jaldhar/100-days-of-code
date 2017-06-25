@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log
 
+## Day 94: June 24, 2017
+
+**Today's Progress (or lack thereof) **: Failed to build a game with cocos2d-x.
+
+**Thoughts**:
+
+I had found a free Udemy course about the cocos2d-x game library which I took
+today.  I like cocos2d-x because it is open source (truly, not with restrictions
+like Unity,) uses C++ and is multi-platform. I have a very simple game in the
+Play Store which I made using this library a long time ago but this course
+brought me up to date with the latest version and got me understanding it on a
+much higher level than I had before. So I used it to write a more complex (but
+still relatively simple. My magnum opus still lies in the future) scrambled
+puzzle game.
+
+So far so good but then Android Studio happened.  The latest versions of
+cocos2d-x are supposed to support it.  But both 2.3.3 and the latest 3.0 beta
+give some sort of null pointer exception in gradle and refuse to build further.
+I could build from the command line but I recall that used to be somewhat messy
+so I am just giving up for now.  The downside of this library is that it is more
+popular in Asia so the English documentation is not that great.  Their forum
+is pretty active though or perhaps I could ask the course teacher.
+
+Anyway I'm disappointed but I remind myself tomorrow is a new day.
+
+**Links to work:**
+
+LOLCatsPuzzle: Haven't bothered uploading it yet.
+
 ## Day 93: June 23, 2017
 
 **Today's Progress**: Android; roguelike shelved for now.
