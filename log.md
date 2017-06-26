@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 95: June 25, 2017
+
+**Today's Progress **: Further along with cocos2d-x game but still fails to build.
+
+**Thoughts**:
+
+I really should have left well enough alone particularly because I didn't have
+much time today but I had received some advice about my compile problems so
+I tried to get my game working.  Android Studio is still a no go but I can
+get a lot further by running gradle from the command line.  It fails before the
+end though.  It seems that what my problem is, is a too new version of the NDK.
+If I downgrade it to an older version, it should work.  But I'm not going to
+try it out today.
+
+**Links to work:**
+
+LOLCatsPuzzle: Haven't bothered uploading it yet.
+
 ## Day 94: June 24, 2017
 
 **Today's Progress (or lack thereof) **: Failed to build a game with cocos2d-x.
