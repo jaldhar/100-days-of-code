@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 96: June 26, 2017
+
+**Today's Progress **: Finished cocos2d-x game.
+
+**Thoughts**:
+
+Yep.  Using an older NDK (13b) did the trick.  The game is playable though it
+needs some more polish.  Things like sound effects or some kind of visual signal
+that you have won.  The help and documentation hasn't been implemented.  And
+there are probably some minor bugs lying around in there somewhere.  I can
+also think of some additional features that might be nice like being able to
+select your own picture or maybe even AI that solves it for you.  The upshot
+is I'm not putting this up in the play store just yet.
+
+I'm feeling upbeat.  After the doldrums of the past couple of days I needed a
+win.
+
+**Links to work:**
+
+[LOLCatsPuzzle](https://github.com/jaldhar/LOLCatsPuzzle)
+
 ## Day 95: June 25, 2017
 
 **Today's Progress **: Further along with cocos2d-x game but still fails to build.
