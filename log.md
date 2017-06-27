@@ -2,7 +2,7 @@
 
 ## Day 96: June 26, 2017
 
-**Today's Progress **: Finished cocos2d-x game.
+**Today's Progress**: Finished cocos2d-x game.
 
 **Thoughts**:
 
@@ -23,7 +23,7 @@ win.
 
 ## Day 95: June 25, 2017
 
-**Today's Progress **: Further along with cocos2d-x game but still fails to build.
+**Today's Progress**: Further along with cocos2d-x game but still fails to build.
 
 **Thoughts**:
 
@@ -41,7 +41,7 @@ LOLCatsPuzzle: Haven't bothered uploading it yet.
 
 ## Day 94: June 24, 2017
 
-**Today's Progress (or lack thereof) **: Failed to build a game with cocos2d-x.
+**Today's Progress (or lack thereof)**: Failed to build a game with cocos2d-x.
 
 **Thoughts**:
 
