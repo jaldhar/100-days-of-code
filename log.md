@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 97: June 27, 2017
+
+**Today's Progress**: Learned about OOP design patterns
+
+**Thoughts**:
+
+There's another Android meetup in New York, Android NYC  which has been
+moribund for a while but just restarted with new organizers.  The first event
+took place today.  We were to do hands on learning about design patterns by
+splitting into small groups which would each implement one pattern in a small
+demo app and then explain it to everyone else.  The group I was in was
+assigned the factory pattern.  Here is the demo app I made.  It was kind of a
+hackathon like atmosphere (which I thoroughly enjoyed.) so there was time
+pressure and as a result the demo is a bit rough around the edges.  Maybe
+tomorrow I will polish it up a little bit.
+
+**Links to work:**
+
+[Factory pattern demo](https://github.com/jaldhar/factorydemo)
+
 ## Day 96: June 26, 2017
 
 **Today's Progress**: Finished cocos2d-x game.
