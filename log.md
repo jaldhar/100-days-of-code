@@ -1,5 +1,44 @@
 # 100 Days Of Code - Log
 
+## Day 98: June 28, 2017
+
+**Today's Progress**: Android; Fixing a javascript bug.
+
+**Thoughts**:
+
+Work continued on my Udacity android nanodegree but nothing to show at the moment.
+
+Unexpectedly, I got a bug report about the javascript calculator I did at
+freeCodeCamp.
+
+The problem is calculations like 1 / 7 don't work because the answer is an
+irrational number.  I limit the length of the answer to thirteen digits including
+the decimal point and give an overflow error if it is longer.  Obviously
+that's not going to work for a number that continues for ever.
+
+So I amended the code to check if the result is not an integer. If so I 
+used the Number objects toPrecision() method to limit the result to 10 places.
+
+It turns out that's not enough. E.g. 6.2 / 2 becomes 3.1000000000. It's 
+technically correct but unsightly. So to get rid of the trailing zeros, I used 
+parseFloat() to turn it back into a number and then called toString on it. 
+Like this:
+
+```
+    if (result === Math.floor(result) )) { // is it an integer?
+        my.answer = result.toString();
+    } else {
+        my.answer = parseFloat(result.toPrecision(10)).toString();
+    }
+```
+
+It's a bit convoluted but does the trick. And it is gratifying to know that
+people are actually looking at my work.
+
+**Links to work:**
+
+[Calculator](http://www.braincells.com/webdev/calculator/)
+
 ## Day 97: June 27, 2017
 
 **Today's Progress**: Learned about OOP design patterns
