@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 99: June 29, 2017
+
+**Today's Progress**: Android; More features for javascript calculator.
+
+**Thoughts**:
+
+More android work but again, nothing you can see at the moment.
+
+So the person who reported the bug asked me to add a 1/x button to the
+calculator.  And I did.  But to keep the layout looking good I had to add
+four more buttons.  I decided to fill them with percent, sign change and
+parentheses.  The first too were pretty straightforward though it made me
+see I needed to refactor some code.  But the parentheses did not work right.
+Ironic because I had been shown how to implement that in the "Let's Build a
+Simple Interpreter" tutorial.  (Which I need to get back to.)  Or perhaps I
+can say it is because of the tutorial that I know it is not working right.
+
+**Links to work:**
+
+[Calculator](http://www.braincells.com/webdev/calculator/)
+
 ## Day 98: June 28, 2017
 
 **Today's Progress**: Android; Fixing a javascript bug.
