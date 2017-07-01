@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+## Day 100: June 30, 2017
+
+**Today's Progress**: 100 days! Finished adding features for javascript calculator.
+
+**Thoughts**:
+
+I did it!  100 days of atleast one hour of coding along with a daily tweet and
+link to commit on github.  (Well, the last I didn't always manage because of
+e.g. multiday tasks but overall I did make more than 100 commits during this
+time period so I'm counting it.
+
+Day 100 itself was a bit anticlimactic.  I just had the minimum time available
+and that was by forcing myself.  In that hour though I completely overhauled
+the logic of the calculator and added support for parentheses.
+
+What's next?  The goal was to be ready for job hunting by this point but I feel
+I''m not quite there yet.  The android stuff is going great but it is not 
+finished.  Working on the calculator reminded me that I will need to polish up
+these projects if I really want to go into webdev.  (And I have completely
+forgotten about react.)  I've done some interesting c++ stuff but I'll need
+to sharpen my skills in algorithms and data structures if I want to make a
+career of that.
+
+So maybe I'll continue this by commiting to the 301 days of code challenge but
+in any case I will definitely keep learning and coding.
+
+**Links to work:**
+
+[Calculator](http://www.braincells.com/webdev/calculator/)
+
 ## Day 99: June 29, 2017
 
 **Today's Progress**: Android; More features for javascript calculator.
