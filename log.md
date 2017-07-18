@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 1: July 17, 2017
+
+**Today's Progress**: Started round 2; Perl 6.
+
+**Thoughts**:
+
+Being forced to maintain a steady schedule of coding and tweeting about it has
+been good for me so I'm going to start the 100 days of code challenge a second
+time.
+
+This time I want to concentrate on algorithms and data structures.  I shall
+concentrate on C++ and Perl 6 as my languages of choice.  I'm still going to
+be doing the android and web dev stuff I was doing before -- in fact I hope to
+spend more time on it but the minimum daily one hour of coding will be
+dedicated to the topics mentioned above.
+
+Today there doesn't seem to be much result but a lot went on behind the scenes.
+The version of Rakudo perl 6 in Ubuntus package repositorys was about 8 months
+old.  So I build packages for the latest version.  Unfortunately it took a lot
+of time but now I have an up to date base for my future explorations.
+
+**Links to work:**
+
+[Print my name in Gujarati](https://github.com/jaldhar/perl6-scripts/blob/master/jaldhar.p6)
+
 ## Round 1, Day 100: June 30, 2017
 
 **Today's Progress**: 100 days! Finished adding features for javascript calculator.
