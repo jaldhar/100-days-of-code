@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 100: June 30, 2017
+## Round 1, Day 100: June 30, 2017
 
 **Today's Progress**: 100 days! Finished adding features for javascript calculator.
 
@@ -30,7 +30,7 @@ in any case I will definitely keep learning and coding.
 
 [Calculator](http://www.braincells.com/webdev/calculator/)
 
-## Day 99: June 29, 2017
+## Round 1, Day 99: June 29, 2017
 
 **Today's Progress**: Android; More features for javascript calculator.
 
@@ -51,7 +51,7 @@ can say it is because of the tutorial that I know it is not working right.
 
 [Calculator](http://www.braincells.com/webdev/calculator/)
 
-## Day 98: June 28, 2017
+## Round 1, Day 98: June 28, 2017
 
 **Today's Progress**: Android; Fixing a javascript bug.
 
@@ -90,7 +90,7 @@ people are actually looking at my work.
 
 [Calculator](http://www.braincells.com/webdev/calculator/)
 
-## Day 97: June 27, 2017
+## Round 1, Day 97: June 27, 2017
 
 **Today's Progress**: Learned about OOP design patterns
 
@@ -110,7 +110,7 @@ tomorrow I will polish it up a little bit.
 
 [Factory pattern demo](https://github.com/jaldhar/factorydemo)
 
-## Day 96: June 26, 2017
+## Round 1, Day 96: June 26, 2017
 
 **Today's Progress**: Finished cocos2d-x game.
 
@@ -131,7 +131,7 @@ win.
 
 [LOLCatsPuzzle](https://github.com/jaldhar/LOLCatsPuzzle)
 
-## Day 95: June 25, 2017
+## Round 1, Day 95: June 25, 2017
 
 **Today's Progress**: Further along with cocos2d-x game but still fails to build.
 
@@ -149,7 +149,7 @@ try it out today.
 
 LOLCatsPuzzle: Haven't bothered uploading it yet.
 
-## Day 94: June 24, 2017
+## Round 1, Day 94: June 24, 2017
 
 **Today's Progress (or lack thereof)**: Failed to build a game with cocos2d-x.
 
@@ -178,7 +178,7 @@ Anyway I'm disappointed but I remind myself tomorrow is a new day.
 
 LOLCatsPuzzle: Haven't bothered uploading it yet.
 
-## Day 93: June 23, 2017
+## Round 1, Day 93: June 23, 2017
 
 **Today's Progress**: Android; roguelike shelved for now.
 
@@ -193,7 +193,7 @@ Android now.
 
 [dungeon](https://github.com/jaldhar/dungeon)
 
-## Day 92: June 22, 2017
+## Round 1, Day 92: June 22, 2017
 
 **Today's Progress**: Folding a string into a triangle
 
@@ -214,7 +214,7 @@ small (the objective of code golf) I have kept it easy to read and follow.
 [Fold a string into a triangle](https://gist.github.com/jaldhar/5c24443fb3a5d34e1778962d17d53135)
 
 
-## Day 91: June 21, 2017
+## Round 1, Day 91: June 21, 2017
 
 **Today's Progress**: Continued C++ roguelike project
 
@@ -230,7 +230,7 @@ about it.
 [dungeon](https://github.com/jaldhar/dungeon)
 
 
-## Day 90: June 20, 2017
+## Round 1, Day 90: June 20, 2017
 
 **Today's Progress**: Continued C++ roguelike project
 
@@ -246,7 +246,7 @@ add it tomorrow.
 [dungeon](https://github.com/jaldhar/dungeon)
 
 
-## Day 89: June 19, 2017
+## Round 1, Day 89: June 19, 2017
 
 **Today's Progress**: Started C++ roguelike project
 
@@ -266,7 +266,7 @@ itself.  I'll put up the rest of the code tomorrow when its fully finished.
 [dungeon](https://github.com/jaldhar/dungeon)
 
 
-## Day 88: June 18, 2017
+## Round 1, Day 88: June 18, 2017
 
 **Today's Progress**: Continued Popular Movies.
 
@@ -280,7 +280,7 @@ and submit it tomorrow.
 [Popular Movies](https://github.com/jaldhar/PopularMovies)
 
 
-## Day 87: June 17, 2017
+## Round 1, Day 87: June 17, 2017
 
 **Today's Progress**: Continued Popular Movies.
 
@@ -298,7 +298,7 @@ I'll think about that tomorrow.
 [Popular Movies](https://github.com/jaldhar/PopularMovies)
 
 
-## Day 86: June 16, 2017
+## Round 1, Day 86: June 16, 2017
 
 **Today's Progress**: Continued Popular Movies.
 
@@ -314,7 +314,7 @@ doesn't quite work but I think it is almost there. I'll debug it tomorrow.
 [Popular Movies](https://github.com/jaldhar/PopularMovies)
 
 
-## Day 85: June 15, 2017
+## Round 1, Day 85: June 15, 2017
 
 **Today's Progress**: Continued Popular Movies.
 
@@ -335,7 +335,7 @@ I actually learned some things from the navigation talk.
 [Popular Movies](https://github.com/jaldhar/PopularMovies)
 
 
-## Day 84: June 14, 2017
+## Round 1, Day 84: June 14, 2017
 
 **Today's Progress**: Continued interpreter tutorial.
 
@@ -356,7 +356,7 @@ part 6.
 [Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
 
 
-## Day 83: June 13, 2017
+## Round 1, Day 83: June 13, 2017
 
 **Today's Progress**: Continued interpreter tutorial.
 
@@ -370,7 +370,7 @@ tutorial and even then not the exercises.
 [Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
 
 
-## Day 82: June 12, 2017
+## Round 1, Day 82: June 12, 2017
 
 **Today's Progress**: Continued Popular Movies and interpreter tutorial.
 
@@ -387,7 +387,7 @@ I also did part 4 of the Interpreter tutorial.
 [Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
 
 
-## Day 81: June 11, 2017
+## Round 1, Day 81: June 11, 2017
 
 **Today's Progress**: Continued XYZ Reader
 
@@ -401,7 +401,7 @@ make it look good on a tablet etc.  I will submit it tomorrow.
 [XYZ Reader](https://github.com/jaldhar/xyz-reader)
 
 
-## Day 80: June 10, 2017
+## Round 1, Day 80: June 10, 2017
 
 **Today's Progress**: Continued XYZ Reader
 
@@ -417,7 +417,7 @@ though.
 [XYZ Reader](https://github.com/jaldhar/xyz-reader)
 
 
-## Day 79: June 9, 2017
+## Round 1, Day 79: June 9, 2017
 
 **Today's Progress**: Continued XYZ Reader
 
@@ -433,7 +433,7 @@ go out on a limb and say I will have it finished this weekend.
 [XYZ Reader](https://github.com/jaldhar/xyz-reader)
 
 
-## Day 78: June 8, 2017
+## Round 1, Day 78: June 8, 2017
 
 **Today's Progress**: Continued interpreter tutorial and XYZ Reader
 
@@ -451,7 +451,7 @@ conform entirely to the Material Design spec.
 [Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
 
 
-## Day 77: June 7, 2017
+## Round 1, Day 77: June 7, 2017
 
 **Today's Progress**: Continued interpreter tutorial
 
@@ -470,7 +470,7 @@ having to backtrack to yesterdays state of affairs.  Thank God for git.
 [Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
 
 
-## Day 76: June 6, 2017
+## Round 1, Day 76: June 6, 2017
 
 **Today's Progress**: Started new interpreter tutorial
 
@@ -497,7 +497,7 @@ Date: June 06, 2017
 [Let's Build A Simple Interpreter](https://github.com/jaldhar/Lets-Build-a-Simple-Interpreter)
 
 
-## Day 75: June 5, 2017
+## Round 1, Day 75: June 5, 2017
 
 **Today's Progress**: Continuing with Android XYZ Reader; Revisiting Popular Movies
 
@@ -517,7 +517,7 @@ XYZ Reader too.
 [XYZ Reader](https://github.com/jaldhar/xyz-reader)
 
 
-## Day 74: June 4, 2017
+## Round 1, Day 74: June 4, 2017
 
 **Today's Progress**: Android XYZ Reader overhaul continues.
 
@@ -536,7 +536,7 @@ changes.
 [XYZ Reader](https://github.com/jaldhar/xyz-reader)
 
 
-## Day 73: June 3, 2017
+## Round 1, Day 73: June 3, 2017
 
 **Today's Progress**: Built Solitaire game in Kotlin; small improvements to ;#
 
@@ -552,7 +552,7 @@ code which I implemented.
 * [Solitaire in Kotlin](https://github.com/jaldhar/Solitaire)
 * [;# interpreter](https://github.com/jaldhar/semicolonhash)
 
-## Day 72: June 2, 2017
+## Round 1, Day 72: June 2, 2017
 
 **Today's Progress**: Built Solitaire game in Kotlin.
 
@@ -568,7 +568,7 @@ Still no react.  I should devote a day to that.
 
 * [Solitaire in Kotlin](https://github.com/jaldhar/Solitaire)
 
-## Day 71: June 1, 2017
+## Round 1, Day 71: June 1, 2017
 
 **Today's Progress**: Learned about Kotlin, Perl 6, and Assembly.
 
@@ -602,7 +602,7 @@ Overall today was a good sign I've left the doldrums of the last few days.
 
 * [;# interpreter](https://github.com/jaldhar/semicolonhash)
 
-## Day 70: May 31, 2017
+## Round 1, Day 70: May 31, 2017
 
 **Today's Progress**: continued compiler tutorial 
 
@@ -618,7 +618,7 @@ No android or react today.
 
 [Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
 
-## Day 69: May 30, 2017
+## Round 1, Day 69: May 30, 2017
 
 **Today's Progress**: continued compiler tutorial 
 
@@ -637,7 +637,7 @@ No android or react today.
 
 [Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
 
-## Day 68: May 29, 2017
+## Round 1, Day 68: May 29, 2017
 
 **Today's Progress**: continued compiler tutorial 
 
@@ -653,7 +653,7 @@ finishes up expression parsing.
 
 [Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
 
-## Day 67: May 28, 2017
+## Round 1, Day 67: May 28, 2017
 
 **Today's Progress**: Continued XYZ Reader; continued compiler tutorial 
 
@@ -675,7 +675,7 @@ No react today either.
 [XYZ Reader](https://github.com/jaldhar/xyz-reader)
 [Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
 
-## Day 66: May 27, 2017
+## Round 1, Day 66: May 27, 2017
 
 **Today's Progress**: Started XYZ Reader project from Udacity Android Dev nanodegree
 
@@ -692,7 +692,7 @@ No react or "Let's Build a Compiler" today.
 
 [XYZ Reader](https://github.com/jaldhar/xyz-reader)
 
-## Day 65: May 26, 2017
+## Round 1, Day 65: May 26, 2017
 
 **Today's Progress**: Restarted Udacity Android Dev nanodegree; Learned about React; Started compiler tutorial
 
@@ -716,7 +716,7 @@ support routines which will be needed for the compiler.
 
 [Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
 
-## Day 64: May 25, 2017
+## Round 1, Day 64: May 25, 2017
 
 **Today's Progress**: Restarted Udacity Android Dev nanodegree; Learned about React; Started compiler tutorial
 
@@ -736,7 +736,7 @@ I'll start work in earnest tomorrow.
 
 [Let's Build a Compiler](https://github.com/jaldhar/Lets-Build-a-Compiler)
 
-## Day 63: May 24, 2017
+## Round 1, Day 63: May 24, 2017
 
 **Today's Progress**: Got freeCodeCamp frontend cert
 
@@ -773,7 +773,7 @@ another avenue I'd like to explore.
 * [Pomodoro Clock](http://www.braincells.com/webdev/pomodoro/)
 * [Simon](http://www.braincells.com/webdev/simon/)
 
-## Day 62: May 23, 2017
+## Round 1, Day 62: May 23, 2017
 
 **Today's Progress**: Pomodoro clock finished at last!  Wrote interpreter in C
 
@@ -799,7 +799,7 @@ though just how is beyond my current capabilities.
 * [Pomodoro Clock](http://www.braincells.com/webdev/pomodoro/)
 * [;# interpreter](https://github.com/jaldhar/semicolonhash)
 
-## Day 61: May 22, 2017
+## Round 1, Day 61: May 22, 2017
 
 **Today's Progress**: Still not done with Pomodoro clock.
 
@@ -813,7 +813,7 @@ magically resolve itself overnight.
 
 * [Pomodoro Clock (WIP)](http://www.braincells.com/webdev/pomodoro/)
 
-## Day 60: May 21, 2017
+## Round 1, Day 60: May 21, 2017
 
 **Today's Progress**: Continued Pomodoro clock.
 
@@ -827,7 +827,7 @@ time elapsed.  I think I know how it should work but I'm not quite there yet.
 
 * [Pomodoro Clock (WIP)](http://www.braincells.com/webdev/pomodoro/)
 
-## Day 59: May 20, 2017
+## Round 1, Day 59: May 20, 2017
 
 **Today's Progress**: Continued Pomodoro clock.
 
@@ -844,7 +844,7 @@ using bootstrap instead.
 
 * [Pomodoro Clock (WIP)](http://www.braincells.com/webdev/pomodoro/)
 
-## Day 58: May 19, 2017
+## Round 1, Day 58: May 19, 2017
 
 **Today's Progress**: Began Pomodoro clock challenge
 
@@ -863,7 +863,7 @@ win.  I'll revisit these issues after I've worked more on the Pomodoro clock.
 
 * [Pomodoro Clock (WIP)](http://www.braincells.com/webdev/pomodoro/)
 
-## Day 57: May 18, 2017
+## Round 1, Day 57: May 18, 2017
 
 **Today's Progress**: Finished Simon game
 
@@ -878,7 +878,7 @@ pretty solid.
 
 * [Simon](http://www.braincells.com/webdev/simon/)
 
-## Day 56: May 17, 2017
+## Round 1, Day 56: May 17, 2017
 
 **Today's Progress**: Continued Simon game
 
@@ -898,7 +898,7 @@ This has definitely been the toughest project to date.
 
 * [Simon (WIP)](http://www.braincells.com/webdev/simon/)
 
-## Day 55: May 16, 2017
+## Round 1, Day 55: May 16, 2017
 
 **Today's Progress**: Continued Simon game; Learned about Phaser framework.
 
@@ -917,7 +917,7 @@ is back to Simon.
 * [Simon (WIP)](http://www.braincells.com/webdev/simon/)
 * [An Introduction to Phaser](https://github.com/jaldhar/intro-to-phaser)
 
-## Day 54: May 15, 2017
+## Round 1, Day 54: May 15, 2017
 
 **Today's Progress**: Continued Simon game 
 
@@ -930,7 +930,7 @@ game but steady progress has been made.
 
 * [Simon (WIP)](http://www.braincells.com/webdev/simon/)
 
-## Day 53: May 14, 2017
+## Round 1, Day 53: May 14, 2017
 
 **Today's Progress**: Continued Simon game 
 
@@ -945,7 +945,7 @@ tomorrow.
 
 * [Simon (WIP)](http://www.braincells.com/webdev/simon/)
 
-## Day 52: May 13, 2017
+## Round 1, Day 52: May 13, 2017
 
 **Today's Progress**: Continued Simon game 
 
@@ -959,7 +959,7 @@ the web audio api which I'm going to need to create the beeps for the game.
 
 * [Simon (WIP)](http://www.braincells.com/webdev/simon/)
 
-## Day 51: May 12, 2017
+## Round 1, Day 51: May 12, 2017
 
 **Today's Progress**: Continued Simon game 
 
@@ -976,7 +976,7 @@ now, I will have to ask for help.
 
 * [Simon (WIP)](http://www.braincells.com/webdev/simon/)
 
-## Day 50: May 11, 2017
+## Round 1, Day 50: May 11, 2017
 
 **Today's Progress**: Continued Simon game 
 
@@ -995,7 +995,7 @@ to see but things are progressing behind the scenes.
 
 * [Simon (WIP)](http://www.braincells.com/webdev/simon/)
 
-## Day 49: May 10, 2017
+## Round 1, Day 49: May 10, 2017
 
 **Today's Progress**: Completed Tic-tac-toe (for now.) Began Simon game 
 
@@ -1010,7 +1010,7 @@ I am setting it aside and moving on to the Simon game project.
 
 * [Orcs & Elves (AKA Tic Tac Toe)](http://www.braincells.com/webdev/tic-tac-toe/)
 
-## Day 48: May 9, 2017
+## Round 1, Day 48: May 9, 2017
 
 **Today's Progress**: Alas! Still on Tic-tac-toe project
 
@@ -1034,7 +1034,7 @@ haven't needed to do yet.  Despite this, attending was still worthwhile IMO.
 
 * [Orcs & Elves (AKA Tic Tac Toe) (WIP)](http://www.braincells.com/webdev/tic-tac-toe/)
 
-## Day 47: May 8, 2017
+## Round 1, Day 47: May 8, 2017
 
 **Today's Progress**: Continued Tic-tac-toe project
 
@@ -1048,7 +1048,7 @@ minmax just yet.)  I need to complete the setup screen and then I'm done.
 
 * [Orcs & Elves (AKA Tic Tac Toe) (WIP)](http://www.braincells.com/webdev/tic-tac-toe/)
 
-## Day 46: May 7, 2017
+## Round 1, Day 46: May 7, 2017
 
 **Today's Progress**: Continued Tic-tac-toe project
 
@@ -1066,7 +1066,7 @@ I've got a good foundation set up.
 
 * [Tic Tac Toe (WIP)](http://www.braincells.com/webdev/tic-tac-toe/)
 
-## Day 45: May 6, 2017
+## Round 1, Day 45: May 6, 2017
 
 **Today's Progress**: Debugging Calculator project
 
@@ -1080,7 +1080,7 @@ fix.  Unfortunately that used up all my available time.
 
 * [Calculator](http://www.braincells.com/webdev/calculator/)
 
-## Day 44: May 5, 2017
+## Round 1, Day 44: May 5, 2017
 
 **Today's Progress**: Finished Calculator project
 
@@ -1099,7 +1099,7 @@ intelligently.  This will be the next step along with UI improvements.
 
 * [Calculator](http://www.braincells.com/webdev/calculator/)
 
-## Day 43: May 4, 2017
+## Round 1, Day 43: May 4, 2017
 
 **Today's Progress**: Continuing Calculator project
 
@@ -1117,7 +1117,7 @@ They even have a service to convert it into a webfont which I did.
 
 * [Calculator (WIP)](http://www.braincells.com/webdev/calculator/)
 
-## Day 42: May 3, 2017
+## Round 1, Day 42: May 3, 2017
 
 **Today's Progress**: Continuing Calculator project; Flexbox Zombies
 
@@ -1138,7 +1138,7 @@ I also did another chapter of Flexbox Zombies.
 
 * [Calculator (WIP)](http://www.braincells.com/webdev/calculator/)
 
-## Day 41: May 2, 2017
+## Round 1, Day 41: May 2, 2017
 
 **Today's Progress**: Started Calculator project
 
@@ -1158,7 +1158,7 @@ but I hope I can learn more advanced flexbox usage through it.
 
 * [Calculator (WIP)](http://www.braincells.com/webdev/calculator/)
 
-## Day 40: May 1, 2017
+## Round 1, Day 40: May 1, 2017
 
 **Today's Progress**: Finished Twitch.tv API project
 
@@ -1179,7 +1179,7 @@ better than JavaScript IMO.
 
 * [Twitch.tv JSON API](http://www.braincells.com/webdev/twitch-api/)
 
-## Day 39: April 30, 2017
+## Round 1, Day 39: April 30, 2017
 
 **Today's Progress**: Continued work on Twitch.tv API project
 
@@ -1194,7 +1194,7 @@ cosmetic.
 
 * [Twitch.tv JSON API (WIP)](http://www.braincells.com/webdev/twitch-api/)
 
-## Day 38: April 29, 2017
+## Round 1, Day 38: April 29, 2017
 
 **Today's Progress**: Continued work on Twitch.tv API project
 
@@ -1212,7 +1212,7 @@ think about this.
 
 * [Twitch.tv JSON API (WIP)](http://www.braincells.com/webdev/twitch-api/)
 
-## Day 37: April 28, 2017
+## Round 1, Day 37: April 28, 2017
 
 **Today's Progress**: Continued work on Twitch.tv API project
 
@@ -1237,7 +1237,7 @@ Oh well let me sleep on this mystery and maybe it will solve itself tomorrow.
 
 * [Twitch.tv JSON API (WIP)](http://www.braincells.com/webdev/twitch-api/)
 
-## Day 36: April 27, 2017
+## Round 1, Day 36: April 27, 2017
 
 **Today's Progress**: Started work on Twitch.tv API project
 
@@ -1251,7 +1251,7 @@ moment.
 
 * [Twitch.tv JSON API (WIP)](http://www.braincells.com/webdev/twitch-api/)
 
-## Day 35: April 26, 2017
+## Round 1, Day 35: April 26, 2017
 
 **Today's Progress**: Finished Wikipedia Viewer
 
@@ -1270,7 +1270,7 @@ to visit that at some point in the future.
 
 * [Wikipedia Viewer](http://www.braincells.com/webdev/wikipedia-viewer/)
 
-## Day 34: April 25, 2017
+## Round 1, Day 34: April 25, 2017
 
 **Today's Progress**: No progress :(
 
@@ -1296,7 +1296,7 @@ I can still be distracted that easily.  But I won't give up the fight just yet!
 
 * [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
 
-## Day 33: April 24, 2017
+## Round 1, Day 33: April 24, 2017
 
 **Today's Progress**: Continuing work Wikipedia Viewer
 
@@ -1319,7 +1319,7 @@ as-is.  I've got to keep moving.
 
 * [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
 
-## Day 32: April 23, 2017
+## Round 1, Day 32: April 23, 2017
 
 **Today's Progress**: Success with Wikipedia Viewer searchbox
 
@@ -1340,7 +1340,7 @@ I ran out of time to finish the project but I hope to do so tomorrow.
 * [A Searchbox That Expands From an Icon and Contracts Again](https://codepen.io/jaldhar/details/PmzdmY/)
 * [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
 
-## Day 31: April 22, 2017
+## Round 1, Day 31: April 22, 2017
 
 **Today's Progress**: Still working on Wikipedia Viewer
 
@@ -1356,7 +1356,7 @@ know what I'm doing wrong.
 * [Codepen illustrating my problem](https://codepen.io/jaldhar/details/PmzdmY/)
 * [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
 
-## Day 30: April 21, 2017
+## Round 1, Day 30: April 21, 2017
 
 **Today's Progress**: Continued Wikipedia Viewer; Learned CSS transitions and transformations
 
@@ -1372,7 +1372,7 @@ urge to peek at their code for now.
 
 * [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
 
-## Day 29: April 20, 2017
+## Round 1, Day 29: April 20, 2017
 
 **Today's Progress**: Continued Wikipedia Viewer
 
@@ -1396,7 +1396,7 @@ will write the code to actually fetch results from the Wikipedia API.
 
 * [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
 
-## Day 28: April 19, 2017
+## Round 1, Day 28: April 19, 2017
 
 **Today's Progress**: Went to Android meetup; Started Wikipedia Viewer
 
@@ -1428,7 +1428,7 @@ start the Wikipedia Viewer project today.
 
 * [Wikipedia Viewer (WIP)](http://www.braincells.com/webdev/wikipedia-viewer/)
 
-## Day 27: April 18, 2017
+## Round 1, Day 27: April 18, 2017
 
 **Today's Progress**: Finished Responsive Web Design course from The Gymnasium
 
@@ -1449,7 +1449,7 @@ give it an 8/10.
 
 * [Responsive Portfolio](http://www.braincells.com/webdev/responsive-portfolio/)
 
-## Day 26: April 17, 2017
+## Round 1, Day 26: April 17, 2017
 
 **Today's Progress**: Continued Responsive Web Design course from The Gymnasium
 
@@ -1469,7 +1469,7 @@ Oh well I think I better call it a night and come back to it tomorrow.
 
 * [Responsive Portfolio (WIP)](http://www.braincells.com/webdev/responsive-portfolio/)
 
-## Day 25: April 16, 2017
+## Round 1, Day 25: April 16, 2017
 
 **Today's Progress**: Continued Responsive Web Design course from The Gymnasium
 
@@ -1489,7 +1489,7 @@ left) and get back to freeCodeCamp.
 
 * [Responsive Portfolio (WIP)](http://www.braincells.com/webdev/responsive-portfolio/)
 
-## Day 24: April 15, 2017
+## Round 1, Day 24: April 15, 2017
 
 **Today's Progress**: Continued Responsive Web Design course from The Gymnasium
 
@@ -1506,7 +1506,7 @@ page.
 
 * [Responsive Portfolio (WIP)](http://www.braincells.com/webdev/responsive-portfolio/)
 
-## Day 23: April 14, 2017
+## Round 1, Day 23: April 14, 2017
 
 **Today's Progress**: Continued Responsive Web Design course from The Gymnasium
 
@@ -1523,7 +1523,7 @@ that complexity.
 * [Responsive Portfolio (WIP)](http://www.braincells.com/webdev/responsive-portfolio/)
 
 
-## Day 22: April 13, 2017
+## Round 1, Day 22: April 13, 2017
 
 **Today's Progress**: Started Responsive Web Design course from The Gymnasium
 
@@ -1540,7 +1540,7 @@ first two chapters in my weakened state but I'm happy I atleast did something.
 * [Responsive Portfolio (WIP)](http://www.braincells.com/webdev/responsive-portfolio/)
 
 
-## Day 21: April 12, 2017
+## Round 1, Day 21: April 12, 2017
 
 **Today's Progress**: Finished Advanced Javascript algorithm challenges
 
@@ -1561,7 +1561,7 @@ project but I did do all the Advanced Javascript algorithm challenges.
 * [Advanced algorithm challenge 9: Pairwise](https://github.com/jaldhar/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Challenges/algorithms09.js)
 
 
-## Day 20: April 11, 2017
+## Round 1, Day 20: April 11, 2017
 
 **Today's Progress**: Finished weather app!.
 
@@ -1581,7 +1581,7 @@ contact the maintainer and get some guidance.
 
 * [Free Code Camp Weather App](http://www.braincells.com/webdev/local-weather/)
 
-## Day 19: April 10, 2017
+## Round 1, Day 19: April 10, 2017
 
 **Today's Progress**: Progress on round text in weather app; Finished JavaScript algorithms.
 
@@ -1617,7 +1617,7 @@ Also, I finished the rest of the intermediate JavaScript algorithm challenges.
 * [Intermediate algorithm challenge 20: Everything Be True](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms20.js)
 * [Intermediate algorithm challenge 21: Arguments Optional](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms21.js)
 
-## Day 18: April 9, 2017
+## Round 1, Day 18: April 9, 2017
 
 **Today's Progress**: Still stuck with CSS shapes; Did some JavaScript algorithms.
 
@@ -1640,7 +1640,7 @@ Drowned my sorrows in some JavaScript algorithm challenges.
 * [Intermediate algorithm challenge 9: Boo Who](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms09.js)
 * [Intermediate algorithm challenge 10: Sorted Union](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms10.js)
 
-## Day 17: April 8, 2017
+## Round 1, Day 17: April 8, 2017
 
 **Today's Progress**: Started Free Code Camp Weather App; Learned about CSS Shapes extension.
 
@@ -1662,7 +1662,7 @@ been unable to get it to work.  I'll try again tomorrow.
 
 * [Free Code Camp Weather App (WIP)](http://www.braincells.com/webdev/local-weather/)
 
-## Day 16: April 7, 2017
+## Round 1, Day 16: April 7, 2017
 
 **Today's Progress**: Finished building Random Quote Machine.
 
@@ -1680,7 +1680,7 @@ I also learned about CSS filters though in the end I decided not to use them.
 
 * [Random Quote Machine](http://www.braincells.com/webdev/random-quote-machine/)
 
-## Day 15: April 6, 2017
+## Round 1, Day 15: April 6, 2017
 
 **Today's Progress**: Continued building Random Quote Machine.
 
@@ -1694,7 +1694,7 @@ into plain javascript but the task is not complete.
 
 * [Random Quote Machine (WIP)](http://www.braincells.com/webdev/random-quote-machine/)
 
-## Day 14: April 5, 2017
+## Round 1, Day 14: April 5, 2017
 
 **Today's Progress**: Started building Random Quote Machine.
 
@@ -1710,7 +1710,7 @@ I didn't have time for anything else.
 
 * [Random Quote Machine (WIP)](http://www.braincells.com/webdev/random-quote-machine/)
 
-## Day 13: April 4, 2017
+## Round 1, Day 13: April 4, 2017
 
 **Today's Progress**: Learned about Flexbox.
 
@@ -1732,7 +1732,7 @@ Just to keep my toe in the water I did one of the intermediate algorithm challen
 
 * [Intermediate algorithm challenge 1: Sum All Numbers in a Range](https://github.com/jaldhar/FreeCodeCamp/blob/master/Intermediate%20Algorithm%20Challenges/algorithms01.js)
 
-## Day 12: April 3, 2017
+## Round 1, Day 12: April 3, 2017
 
 **Today's Progress**: Finished the portfolio project.
 
@@ -1755,7 +1755,7 @@ Now I just need some content to put in it.
 
 * [Portfolio](http://www.braincells.com/webdev/)
 
-## Day 11: April 2, 2017
+## Round 1, Day 11: April 2, 2017
 
 **Today's Progress**: Finished freeCodeCamp JSON APIs and AJAX exercises; The tide is turning in the war on Bootstrap.
 
@@ -1797,7 +1797,7 @@ to be done on that front.)
 
 * [Portfolio (WIP)](http://www.braincells.com/webdev/)
 
-## Day 10: April 1, 2017
+## Round 1, Day 10: April 1, 2017
 
 **Today's Progress**: Finished freeCodeCamp Functional and OOP exercises; More Bootstrap aggravation.
 
@@ -1820,7 +1820,7 @@ out so I'm confident I can solve this one too.
 
 * [Portfolio (WWWWWWWWIIIIIIIIIIIIIIIIIPPPPPPP)](http://www.braincells.com/webdev/)
 
-## Day 9: March 31, 2017
+## Round 1, Day 9: March 31, 2017
 
 **Today's Progress**: Finished freeCodeCamp javascript exercises; struggled with Bootstrap.
 
@@ -1843,7 +1843,7 @@ No codefights today either.
 
 * [Portfolio (alas, still WIP)](http://www.braincells.com/webdev/)
 
-## Day 8: March 30, 2017
+## Round 1, Day 8: March 30, 2017
 
 **Today's Progress**: More freeCodeCamp javascript exercises; Worked on Portfolio a bit more.
 
@@ -1860,7 +1860,7 @@ I should have done some codefights but got lazy.  I am suitably ashamed.
 
 * [Portfolio (WIP but not for much longer!)](http://www.braincells.com/webdev/)
 
-## Day 7: March 29, 2017
+## Round 1, Day 7: March 29, 2017
 
 **Today's Progress**: More freeCodeCamp javascript exercises; Learned about less; Started doing exercises from Codefights.
 
@@ -1884,7 +1884,7 @@ need more practice in this sort of thing.
 
 * [Portfolio (WIP still)](http://www.braincells.com/webdev/)
 
-## Day 6: March 28, 2017
+## Round 1, Day 6: March 28, 2017
 
 **Today's Progress**: Did some freeCodeCamp javascript exercises; Learned about less; Continued work on Portfolio.
 
@@ -1915,7 +1915,7 @@ So now my portfolio is looking much better&mdash;apart from the woeful lack of c
 
 * [Portfolio (WIP)](http://www.braincells.com/webdev/)
 
-## Day 5: March 27, 2017
+## Round 1, Day 5: March 27, 2017
 
 **Today's Progress**: Did the freeCodeCamp jQuery exercises; Learned about grunt; Continued work on Portfolio.
 
@@ -1955,7 +1955,7 @@ With all this going on there was little time to actually work on the portfolio
 
 * [Portfolio (WIP)](http://www.braincells.com/webdev/)
 
-## Day 4: March 26, 2017
+## Round 1, Day 4: March 26, 2017
 
 **Today's Progress**: Did the freeCodeCamp Bootstrap exercises; Started work on Portfolio.
 
@@ -1980,7 +1980,7 @@ today.
 
 * [Portfolio (WIP)](http://www.braincells.com/webdev/)
 
-## Day 3: March 25, 2017
+## Round 1, Day 3: March 25, 2017
 
 **Today's Progress**: Did the freeCodeCamp HTML5 and CSS exercises;  Built a tribute page; Helped a Freecodecamper learn C.
 
@@ -2009,7 +2009,7 @@ it up there instead.
 
 * [A Tribute to the Sinclair ZX Spectrum](http://www.braincells.com/webdev/tribute-to-spectrum/)
 
-## Day 2: March 24, 2017
+## Round 1, Day 2: March 24, 2017
 
 **Today's Progress**: Finished the rest of the Basic Algorithm Scripting Challenges from freeCodeCamp; learned about git.
 
@@ -2044,7 +2044,7 @@ backup branch.  Phew! Disaster averted.
 * [Basic algorithm challenge 15: Where do I belong](https://github.com/jaldhar/FreeCodeCamp/blob/master/Basic%20Algorithm%20Challenges/algorithms15.js)
 * [Basic algorithm challenge 16: Caesars Cipher](https://github.com/jaldhar/FreeCodeCamp/blob/master/Basic%20Algorithm%20Challenges/algorithms16.js)
 
-## Day 1: March 23, 2017
+## Round 1, Day 1: March 23, 2017
 
 **Today's Progress**: First 5 Basic Algorithm Scripting Challenges from freeCodeCamp
 
