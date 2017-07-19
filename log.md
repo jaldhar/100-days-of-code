@@ -18,10 +18,10 @@ it impressively easy.
 
 **Links to work:**
 
-[Think Perl6 Exercise 3.1](https://github.com/jaldhar/perl6-scripts/blob/master/rightjustify.p6)
-[Think Perl6 Exercise 3.2](https://github.com/jaldhar/perl6-scripts/blob/master/dotwice.p6)
-[Think Perl6 Exercise 3.3](https://github.com/jaldhar/perl6-scripts/blob/master/drawgrid.p6)
-[Determine if Harshad Number](https://github.com/jaldhar/perl6-scripts/blob/master/harshad.p6)
+* [Think Perl6 Exercise 3.1](https://github.com/jaldhar/perl6-scripts/blob/master/rightjustify.p6)
+* [Think Perl6 Exercise 3.2](https://github.com/jaldhar/perl6-scripts/blob/master/dotwice.p6)
+* [Think Perl6 Exercise 3.3](https://github.com/jaldhar/perl6-scripts/blob/master/drawgrid.p6)
+* [Determine if Harshad Number](https://github.com/jaldhar/perl6-scripts/blob/master/harshad.p6)
 
 ## Round 2, Day 1: July 17, 2017
 
