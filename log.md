@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 2: July 18, 2017
+
+**Today's Progress**: More Perl 6.
+
+**Thoughts**:
+
+Read through Chapter three of Think Perl6 and did the exercises.  The book
+starts from the very basics such as what is a function, what is a loop etc.
+which isn't very interesting for me except for learning the Perl6 syntax.  So
+I skipped ahead a little and did a one-liner for determining Harshad numbers
+which are Integers divisible by the sum of their digits.  E.g. 72 is a
+Harshad number because 7 + 2 = 9 and 72 is divisible by 9.  51 is not.
+(Incidently Harshad is my patronym hence the interest :-) Despite being a one
+liner, my code does validation. (Input is an integer, not 0 etc.)  Perl6 makes
+it impressively easy.
+
+**Links to work:**
+
+[Think Perl6 Exercise 3.1](https://github.com/jaldhar/perl6-scripts/blob/master/rightjustify.p6)
+[Think Perl6 Exercise 3.2](https://github.com/jaldhar/perl6-scripts/blob/master/dotwice.p6)
+[Think Perl6 Exercise 3.3](https://github.com/jaldhar/perl6-scripts/blob/master/drawgrid.p6)
+[Determine if Harshad Number](https://github.com/jaldhar/perl6-scripts/blob/master/harshad.p6)
+
 ## Round 2, Day 1: July 17, 2017
 
 **Today's Progress**: Started round 2; Perl 6.
