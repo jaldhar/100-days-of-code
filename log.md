@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 3: July 19, 2017
+
+**Today's Progress**: More Perl 6.
+
+**Thoughts**:
+
+Read a few more chapters of Think Perl6 today.  I am going to do the exercises
+I promise but I can't help skipping ahead.  I wrote an implementation of a
+genetic algorithm called [Dawkins' Weasel](https://en.wikipedia.org/wiki/Weasel_program) based off an earlier C++ version I
+had done.  In comparison, the Perl6 version is lot more succint yet still IMO
+readable.
+
+
+**Links to work:**
+
+[Dawkins' Weasel](https://github.com/jaldhar/perl6-scripts/blob/master/weasel.p6)
+
 ## Round 2, Day 2: July 18, 2017
 
 **Today's Progress**: More Perl 6.
