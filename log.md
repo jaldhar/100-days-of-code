@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 4: July 20, 2017
+
+**Today's Progress**: More Perl 6.
+
+**Thoughts**:
+
+Did the exercises for Chapter 4 of Think Perl6.  Fairly straightforward stuff.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 4.1](https://github.com/jaldhar/perl6-scripts/blob/master/seconds.p6)
+* [Think Perl6 Exercise 4.2](https://github.com/jaldhar/perl6-scripts/blob/master/fermat.p6)
+* [Think Perl6 Exercise 4.3](https://github.com/jaldhar/perl6-scripts/blob/master/triangle.p6)
+* [Think Perl6 Exercise 4.4.1](https://github.com/jaldhar/perl6-scripts/blob/master/fibonacci1.p6)
+* [Think Perl6 Exercise 4.4.2](https://github.com/jaldhar/perl6-scripts/blob/master/fibonacci2.p6)
+
 ## Round 2, Day 3: July 19, 2017
 
 **Today's Progress**: More Perl 6.
