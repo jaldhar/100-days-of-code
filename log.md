@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 5: July 21, 2017
+
+**Today's Progress**: More Perl 6.
+
+**Thoughts**:
+
+Rakudo perl6 has monthly releases.  I am currently using last months but I want
+the July release as it has the module system.  I thought it would be 
+straightforward to build having done so once before but again I ended up 
+spending a lot of time on it (and eventually gave up for the time being.)  So
+I only got to do one exercise from chapter 5 of Think Perl6.  The rest will have
+to wait until tomorrow.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 5.2](https://github.com/jaldhar/perl6-scripts/blob/master/ackermann.p6)
+
 ## Round 2, Day 4: July 20, 2017
 
 **Today's Progress**: More Perl 6.
