@@ -1,8 +1,29 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 6: July 22, 2017
+
+**Today's Progress**: Perl 6.
+
+**Thoughts**:
+
+Had to go to a birthday party so I didn't get much coding done but I took my
+Think Perl6 with me and read some of it.  (Yes I am a collosal nerd.)  And I
+got one more exercise done.  I was pleased I got the recursion bit right but I
+didn't do the part about adding a signature constraint.  I don't see how that
+could work unless there is something about constraints I haven't learned yet.
+
+This is one frustrating thing about Think Perl6 I find; it sometimes jumps ahead
+and uses concepts/syntax it hasn't introduced yet.  I understand that Perl6 is
+complicated and overall I do like the book but that's an area that could use
+some improvement IMO.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 5.3](https://github.com/jaldhar/perl6-scripts/blob/master/palindrome.p6)
+
 ## Round 2, Day 5: July 21, 2017
 
-**Today's Progress**: More Perl 6.
+**Today's Progress**: Perl 6.
 
 **Thoughts**:
 
@@ -19,7 +40,7 @@ to wait until tomorrow.
 
 ## Round 2, Day 4: July 20, 2017
 
-**Today's Progress**: More Perl 6.
+**Today's Progress**: Perl 6.
 
 **Thoughts**:
 
@@ -35,7 +56,7 @@ Did the exercises for Chapter 4 of Think Perl6.  Fairly straightforward stuff.
 
 ## Round 2, Day 3: July 19, 2017
 
-**Today's Progress**: More Perl 6.
+**Today's Progress**: Perl 6.
 
 **Thoughts**:
 
