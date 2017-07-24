@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 7: July 23, 2017
+
+**Today's Progress**: Perl 6.
+
+**Thoughts**:
+
+I finished the chapter 5 and 6 exercises in Think Perl6.  They were math-heavy
+which forced me to think a little harder than I would otherwise have needed to
+but nothing I can't handle.  I also read the next chapter which is about strings
+so should be more interesting.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 5.4](https://github.com/jaldhar/perl6-scripts/blob/master/power.p6)
+* [Think Perl6 Exercise 5.5](https://github.com/jaldhar/perl6-scripts/blob/master/gcd.p6)
+* [Think Perl6 Exercise 6.1](https://github.com/jaldhar/perl6-scripts/blob/master/sqrt.p6)
+* [Think Perl6 Exercise 6.2](https://github.com/jaldhar/perl6-scripts/blob/master/pi.p6)
+
 ## Round 2, Day 6: July 22, 2017
 
 **Today's Progress**: Perl 6.
