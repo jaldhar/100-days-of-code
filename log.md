@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 8: July 24, 2017
+
+**Today's Progress**: Perl 6.
+
+**Thoughts**:
+
+I tried to get Rakudo 2017.07 to build again and this time it worked without
+any problems.  So now I can play with the new module manager, zef.  Apparently
+there are already 858 modules which is impressive.
+
+Naturally I had to write one of my own.  This involved skipping ahead in the
+book once again and learning about classes.  I took my weasel script from day
+3 and have converted it enough that it passes the basic test of loading.  It
+remains to be seen whether it is actually usable; I'll find out tomorrow.
+
+**Links to work:**
+
+* [Algorithm-DawkinsWeasel](https://github.com/jaldhar/Algorithm-DawkinsWeasel)
+
 ## Round 2, Day 7: July 23, 2017
 
 **Today's Progress**: Perl 6.
