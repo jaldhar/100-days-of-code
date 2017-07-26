@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 9: July 25, 2017
+
+**Today's Progress**: Perl 6.
+
+**Thoughts**:
+
+As I suspected, once I added some tests problems were uncovered in Algorithm::DawkinsWeasel.
+Perl (and now Perl6) has a the best infrastructure for test-driven development of any language IMO.
+
+One by one the problems were easily fixed until the last one which was big.
+Somehow I was ending up in an infinite loop and I spent over an hour trying to
+figure out why.  Then I noticed one place where I had a '.' when I should have
+had a '!' DOH!
+
+I fixed up the POD documentation and other files needed for publication but I
+haven't done so yet.  I still want to tinker a little bit.
+
+**Links to work:**
+
+* [Algorithm-DawkinsWeasel](https://github.com/jaldhar/Algorithm-DawkinsWeasel)
+
 ## Round 2, Day 8: July 24, 2017
 
 **Today's Progress**: Perl 6.
