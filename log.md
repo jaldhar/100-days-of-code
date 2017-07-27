@@ -1,5 +1,62 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 10: July 26, 2017
+
+**Today's Progress**: Perl 6.
+
+**Thoughts**:
+
+I was hoping to be able to tell you I had uploaded my Perl6 module but I had
+to go and try to add one more feature.
+
+Right now you use it like this:
+
+```
+  my $weasel = Algorithm::DawkinsWeasel.new;
+  
+  repeat {
+      say $weasel.current-phrase;
+  } until $weasel.evolve;
+  say $weasel.current-phrase; # The last phrase.
+
+```
+
+That seems a little verbose and it's annoying that you have to repeat the
+loop contents one more time in order to get the last phrase.  I tried all kinds
+of loop constructs but the only way around it seems to be something like:
+
+```
+  my $weasel = Algorithm::DawkinsWeasel.new;
+
+  my Bool $ended = False;
+  repeat {
+      $ended = $weasel.evolve;
+  } until $ended;
+
+```
+
+...which hardly seems like an improvement.  In my original C++ version I had
+gotten around this by making the class iterable.  (By implementing operator++
+etc.) It seems like I could do the same in Perl6 by implementing the Iterator
+role.  (A role is like an interface in Java or a pure abstract class in C++.)
+
+Then I would be able to do something like:
+
+```
+  my $weasel = Algorithm::DawkinsWeasel.new;
+
+  say $weasel.current-phrase while $weasel;
+
+```
+
+Much better eh? But as of right now I can't get it to work right.  I've asked
+on the #perl6 channel on IRC but the experts don't seem to awake at the moment.
+Let's see if I get any answers tomorrow.
+
+**Links to work:**
+
+* [Algorithm-DawkinsWeasel](https://github.com/jaldhar/Algorithm-DawkinsWeasel)
+
 ## Round 2, Day 9: July 25, 2017
 
 **Today's Progress**: Perl 6.
