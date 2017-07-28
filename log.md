@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 11: July 27, 2017
+
+**Today's Progress**: Perl 6.
+
+**Thoughts**:
+
+I was able to work on my code during the daytime today so I got a lot done.
+
+The problem with my Perl6 module is solved.  Apparently the correct thing to
+do is not implement the Iterator role at all but to return an array.  You might
+think this potentially very inefficent but Perl6 has a construct called
+gather/take that can do "lazy" evaluation that only gives the next entry as it
+is needed.  The upshot is now you can call the module like this:
+
+```
+  my $weasel = Algorithm::DawkinsWeasel.new;
+
+  for $weasel.evolution { say .current-phrase; }
+```
+
+I must thank the people in the #perl6 channel on the FreeNode IRC network for
+this and other insights which have made my code more idiomatically Perl6ish.
+
+I also polished up the documentation and tests and submitted a pull request
+to have Algorithm::DawkinsWeasel included in the Perl 6 Ecosystem (as the
+module repository is known.)  It's not been approved yet but hopefully will
+be tomorrow.
+
+**Links to work:**
+
+* [Algorithm-DawkinsWeasel](https://github.com/jaldhar/Algorithm-DawkinsWeasel)
+
 ## Round 2, Day 10: July 26, 2017
 
 **Today's Progress**: Perl 6.
