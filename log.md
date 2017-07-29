@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 12: July 28, 2017
+
+**Today's Progress**: Perl 6.
+
+**Thoughts**:
+
+Algorithm::DawkinsWeasel was accepted into the ecosystem...and failed to
+install.  The problem was that in the META6.json file (which contains metadata
+for a module distribution) I had given the URL to my github repository but
+forgot to put .git on the end of it.  With that little fix everything was
+good once again.  I also took the opportunity to add continuous integration
+with Travis which was a lot easier than I thought it might be.
+
+With that my little adventure in modules is over and it's back to the exercises
+in Think Perl6.  Unfortunately with all that, I only had time left to do one.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 7.3](https://github.com/jaldhar/perl6-scripts/blob/master/caesar.p6)
+
 ## Round 2, Day 11: July 27, 2017
 
 **Today's Progress**: Perl 6.
