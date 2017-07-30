@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 13: July 29, 2017
+
+**Today's Progress**: FreeCodeCamp Local Weather App (again)
+
+**Thoughts**:
+
+Today I took a detour back to frontend JavaScript for two reasons.  One, I read
+an article on SitePoint entitled ["The MVC Pattern in Plain JavaScript"](https://www.sitepoint.com/mvc-design-pattern-javascript/).
+When I did my front-end projects I was concentrating on getting the job done
+quickly  and they are not in the best of shape especially if I want to show them
+to an employer.  So I knew they needed to be refactored and reading this article
+gave me an impetus to try that using the local weather app as a test case.  The
+principles shown work well though this is really just a waypoint to doing a
+rewrite in ES6.  While I was at it I also made the CSS more responsive and
+replaced the planet Earth graphic with something easier on the eyes.
+
+The second reason is that Jens Grabner who has been giving me a lot of valuable
+feedback about my calculator project in the FreeCodeCamp forums noticed another
+little flaw.  I want to see if I can fix that.  The calculators design needs
+to be overhauled to look nicer and be more responsive too.  So that will be
+my agenda for tomorrow.
+
+**Links to work:**
+
+* [Free Code Camp Weather App](http://www.braincells.com/webdev/local-weather/)
+
 ## Round 2, Day 12: July 28, 2017
 
 **Today's Progress**: Perl 6.
