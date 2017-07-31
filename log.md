@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 14: July 30, 2017
+
+**Today's Progress**: FreeCodeCamp Local Weather App
+
+**Thoughts**:
+
+I was going to start on the calculator today when I looked the weather app and
+noticed that somewhere along the way, I had lost the ability of converting from
+Celsius to Fahrenheit.  That was one of the key requirements of the project spec
+so I had to try and fix it.
+
+What turned out to be the problem is that I have the banner Free Code Camp Weather
+App in an H1 element which I bend into a circle using a jQuery plugin called
+CircleType.  The Weather information is in a DIV called contents which is a
+sibling of the H1 but appears inside the circle thanks to CSS positioning. There
+is an image of the planet Earth which is set as the background of the contents
+DIV in CSS. However this covers up the banner. Ok, the easy CSS solution is to
+make the z-index of the banner bigger than that of the contents.  Looks good.
+
+But unexpectedly, this had the side-effect of swallowing clicks on the anchor
+which toggles Celsius/Fahrenheit conversion.  I tried increasing the z-index of
+the anchor which was not that straightforward as it is dynamically generated
+after I get the weather information.  I played with the CSS pointer-events property
+but that didn't work either.  Finally I hit upon moving the background image
+from the contents div to the banner.  That way I didn't have to mess around with
+z-indexes and the conversion worked again.  It looks slightly different but I
+can live with that.  The more pressing issue is that all my careful responsive
+CSS positioning has gotten messed up and will have to be redone.  That'll be
+my job for tomorrow.
+
+**Links to work:**
+
+* [Free Code Camp Weather App](http://www.braincells.com/webdev/local-weather/)
+
 ## Round 2, Day 13: July 29, 2017
 
 **Today's Progress**: FreeCodeCamp Local Weather App (again)
