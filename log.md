@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 15: July 31, 2017
+
+**Today's Progress**: FreeCodeCamp Local Weather App
+
+**Thoughts**:
+
+I did not have a lot of time today but I got the Local Weather App ship-shape
+again and possibly looking better on mobile devices.  Or possibly worse.  It
+looks good on chromium on android but not on safari on an ipad mini.  Maybe
+it could be because caching issues from earlier tests.  I'll spend a little time
+on it tomorrow but I really should be getting on with the calculator (and Perl6!) 
+
+**Links to work:**
+
+* [Free Code Camp Weather App](http://www.braincells.com/webdev/local-weather/)
+
 ## Round 2, Day 14: July 30, 2017
 
 **Today's Progress**: FreeCodeCamp Local Weather App
