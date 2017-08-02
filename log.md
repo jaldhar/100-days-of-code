@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 16: August 01, 2017
+
+**Today's Progress**: FreeCodeCamp Calculator and Perl6
+
+**Thoughts**:
+
+I have decided that I am going to try and have atleast one commit to github
+every day this month.  Things didn't get off to a good start; It was 11:45pm and
+I suddenly realized the refactoring of the Calculator app was all in pieces.
+So I quickly did some of the chapter 8 exercises from Think Perl6. I hope to have
+the calculator usable again tomorrow so I can fix that bug I mentioned on day 13.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 8.1](https://github.com/jaldhar/perl6-scripts/blob/master/longerthan20.p6)
+* [Think Perl6 Exercise 8.2](https://github.com/jaldhar/perl6-scripts/blob/master/hasnoe.p6)
+
+
 ## Round 2, Day 15: July 31, 2017
 
 **Today's Progress**: FreeCodeCamp Local Weather App
@@ -10,7 +28,7 @@ I did not have a lot of time today but I got the Local Weather App ship-shape
 again and possibly looking better on mobile devices.  Or possibly worse.  It
 looks good on chromium on android but not on safari on an ipad mini.  Maybe
 it could be because caching issues from earlier tests.  I'll spend a little time
-on it tomorrow but I really should be getting on with the calculator (and Perl6!) 
+on it tomorrow but I really should be getting on with the calculator (and Perl6!)
 
 **Links to work:**
 
