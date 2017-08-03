@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 17: August 02, 2017
+
+**Today's Progress**: FreeCodeCamp Calculator and Perl6
+
+**Thoughts**:
+
+The Calculator app is working again and looks more responsive. Now I can look
+at the flaw reported by Jens which is that after an end parentheses, 0 is
+displayed instead of the intermediate answer.  Fixing this might not be easy; I
+may have painted myself into a corner because I don't actually do much parsing
+accept at the simplest level e.g. do I have a number, operator etc.  JavaScripts'
+eval() function does all the heavy lifting.  I think I will have to implement
+some kind of stack.  That sounds like a big task so I am postponing it until
+tomorrow.
+
+I did one Think Perl6 exercise just to keep the momentum going.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 8.3](https://github.com/jaldhar/perl6-scripts/blob/master/avoid.p6)
+
 ## Round 2, Day 16: August 01, 2017
 
 **Today's Progress**: FreeCodeCamp Calculator and Perl6
@@ -16,7 +37,6 @@ the calculator usable again tomorrow so I can fix that bug I mentioned on day 13
 
 * [Think Perl6 Exercise 8.1](https://github.com/jaldhar/perl6-scripts/blob/master/longerthan20.p6)
 * [Think Perl6 Exercise 8.2](https://github.com/jaldhar/perl6-scripts/blob/master/hasnoe.p6)
-
 
 ## Round 2, Day 15: July 31, 2017
 
