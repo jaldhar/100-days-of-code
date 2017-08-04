@@ -1,5 +1,46 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 18: August 03, 2017
+
+**Today's Progress**: FreeCodeCamp Calculator and Perl6
+
+**Thoughts**:
+
+I was already to tell you how clever I am but then I noticed a bug. Let me explain.
+
+I was not looking forward to implementing a stack to deal with intermediate
+answers in parentheses.  Then I hit upon an idea.  Why not separate out the
+string from the end paren to the preceding start paren and eval that then display
+it?  It's simple to do with JavaScripts lastIndexOf() and substr() functions
+and it works for a single level of parentheses i.e.:
+
+```
+  5 X ( 3 + 5 )
+```
+
+...but alas it fails for something like:
+
+
+```
+  5 X ( 3 + (10 - 5) )
+```
+
+I think I know how to fix this: count the total number of left parens, subtract
+the current number of right parens and call lastIndexOf in a loop that many
+times.  I'm too sleepy to trust myself to do it right at the moment so I will
+try tomorrow.
+
+For Perl6, I didn't do an exercise from the book per se.  I was idly wondering
+how many words in the list the author has been using in this chapter are
+palindromes.  A question I was able to answer with a mashup of Exercises 5.3 and
+8.2.  (The answer is surprisingly few.  Only 91 or 0.08%.)
+
+
+**Links to work:**
+
+* [Free Code Camp Calculator App](http://www.braincells.com/webdev/calculator/)
+* [List all palindromes in words.txt](https://github.com/jaldhar/perl6-scripts/blob/master/allpalindromes.p6)
+
 ## Round 2, Day 17: August 02, 2017
 
 **Today's Progress**: FreeCodeCamp Calculator and Perl6
