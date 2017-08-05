@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 19: August 04, 2017
+
+**Today's Progress**: FreeCodeCamp Calculator, Perl6 and Perl5
+
+**Thoughts**:
+
+Fixing the parentheses problem was not quite as simple as I made out yesterday
+but still but not too difficult either.  What I do is start at the end of the
+input string which is at that point a ')'.  I keep a counter initially set to 1.
+Then I go backwards through the string and every time I see a ')' increment the
+counter and every time I see a '(' decrement it.  I stop when the counter = 0
+that's the character from where I want to start a substr() to eval().  If I
+reach the start of the string and the counter still isn't 0, it means the
+parentheses are unbalanced which is an error.  lastIndexOf() is no longer used
+at all.
+
+I also took the opportunity to improve the CSS so it actually looks more like
+a calculator.  It's really slick now if I do say so myself.
+
+I still haven't returned to Think Perl6.  Instead I ported a C++ program I had
+done in Round 1 day 92.
+
+I also briefly dealt with Perl 5. I had a written a module long ago which was
+up on CPAN and I got a pull request on Github for it.  Just fixing a trivial
+typo but it's nice to know there are people actually using my code.
+
+**Links to work:**
+
+* [Free Code Camp Calculator App](http://www.braincells.com/webdev/calculator/)
+* [Fold a string into a triangle (Perl6 version)](https://github.com/jaldhar/perl6-scripts/blob/master/string2triangle.p6)
+* [CGI::Application::Plugin::REST](https://github.com/jaldhar/CGI-Application-Plugin-REST)
+
 ## Round 2, Day 18: August 03, 2017
 
 **Today's Progress**: FreeCodeCamp Calculator and Perl6
