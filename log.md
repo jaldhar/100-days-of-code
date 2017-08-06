@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 20: August 05, 2017
+
+**Today's Progress**: FreeCodeCamp Twitch API Project
+
+**Thoughts**:
+
+With a lot of family stuff going on today I had little time for coding.  What
+I did have, I spent on refactoring the Twitch API project.  Now I understand
+the MVC design pattern thoroughly, it was a piece of cake.
+
+It turns out one of my github commits from my last set is dated today so I didn't
+have to bother doing anything else in order to maintain my one commit a day goal..
+
+**Links to work:**
+
+* [Free Code Camp Twitch API Project](http://www.braincells.com/webdev/twitch-api/)
+
+
 ## Round 2, Day 19: August 04, 2017
 
 **Today's Progress**: FreeCodeCamp Calculator, Perl6 and Perl5
