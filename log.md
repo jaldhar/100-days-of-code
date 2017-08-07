@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 21: August 05, 2017
+
+**Today's Progress**: Perl6
+
+**Thoughts**:
+
+Another day where I couldn't get a lot done so I just did some Perl6 exercises.
+I've skipped ahead to chapter 9.
+
+
+**Links to work:**
+
+* [Think Perl6 Exercise 9.1](https://github.com/jaldhar/perl6-scripts/blob/master/nestedsums.p6)
+* [Think Perl6 Exercise 9.2](https://github.com/jaldhar/perl6-scripts/blob/master/cumulsums.p6)
+* [Think Perl6 Exercise 9.3](https://github.com/jaldhar/perl6-scripts/blob/master/middle.p6)
+* [Think Perl6 Exercise 9.4](https://github.com/jaldhar/perl6-scripts/blob/master/chopit.p6)
+
+
 ## Round 2, Day 20: August 05, 2017
 
 **Today's Progress**: FreeCodeCamp Twitch API Project
