@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
-## Round 2, Day 21: August 05, 2017
+## Round 2, Day 22: August 07, 2017
+
+**Today's Progress**: Perl6
+
+**Thoughts**:
+
+Things are still crazy in real life so again, just a few Think Perl6 exercises.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 9.5](https://github.com/jaldhar/perl6-scripts/blob/master/sorted.p6)
+* [Think Perl6 Exercise 9.6](https://github.com/jaldhar/perl6-scripts/blob/master/anagrams.p6)
+* [Think Perl6 Exercise 9.7](https://github.com/jaldhar/perl6-scripts/blob/master/hasduplicates.p6)
+* [Think Perl6 Exercise 9.9](https://github.com/jaldhar/perl6-scripts/blob/master/buildwordsarray.p6)
+
+
+## Round 2, Day 21: August 06, 2017
 
 **Today's Progress**: Perl6
 
