@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 23: August 08, 2017
+
+**Today's Progress**: Perl6
+
+**Thoughts**:
+
+The idea was to refactor another web project today and I did get started on one
+(the random quote machine) but I ended up spending most of my time on Perl6.
+Exercise 9.10 involves implementing the binary search algorithm.  As practicing
+algorithms is also one of my goals for the 100 days of code I was eager to see
+if I knew this one.  Happily I do, but I took too long to get all the details
+right in my opinion and that does not bode well for the more complex algorithms.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 9.10](https://github.com/jaldhar/perl6-scripts/blob/master/binarysearch.p6)
+
+
 ## Round 2, Day 22: August 07, 2017
 
 **Today's Progress**: Perl6
