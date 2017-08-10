@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 24: August 09, 2017
+
+**Today's Progress**: freeCodeCamp Local Weather App (Again!)
+
+**Thoughts**:
+
+After reading [Todd Mottos' excellent article](https://toddmotto.com/mastering-the-module-pattern/) I realized
+I've been doing the JavaScript module pattern wrong all this time.  So I went
+back to the local weather app and fixed it, learning some lessons about
+JavaScript scope along the way.
+
+I also read [The Promise of a Burger Party](https://kosamari.com/notes/the-promise-of-a-burger-party) by Mariko Kosaka which is about JavaScript promises
+which promise (haha) to be a better way to organize asynchronous code.  As the
+weather app has two AJAX calls which have to complete in order, I looked into
+adding promises here. But actually as I am using jQuery in this project it already
+does everything for you behind the scenes so I didn't really have to change much.
+
+**Links to work:**
+
+* [Free Code Camp Weather App](http://www.braincells.com/webdev/local-weather/)
+
+
 ## Round 2, Day 23: August 08, 2017
 
 **Today's Progress**: Perl6
