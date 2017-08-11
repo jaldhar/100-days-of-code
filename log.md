@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 25: August 10, 2017
+
+**Today's Progress**: Refactoring freeCodeCamp Calculator and Twitch API; Perl6
+
+**Thoughts**:
+
+I gave the Calculator and Twitch API projects the once over to use the module
+pattern and in the case of the latter, promises. Twitch API doesn't use jQuery,
+so I had to do a bit more work to get the promises working right and I feel
+I might have broken it a bit on the way.  So I need to look at that carefully
+tomorrow.
+
+I did a little bit of Perl6 to keep my github streek going.  This time I skipped
+ahead to chapter 10 which is about hashes.
+
+The [JavaScript 13K game challenge](http://js13kgames.com/) is starting soon. I'm
+going to try and take part.
+
+**Links to work:**
+
+* [Free Code Camp Calculator App](http://www.braincells.com/webdev/calculator/)
+* [Free Code Camp Twitch API Project](http://www.braincells.com/webdev/twitch-api/)
+* [Think Perl6 Exercise 10.1](https://github.com/jaldhar/perl6-scripts/blob/master/hashsearch.p6)
+
+
 ## Round 2, Day 24: August 09, 2017
 
 **Today's Progress**: freeCodeCamp Local Weather App (Again!)
