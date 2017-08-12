@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 26: August 11, 2017
+
+**Today's Progress**: Preperation for JS13KGames; Perl6
+
+**Thoughts**:
+
+I spent some time looking through the various tools available online for building
+very small javascript games. I also looked at some of the previous entries
+which are really impressive.  I will consider myself lucky if I can finish this
+challenge.  I certainly can't hope to win.
+
+I did another Think Perl6 exercise from chapter 10.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 10.3](https://github.com/jaldhar/perl6-scripts/blob/master/hasduplicates2.p6)
+
+
 ## Round 2, Day 25: August 10, 2017
 
 **Today's Progress**: Refactoring freeCodeCamp Calculator and Twitch API; Perl6
