@@ -1,8 +1,25 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 27: August 12, 2017
+
+**Today's Progress**: More Preparation for JS13KGames; Perl6
+
+**Thoughts**:
+
+Very little time today so I mostly spent it on reading about game architecture
+and algorithms.  Unfortunately most of what you can find on the web is not in
+JavaScript but hopefully the concepts will transfer well.
+
+I did one more Think Perl6 exercise to keep the commit streak going.
+
+**Links to work:**
+
+* [Think Perl6 Exercise 10.2](https://github.com/jaldhar/perl6-scripts/blob/master/ackermann2.p6)
+
+
 ## Round 2, Day 26: August 11, 2017
 
-**Today's Progress**: Preperation for JS13KGames; Perl6
+**Today's Progress**: Preparation for JS13KGames; Perl6
 
 **Thoughts**:
 
