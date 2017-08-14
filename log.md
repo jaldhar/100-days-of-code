@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 28: August 13, 2017
+
+**Today's Progress**: JS13KGame: Perdu
+
+**Thoughts**:
+
+The great beginning of my JS13KGames entry turned out to be anticlimatic.  The
+sudden illness of a close relative meant I spent most of the day in a hospital
+room with no wifi.  I have however set up a basic project structure on Github and
+thought about what my game is going to be like.  (See the README.)
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 27: August 12, 2017
 
 **Today's Progress**: More Preparation for JS13KGames; Perl6
