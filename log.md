@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 29: August 14, 2017
+
+**Today's Progress**: Perdu
+
+**Thoughts**:
+
+I spent some time playing with the [ga framework](https://github.com/kittykatattack/ga) It seems very powerful in an
+extremely tiny package and the documentation is excellent.  I also found code
+for a [tiny raycaster](http://www.playfuljs.com/a-first-person-engine-in-265-lines/) Together, these should be enough to power my game graphically.
+
+At the moment however all I have to show is a white rectangle.  Never fear it's
+going to look much better over the coming days.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 28: August 13, 2017
 
 **Today's Progress**: JS13KGame: Perdu
