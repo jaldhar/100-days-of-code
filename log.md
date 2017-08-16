@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 30: August 15, 2017
+
+**Today's Progress**: Perdu
+
+**Thoughts**:
+
+Work continues on Perdu.  Today I ported most of the rest of that raycaster to ga.
+However it is not displaying properly.  I think this has something to do with
+how it hooks into the ga game loop but I need to look into it further.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 29: August 14, 2017
 
 **Today's Progress**: Perdu
