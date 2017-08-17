@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 31: August 16, 2017
+
+**Today's Progress**: Perdu
+
+**Thoughts**:
+
+I've decided to strip out ga for now and focus on getting the raycaster to run
+properly.  So I ported the few remaining bits from the original source.
+Instead of just cutting and pasting the code I've tried to structure it my own
+OOPish way.  This made it easy to decouple from ga but unfortunately along the
+way I've made some mistakes which are causing errors so for now I have disabled
+rendering until I can debug it.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 30: August 15, 2017
 
 **Today's Progress**: Perdu
