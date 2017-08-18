@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 32: August 17, 2017
+
+**Today's Progress**: Perdu
+
+**Thoughts**:
+
+I've discovered what the problem in rendering is.  For some reason it is not finding the images. Unfortunately I
+haven't yet figured out how to fix this and I've run out of time for today.  So I'll try again tomorrow.
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 31: August 16, 2017
 
 **Today's Progress**: Perdu
