@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 33: August 18, 2017
+
+**Today's Progress**: Perdu
+
+**Thoughts**:
+
+I was wrong it turns out the real problem is that somehow when I downloaded the
+images, they got corrupted.  Now they are fine and rendering mostly works correctly
+except for columns.  The function that is supposed to draw them is complaining
+it is being called too many times recursively.  So that's the problem I need to
+investigate tomorrow.
+
+It's been interesting but at this rate it look I'm never going to finish the
+actual game. :-(
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 32: August 17, 2017
 
 **Today's Progress**: Perdu
@@ -8,6 +28,7 @@
 
 I've discovered what the problem in rendering is.  For some reason it is not finding the images. Unfortunately I
 haven't yet figured out how to fix this and I've run out of time for today.  So I'll try again tomorrow.
+
 **Links to work:**
 
 * [Perdu](https://github.com/jaldhar/perdu)
