@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 34: August 19, 2017
+
+**Today's Progress**: Perdu; freeCodeCamp Beta
+
+**Thoughts**:
+
+I made a little more headway in solving the recursion problem but no solution yet.
+So I got depressed and gave up for the night.
+
+Instead I looked at the new testing framework for projects in the freeCodeCamp
+beta which is going to go live soon.
+
+Mostly make the tests pass for my existing projects simply involved adding or
+changing ids so the test suite could recognize things.  For the calculator, I
+actually had to implement some features which was fairly easy to do and ended
+my session with a win which makes me feel good.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+* [Free Code Camp Calculator App](http://www.braincells.com/webdev/calculator/)
+
+
 ## Round 2, Day 33: August 18, 2017
 
 **Today's Progress**: Perdu
