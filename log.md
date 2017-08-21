@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 35: August 20, 2017
+
+**Today's Progress**: Perdu
+
+**Thoughts**:
+
+I have decided that I've wasted too much time trying to OOPize the raycaster.
+So I ripped it all out and reimported the original prototype-based code.  Bar
+a few quickly fixed typos, it all works fine.  Now I can begin the real task
+of adapting it for my game.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 34: August 19, 2017
 
 **Today's Progress**: Perdu; freeCodeCamp Beta
