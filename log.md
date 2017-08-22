@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 36: August 20, 2017
+
+**Today's Progress**: Perdu; freecodecamp beta
+
+**Thoughts**:
+
+Today was the day of the solar eclipse and the last day of the month of Shravana
+so I took the day off to concentrate on religious activities which happily also
+left some time for me to work on my code during the day time.  I went through
+nearly all the exercises in the new FreeCodeCamp Responsive Web Design certificate and looked over the projects.  Two I've already done, the tribute page
+and the portfolio.  Both only needed minor tweeks to pass the new test suite.
+I will have to do three more, a survey, product landing page, and a technical 
+documentation page.  I started all three of these but didn't completely 
+finish any.  This is a bad habit of mine.  There isn't a lot left to do so I should
+be done tomorrow but I need to learn how to get things done.
+
+In Perdu I reintegrated the ga framework.  Now I have to go through the code
+line by line and replace it with functions from ga.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 35: August 20, 2017
 
 **Today's Progress**: Perdu
