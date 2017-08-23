@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
-## Round 2, Day 36: August 20, 2017
+## Round 2, Day 37: August 22, 2017
+
+**Today's Progress**: Perdu;
+
+**Thoughts**:
+
+Didn't get a lot of time today.  I did more work to integrate ga and perdu.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
+## Round 2, Day 36: August 21, 2017
 
 **Today's Progress**: Perdu; freecodecamp beta
 
