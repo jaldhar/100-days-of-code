@@ -1,8 +1,24 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 38: August 23, 2017
+
+**Today's Progress**:
+
+**Thoughts**:
+
+Disaster!  I was walking home from work and my backpack must have been opening because
+I heard a clatter and saw that my laptop had fallen out.  The screen had cracked
+but it did turn on so I hastily put it back in the bag and went home.  That's
+when I found out the wifi was not working either.  That pretty much dispirited
+me from doing anything further so instead I spent my time backing everything
+up to an external USB hard drive.
+
+**Links to work:**
+
+
 ## Round 2, Day 37: August 22, 2017
 
-**Today's Progress**: Perdu;
+**Today's Progress**: Perdu
 
 **Thoughts**:
 
