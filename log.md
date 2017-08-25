@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+
+## Round 2, Day 39: August 24, 2017
+
+**Today's Progress**: freeCodeCamp beta Survey Form
+
+**Thoughts**:
+
+I connected the laptop up to an external monitor and did a little bit of work
+on polishing the mostly complete Survey Form project before sending the machine
+off for repair.  (Luckily it is still under warranty.
+
+Work have given me a loaner laptop but I do not want to do any of my personal
+stuff on it.
+
+I tried to see if I could use an iPad with a terminal app to connect to my
+server to see if I could code directly on there but I'm finding it very awkward
+and really not worth the time and effort.  I'll have to stick to reading for
+now.
+
+
+**Links to work:**
+
+* [Survey Form](http://www.braincells.com/webdev/survey-form/)
+
+
 ## Round 2, Day 38: August 23, 2017
 
 **Today's Progress**:
