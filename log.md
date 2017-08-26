@@ -1,6 +1,33 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 40: August 25, 2017
+
+**Today's Progress**: freeCodeCamp beta Technical Documentation Page; Quicksort in C.
+
+**Thoughts**:
+
+Hooray for my local public library!  They have wifi and computers you can use.
+The storage gets wiped after every session but that's ok because I want to use
+a Debian GNU/Linux live CD and save my work to a USB key anway.  I explained
+this to the librarians and after I assured them I was not some nefarious hacker
+type they allowed it.  It's a little bit slow but I have git and all the 
+command line tools I'm used to. The only downside is that most days if I rush 
+over after work I'll barely get one hour before they close.
+
+Today (Friday) however, they are open later so I used my time to complete the
+freeCodeCamp beta Technical Documentation project.  I chose to document the 
+quicksort algorithm and in the process I wrote a version of the standard C
+Library qsort(3) function.
+
+All the tests now pass except one but I'll look at that the next time I can
+go to the library.
+
+**Links to work:**
+
+* [Technical Documentation Page](http://www.braincells.com/webdev/tech-doc/)
+
+
 ## Round 2, Day 39: August 24, 2017
 
 **Today's Progress**: freeCodeCamp beta Survey Form
@@ -31,7 +58,7 @@ now.
 
 **Thoughts**:
 
-Disaster!  I was walking home from work and my backpack must have been opening because
+Disaster!  I was walking home from work and my backpack must have been open because
 I heard a clatter and saw that my laptop had fallen out.  The screen had cracked
 but it did turn on so I hastily put it back in the bag and went home.  That's
 when I found out the wifi was not working either.  That pretty much dispirited
