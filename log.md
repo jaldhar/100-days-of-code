@@ -1,6 +1,28 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 41: August 26, 2017
+
+**Today's Progress**: freeCodeCamp beta Technical Documentation Page; Perdu (sort of)
+
+**Thoughts**:
+
+In between shopping and other errands I was able to spend some time at the
+library today.  This last failing test in the Technical Documentation Page
+project has really got me stumped.  It checks to see if you have fullfilled the
+requirement to have "sticky" navigation i.e. which doesn't scroll when the rest
+of the page does.  The problem is I'm using flexbox and the only way I know
+to make this effect in CSS is to use position: fixed which breaks the flex
+layout.  I'm going to have to ask for help with this one.
+
+I haven't forgotten about Perdu.  I've been reading about maze generation but
+I haven't integrated it into the game just yet.
+
+**Links to work:**
+
+* [Technical Documentation Page](http://www.braincells.com/webdev/tech-doc/)
+
+
 ## Round 2, Day 40: August 25, 2017
 
 **Today's Progress**: freeCodeCamp beta Technical Documentation Page; Quicksort in C.
@@ -11,12 +33,12 @@ Hooray for my local public library!  They have wifi and computers you can use.
 The storage gets wiped after every session but that's ok because I want to use
 a Debian GNU/Linux live CD and save my work to a USB key anway.  I explained
 this to the librarians and after I assured them I was not some nefarious hacker
-type they allowed it.  It's a little bit slow but I have git and all the 
-command line tools I'm used to. The only downside is that most days if I rush 
+type they allowed it.  It's a little bit slow but I have git and all the
+command line tools I'm used to. The only downside is that most days if I rush
 over after work I'll barely get one hour before they close.
 
 Today (Friday) however, they are open later so I used my time to complete the
-freeCodeCamp beta Technical Documentation project.  I chose to document the 
+freeCodeCamp beta Technical Documentation project.  I chose to document the
 quicksort algorithm and in the process I wrote a version of the standard C
 Library qsort(3) function.
 
@@ -36,7 +58,7 @@ go to the library.
 
 I connected the laptop up to an external monitor and did a little bit of work
 on polishing the mostly complete Survey Form project before sending the machine
-off for repair.  (Luckily it is still under warranty.
+off for repair.  (Luckily it is still under warranty.)
 
 Work have given me a loaner laptop but I do not want to do any of my personal
 stuff on it.
