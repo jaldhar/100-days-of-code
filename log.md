@@ -1,6 +1,30 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 42: August 27, 2017
+
+**Today's Progress**:
+
+**Thoughts**:
+
+The library is closed today but the good news is my laptop is back from the
+repair depot.  (I am impressed by the quick turn around time.)  Apparently it
+came yesterday while I was out and my downstairs neighbor signed for it but
+forgot to tell me.
+
+Everything works as it should.  However I wasn't able to get anything done on
+it as restoring the backup is agonizingly slow.
+
+One of the reasons I started this challenge is because I know I have a
+character flaw of quickly losing motivation to complete a  task if I suffer
+any kind of setback.  I had hoped by now, almost half way through the second
+round, I would have cured myself of this tendency but after the laptop
+incident, here I am with energy and interest flagging.  Tomorrow, if nothing
+else, I will aim for an easy win to get me moving once again.
+
+**Links to work:**
+
+
 ## Round 2, Day 41: August 26, 2017
 
 **Today's Progress**: freeCodeCamp beta Technical Documentation Page; Perdu (sort of)
