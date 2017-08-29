@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 43: August 28, 2017
+
+**Today's Progress**: freeCodeCamp beta Product Landing Page
+
+**Thoughts**:
+
+Due to time constraints the great comeback hasn't quite happened yet.  I did
+do the Product Landing Page project and got all the tests passing but it looks
+pretty ugly at the moment.  I'm trying to make my own responsive flexbox based
+grid framework rather than rely on something like e.g bootstrap.  I hope to be
+finished by tomorrow and get back to Perdu.
+
+**Links to work:**
+
+* [Product Landing Page](http://www.braincells.com/webdev/landing-page/)
+
+
 ## Round 2, Day 42: August 27, 2017
 
 **Today's Progress**:
