@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 44: August 29, 2017
+
+**Today's Progress**: freeCodeCamp beta Product Landing Page
+
+**Thoughts**:
+
+I wanted to work on the game today but I wasted so much time fiddling with CSS
+I ran out of time.  The page is looking better now but I'm still having difficulty
+getting flexbox to behave the way I want it too in some places.
+
+It really makes you appreciate a framework like bootstrap.
+
+**Links to work:**
+
+* [Product Landing Page](http://www.braincells.com/webdev/landing-page/)
+
+
 ## Round 2, Day 43: August 28, 2017
 
 **Today's Progress**: freeCodeCamp beta Product Landing Page
