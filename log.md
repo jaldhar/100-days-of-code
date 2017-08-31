@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 45: August 30, 2017
+
+**Today's Progress**: freeCodeCamp beta Product Landing Page
+
+**Thoughts**:
+
+The status now is that the landing page looks good in firefox but not in chrome,
+either the desktop Linux version or on my Android phone.  I had no idea that
+making your own framework would be this difficult.  Luckily I do feel I know
+where things might be going wrong so one more day should crack it.
+
+I've got to get back to my game if I ever hope to finish it.
+
+**Links to work:**
+
+* [Product Landing Page](http://www.braincells.com/webdev/landing-page/)
+
+
 ## Round 2, Day 44: August 29, 2017
 
 **Today's Progress**: freeCodeCamp beta Product Landing Page
