@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 46: August 31, 2017
+
+**Today's Progress**: freeCodeCamp beta Product Landing Page
+
+**Thoughts**:
+
+It turns out it only took one line of CSS to get it working properly on chrome.
+(If you specify the height for a child element, you need to specify it for the
+parent also.)
+ 
+Still haven't gone back to the game.  Hopefully the Labor Day long weekend will
+give me some more free time.
+
+**Links to work:**
+
+* [Product Landing Page](http://www.braincells.com/webdev/landing-page/)
+
+
 ## Round 2, Day 45: August 30, 2017
 
 **Today's Progress**: freeCodeCamp beta Product Landing Page
