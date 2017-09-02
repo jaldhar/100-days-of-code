@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 47: September 1, 2017
+
+**Today's Progress**: Maze generation
+
+**Thoughts**:
+
+Back to Perdu.  I want the map to be a maze so I implemented an algorithm to
+generate a random maze.  The code is in C++ because that's easier for me to
+understand so tomorrow I will convert it to JavaScript and integrate it.
+
+**Links to work:**
+
+* [Maze generation algorithm demo](https://github.com/jaldhar/Maze)
+
+
 ## Round 2, Day 46: August 31, 2017
 
 **Today's Progress**: freeCodeCamp beta Product Landing Page
