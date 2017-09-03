@@ -1,6 +1,31 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 48: September 2, 2017
+
+**Today's Progress**: Perdu.
+
+**Thoughts**:
+
+Converting my maze generation code from C++ ran into a couple of snags but I 
+think I have them worked out now.  I still need to add the code into Perdu.
+
+I've gone back and forth a couple of times on using ga.  Now once again I've
+thinking about ditching it.  I've found a couple of other small frameworks and
+I'll try them tomorrow.
+
+In the process of porting to JavaScript I noticed some bad code in my C++
+version.  I was creating an essentially unchanging vector within a loop.  By
+taking it outside, it is probably much faster though as it happens, the test
+program is very fast and simple so it doesn't make any real world difference.
+In a browser it probably will though.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+* [Maze generation algorithm demo](https://github.com/jaldhar/Maze)
+
+
 ## Round 2, Day 47: September 1, 2017
 
 **Today's Progress**: Maze generation
