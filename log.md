@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 49: September 3, 2017
+
+**Today's Progress**: Perdu.
+
+**Thoughts**:
+
+Spent my time playing with micro frameowrks for games.  I even wrote one (not
+very good) of my own.  All I really need is a game loop and canvas/image
+manipulation.  I've settled on [Rat.js](https://github.com/keyten/Rat.js) we'll
+see how that goes.  One thing is for sure, I'm in over my head with all this
+but it's fun to learn about.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 48: September 2, 2017
 
 **Today's Progress**: Perdu.
