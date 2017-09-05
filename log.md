@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 50: September 4, 2017
+
+**Today's Progress**: Perdu.
+
+**Thoughts**:
+
+More vaccilating back and forth with frameworks.  Now I've decided to do without
+one altogether.  Times running out I really need to work on the actual game 
+instead of messing about like this.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 49: September 3, 2017
 
 **Today's Progress**: Perdu.
