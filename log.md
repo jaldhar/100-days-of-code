@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 51: September 5, 2017
+
+**Today's Progress**: Perdu.
+
+**Thoughts**:
+
+For the first time, the game is actually under 13k.  I did this by replacing
+the default graphics I got from the raycaster tutorial with simple GIFs.  It
+doesn't look very good but that's going to be the next step.  One obvious solution
+is to use SVGs and I tried it but it looked weird for some reason so I backed
+out for now.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 50: September 4, 2017
 
 **Today's Progress**: Perdu.
