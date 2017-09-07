@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 52: September 6, 2017
+
+**Today's Progress**: Perdu.
+
+**Thoughts**:
+
+Still haven't got SVG's working properly.  I try and load e.g. the wall texture
+inline via a data URI but the slicing and dicing the raycasting code does makes
+it look horrible.  If I replace it with a bitmap format such as .gif it looks
+much better but then the size is too big.  It must be possible to load an SVG
+and convert it to a bitmap on the fly but I've yet to figure out how.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 51: September 5, 2017
 
 **Today's Progress**: Perdu.
