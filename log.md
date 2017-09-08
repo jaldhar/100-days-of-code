@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 53: September 7, 2017
+
+**Today's Progress**: Perdu.
+
+**Thoughts**:
+
+I finally got it working!  What I did was to use [a converter](http://professorcloud.com/svg-to-canvas/) to turn
+the SVG file into a function made up of equivalent canvas operations.  Then I
+created a canvas used the function to draw the image on it and used canvas.toDataUrl('image/png') to convert it into a PNG.  Possibly this is an
+overly convoluted way of doing things and the converter didn't do a perfect job
+of reproducing the SVG but it works and that's the main thing.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 52: September 6, 2017
 
 **Today's Progress**: Perdu.
