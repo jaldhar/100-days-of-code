@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 54: September 8, 2017
+
+**Today's Progress**: Perdu.
+
+**Thoughts**:
+
+I am wasting way too much time trying to make good looking graphics that will
+fit into 13k.  I'll give it one more day then settle for whatever I have because
+I need to work on the gameplay and I'm running out of time.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 53: September 7, 2017
 
 **Today's Progress**: Perdu.
