@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+## Round 2, Day 55: September 9, 2017
+
+**Today's Progress**: Perdu.
+
+**Thoughts**:
+
+Found an excellent [SVG optimizer](http://petercollingridge.appspot.com/svg-optimiser) It reduces file sizes by upto 60%.
+This means I can keep my nicer looking graphics and still have room for the
+actual game code.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 54: September 8, 2017
 
 **Today's Progress**: Perdu.
