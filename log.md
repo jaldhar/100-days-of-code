@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 56: September 10, 2017
+
+**Today's Progress**: Perdu.
+
+**Thoughts**:
+
+It's not committed to git yet but I did a lot of work on gameplay.  My initial
+idea of a roguelike is too ambitious.  Instead the game is going to be something
+like [Robots](https://en.wikipedia.org/wiki/Robots_(computer_game)) I had actually
+written a [similar game](https://github.com/jaldhar/hivolts) before albeit in C++ so I can atleast use that as a model.
+ 
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 
 ## Round 2, Day 55: September 9, 2017
 
