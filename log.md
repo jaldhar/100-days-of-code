@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 57: September 11, 2017
+
+**Today's Progress**: Perdu.
+
+**Thoughts**:
+
+Really biting my nails wondering if I can get everything finished in time.  The
+latest obstacle is collision detection.  Sometimes the player goes right through a chicken.
+Happily it looks like I will be able to dedicate a lot more time to this tomorrow and if I can
+solve this I should be in a decent position to submit.
+ 
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 56: September 10, 2017
 
 **Today's Progress**: Perdu.
@@ -14,7 +30,6 @@ written a [similar game](https://github.com/jaldhar/hivolts) before albeit in C+
 **Links to work:**
 
 * [Perdu](https://github.com/jaldhar/perdu)
-
 
 
 ## Round 2, Day 55: September 9, 2017
