@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 58: September 12, 2017
+
+**Today's Progress**: Perdu: complete!
+
+**Thoughts**:
+
+As usually happens in these situations something came up at the last minute so
+I was not able to have the free time I had hoped for.  So I ended up pulling an
+all-nighter and finally with barely half an hour left before the deadline, I
+made it!  Perdu is not going to be on anyones top 10 lists I guarantee you but
+it is playable.  I am exhausted right now but I'll do a post-mortem soon.
+ 
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 57: September 11, 2017
 
 **Today's Progress**: Perdu.
