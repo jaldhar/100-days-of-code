@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 59: September 13, 2017
+
+**Today's Progress**: Perdu: cleanup begins.
+
+**Thoughts**:
+
+Didn't do much as I am still decompressing after last nights marathon. I took
+a look at the Perdu code and identified two major areas of concern.  First
+the ray casting of chickens doesn't work right.  Sometimes they merge with the
+walls and there is no sense of distance.  Secondly, it is far too easy to die.
+This suggests to me that collision detection is still not correct.  And overall,
+the code is a mess.  These are things to look at starting tomorrow.
+ 
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 58: September 12, 2017
 
 **Today's Progress**: Perdu: complete!
