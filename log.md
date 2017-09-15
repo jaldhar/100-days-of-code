@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 60: September 14, 2017
+
+**Today's Progress**: Perdu cleanup
+
+**Thoughts**:
+
+I implemented a minimap so I could see how movement is taking place.  One problem
+that immediately springs to mind is that most times you will have a chicken
+right next to you on the first turn which spells instant death.  I will 
+either have to redo placement so the player starts of in a safe zone or do as
+in the [hivolts](https://github.com/jaldhar/hivolts) game I based this off of
+and implement a "teleport" command.
+
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 59: September 13, 2017
 
 **Today's Progress**: Perdu: cleanup begins.
