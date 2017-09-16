@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 61: September 15, 2017
+
+**Today's Progress**: Perdu cleanup
+
+**Thoughts**:
+
+Today I began refactoring the code using my tried and tested MVC layout.  Didn't
+get very far though because of a lack of time.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 60: September 14, 2017
 
 **Today's Progress**: Perdu cleanup
