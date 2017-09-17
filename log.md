@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 62: September 16, 2017
+
+**Today's Progress**: Perdu cleanup
+
+**Thoughts**:
+
+I got a lot further in refactoring today (probably because I lost Internet access
+at home.) though it is on a local branch and not uploaded to github yet.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 61: September 15, 2017
 
 **Today's Progress**: Perdu cleanup
