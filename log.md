@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 63: September 17, 2017
+
+**Today's Progress**: Perdu cleanup; Swift
+
+**Thoughts**:
+
+Internet is back, whew.  The refactoring of the model, controller  and a basic
+2d view is essentially complete (but still not on github.)  I have to shake
+out a few bugs and then make the raycasting work again.
+
+If you have been following me on twitter you may have seen that I am also doing
+the #BackToCode, 21 day challenge from a bootcamp called [FlatIron School](https://flatironschool.com).
+They have a free course on Swift which I was going to rush through this weekend.
+Unfortunately my "Hackintosh" (Mac OS X Sierra running in a VMWare VM under Linux) stopped working.  By the time I had fixed it and upgraded everything
+I only had time to do a few of the lessons. I'm going to try and spend some time
+on this over the next few days.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 62: September 16, 2017
 
 **Today's Progress**: Perdu cleanup
