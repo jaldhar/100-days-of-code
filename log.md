@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 64: September 18, 2017
+
+**Today's Progress**: Perdu cleanup
+
+**Thoughts**:
+
+One of the reasons why the JS13K version of Perdu was so unplayable was
+because the Chickens moved too fast compared to the player.  It should be more
+manageable now in my local branch.  Still not uploaded to github though.
+
+**Links to work:**
+
+* [Perdu](https://github.com/jaldhar/perdu)
+
+
 ## Round 2, Day 63: September 17, 2017
 
 **Today's Progress**: Perdu cleanup; Swift
