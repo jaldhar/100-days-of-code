@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 65: September 24, 2017
+
+**Today's Progress**: Swift
+
+**Thoughts**:
+
+I've been out of action for a week due to a painful hand injury which left me
+unable to type.  I'm slowly ramping up again.  I still intend to finish Perdu
+but for the moment I'm taking a break and concentrating on the Swift course
+from Flatiron School for now.
+
+**Links to work:**
+
+* [Variables in Swift](https://github.com/jaldhar/swift-firstTask-playground-swift-intro-000)
+
+
 ## Round 2, Day 64: September 18, 2017
 
 **Today's Progress**: Perdu cleanup
