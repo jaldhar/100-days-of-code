@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 66: September 25, 2017
+
+**Today's Progress**: Swift
+
+**Thoughts**:
+
+More swift today.  The main feature of functions in Swift that feels novel is that
+parameters have to be named.  The extra typing is a little annoying but overall
+I think I like the idea.  It makes the code a little more self-documenting.
+
+**Links to work:**
+
+* [Functions with Multiple Arguments](https://github.com/jaldhar/swift-functionLab-lab-swift-intro-000)
+* [Functions](https://github.com/jaldhar/swift-funcMultipleArg-lab-swift-intro-000)
+
+
 ## Round 2, Day 65: September 24, 2017
 
 **Today's Progress**: Swift
@@ -13,7 +29,7 @@ from Flatiron School for now.
 
 **Links to work:**
 
-* [Variables in Swift](https://github.com/jaldhar/swift-firstTask-playground-swift-intro-000)
+* [Variables](https://github.com/jaldhar/swift-firstTask-playground-swift-intro-000)
 
 
 ## Round 2, Day 64: September 18, 2017
