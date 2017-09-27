@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 67: September 26, 2017
+
+**Today's Progress**: Swift
+
+**Thoughts**:
+
+One more lab about functions. I think I've beaten this topic into the ground now.
+
+**Links to work:**
+
+* [All About Functions](https://github.com/jaldhar/swift-allAboutFunctions-lab-swift-intro-000)
+
+
 ## Round 2, Day 66: September 25, 2017
 
 **Today's Progress**: Swift
