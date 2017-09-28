@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 68: September 27, 2017
+
+**Today's Progress**: Swift
+
+**Thoughts**:
+
+Very productive day today. I learned how to use XCode though not for an actual app yet.
+
+**Links to work:**
+
+* [Math, Booleans, and Conditionals](https://github.com/jaldhar/swift-conditionals-lab-swift-intro-000)
+* [Math, Booleans, and Operators](https://github.com/jaldhar/swift-mathBoolOp-lab-swift-intro-000)
+* [Switches](https://github.com/jaldhar/swift-switchLab-lab-swift-intro-000)
+* [Fun with Basics!](https://github.com/jaldhar/swift-switchLab-lab-swift-intro-000)
+
 ## Round 2, Day 67: September 26, 2017
 
 **Today's Progress**: Swift
