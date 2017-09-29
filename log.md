@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 69: September 28, 2017
+
+**Today's Progress**: Swift
+
+**Thoughts**:
+
+I was very busy with real life today but I got some swift practice in.  There is no github commit though.
+
+**Links to work:**
+
+
 ## Round 2, Day 68: September 27, 2017
 
 **Today's Progress**: Swift
