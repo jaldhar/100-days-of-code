@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 70: September 29, 2017
+
+**Today's Progress**: Swift
+
+**Thoughts**:
+
+Now we're getting to the good stuff.  Today I learned about using XCodes Interface
+Builder.  It was a little hard to grasp at first but compared to Android Studio,
+it is superior in my opinion.
+
+**Links to work:**
+
+* [Interface Builder: Basics](https://github.com/jaldhar/swift-interfaceBuilder-lab-swift-intro-000)
+* [Roll the Dice](https://github.com/jaldhar/swift-viewLifeCycle-lab-swift-intro-000)
+
 ## Round 2, Day 69: September 28, 2017
 
 **Today's Progress**: Swift
