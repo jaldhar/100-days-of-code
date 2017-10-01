@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 71: September 30, 2017
+
+**Today's Progress**: Swift
+
+**Thoughts**:
+
+Built another real app today albeit a very simple one. I think they went a little
+too fast with this lab.  Not a big deal for me but I can imagine programming
+newbies getting lost.  Spllitting it into two labs would help in my opinion.
+
+**Links to work:**
+
+* [Simpn Says](https://github.com/jaldhar/swift-outlets-lab-swift-intro-000)
+
 ## Round 2, Day 70: September 29, 2017
 
 **Today's Progress**: Swift
