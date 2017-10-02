@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 72: October 1, 2017
+
+**Today's Progress**: Hackintosh disaster!
+
+**Thoughts**:
+
+I've not being having good luck lately.  Today as I was working I must have
+accidently kicked out my laptops power cord.  This model doesn't beep when the
+battery is low like my old laptop.  (Or if it does, I haven't figured out how.)
+So I was merrily working away on my swift when the power gave out and the 
+laptop suddenly went dead.  I put the power cord back in and a long but uneventful
+fsck later, I was back in Linux.  Unfortunately it seems VMWare does not react
+well to being ungracefully shut down.  When Mac OS X restarts, it finds that
+the virtual disk drive is corrupt and tries and fails to fix it.  The loss of 
+some work is bad enough but if I can't get this working again I'm sunk as I don't
+have access to a real mac.
+
+**Links to work:**
+
+
 ## Round 2, Day 71: September 30, 2017
 
 **Today's Progress**: Swift
