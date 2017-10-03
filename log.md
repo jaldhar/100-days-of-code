@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 73: October 2, 2017
+
+**Today's Progress**: Hackintosh disaster continues
+
+**Thoughts**:
+
+The Mac OS X recovery is useless.  It keeps insisting the disk cannot be repaired
+though I can mount it and see that all the files are there.  Atleast  I found
+out how to boot into single user mode and run fsck (Thank God there is Unix underneath.)  Even this is resolving the problem as for some reason the
+disk is considered "write locked" and I don't know how to unlock it.
+
+If worst comes to worst I will have to wipe and reinstall the whole thing.  I have belatedly made a backup of all my personal files so I won't quite be
+back to square one but It will still be a collossal pain and waste of time though.
+
+
+**Links to work:**
+
+
 ## Round 2, Day 72: October 1, 2017
 
 **Today's Progress**: Hackintosh disaster!
