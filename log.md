@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 74: October 3, 2017
+
+**Today's Progress**: Giving up on Hackintosh; Editor
+
+**Thoughts**:
+
+I spent reinstalling the Hackintosh and all the apps, my backed up files etc. and
+by the end I didn't have the energy to continue with swift.  Reading some articles on 
+[Hacker News](https://news.ycombinator.com/) about editor data structures got
+me interested in the topic.  Perhaps I shall have a go at writing one of my own.
+
+**Links to work:**
+
+
 ## Round 2, Day 73: October 2, 2017
 
 **Today's Progress**: Hackintosh disaster continues
