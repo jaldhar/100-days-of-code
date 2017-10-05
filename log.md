@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 75: October 4, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I started writing a text editor.  It is written in standard C++14 with ncurses
+so it should be fairly portable though it is only tested on Linux for now.  It
+turns out I own a copy of Craig Finseths book about text editors which was mentioned
+on Hacker News.  There is also an online version available [here](http://www.finseth.com/craft/).  I've used it
+as a basis for designing my editor.  Today I did the view and input framework.
+Tomorrow I'll do the actual editting bits.
+
+
+**Links to work:**
+
+
 ## Round 2, Day 74: October 3, 2017
 
 **Today's Progress**: Giving up on Hackintosh; Editor
