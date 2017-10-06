@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 76: October 5, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+More scaffolding work on the editor.  Today I set up a class that evaluates
+commands and dispatches them to the part of the editor that actually stores
+and manipulates text.  Which it doesn't yet.  However you can now quit from the
+editor by pressing q instead of having to break out with ctrl-c.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 75: October 4, 2017
 
 **Today's Progress**: Editor
@@ -16,6 +32,7 @@ Tomorrow I'll do the actual editting bits.
 
 **Links to work:**
 
+[Editor](https://github.com/jaldhar/editor)
 
 ## Round 2, Day 74: October 3, 2017
 
