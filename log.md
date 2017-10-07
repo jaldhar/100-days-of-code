@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 77: October 6, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+My editor is finally able to edit.  Well insert characters not quite edit them.
+I've been reading about the buffer-gap algorithm and I think I finally get it
+but I'll wait until tomorrow to implement it.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 76: October 5, 2017
 
 **Today's Progress**: Editor
