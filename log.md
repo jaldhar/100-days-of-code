@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 78: October 7, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I did an implementation of the buffer-gap algorithm from the Finseth book but
+I haven't committed it yet because I have a sneaking suspicion there is a memory
+leak.
+
+There are also two minor improvements.  One, I read an interesting article about
+[portable Makefiles](http://nullprogram.com/blog/2017/08/20/) and made a few minor changes in mine.
+Second, the cursor now follows the point which looks better aesthetically.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 77: October 6, 2017
 
 **Today's Progress**: Editor
