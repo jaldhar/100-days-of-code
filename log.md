@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 79: October 7, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+Now you can move backwards and forwards in the edit buffer.  This is not the
+full buffer-gap algorithm though.  I am going to refactor my current code to
+better use advanced C++ features so there is no point in comitting it publically
+right now.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 78: October 7, 2017
 
 **Today's Progress**: Editor
