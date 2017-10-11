@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
-## Round 2, Day 79: October 7, 2017
+## Round 2, Day 80: October 10, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I missed a day due to a lot of demands on my time in real life.  Today I 
+implemented the gap part of the buffer-gap algorithm.  It still needs work
+though because it causes the editor to lock up if you try and edit in the
+middle of the buffer.  I haven't done the refactoring I mentioned in the last
+entry and I am regretting it.  There are subtle errors in this code I need to
+track down.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
+## Round 2, Day 79: October 8, 2017
 
 **Today's Progress**: Editor
 
