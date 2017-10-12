@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 81: October 10, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I moved all the buffer stuff into its own class.  Well most of it.  Wrestling
+with C++ took up some time so there are still a few more methods that need
+to be moved.  I'll also have to partially redo the Redisplay class to deal
+with the changed API.  Still I think I accomplished quite a bit today.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 80: October 10, 2017
 
 **Today's Progress**: Editor
