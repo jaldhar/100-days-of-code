@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
-## Round 2, Day 81: October 10, 2017
+## Round 2, Day 82: October 12, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I have decided to mostly abandon the API from the Finseth book.  It was designed
+for C and I want to try and make my editor use as many modern C++ idioms as
+possible.  For example I have a custom iterator and overload several operators.
+But this requires a lot of boilerplate and I still have some left to go.
+
+So I am not checking my current work into Github today.  Hopefully it will be
+done by tomorrow.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
+## Round 2, Day 81: October 11, 2017
 
 **Today's Progress**: Editor
 
