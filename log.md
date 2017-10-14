@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 83: October 13, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+The great redesign is done.  C++ templates are as awkward to deal with as ever.
+(And woe beside you get something wrong because the compiler will spew out a
+couple of pages of totally useless and incomprehensible garbage in lieu of a
+proper error message.)  The operator and iterator stuff was also not very
+well documented in my opinion.  I have probably got things wrong there.
+
+And sure enough, while the program compiles without errors, it segfaults whenever
+you try and insert a character.  I can't immediately tell why.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 82: October 12, 2017
 
 **Today's Progress**: Editor
