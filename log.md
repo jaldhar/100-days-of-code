@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 84: October 14, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+Didn't get much free time today.  I readded debug information to the editor
+display and made an attempt to figure out what is going wrong but no luck yet.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 83: October 13, 2017
 
 **Today's Progress**: Editor
