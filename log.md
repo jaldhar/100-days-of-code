@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 85: October 15, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I've narrowed down the problem to operator- and operator+ (and their related
+operations such as ++, --, +=, and -=) haven't been implemented correctly. But
+I have not, despite a lot of reading, understood how to do that.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 84: October 14, 2017
 
 **Today's Progress**: Editor
