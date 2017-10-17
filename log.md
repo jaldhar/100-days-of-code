@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 86: October 16, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+No it turns out it is operator== in the Buffer class.  It in turn calls the
+BufferIterators operator== but BufferIterator as it is currently designed holds
+a reference to the buffer.  So I end upwith a segfault.  Now to figure out how
+to get around this...
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 85: October 15, 2017
 
 **Today's Progress**: Editor
