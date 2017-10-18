@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 87: October 17, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I thoroughly reviewed all the operators and I think I now have them set up the
+way they are supposed to be.  Also I changed back all the internal iterators
+(point, gap start and end) in the Buffer back to plain pointers.  This prevents
+the kind of circular references that were causing my segfault before.
+
+Maddeningly, the program still doesn't work properly.  Is it because I'm using
+std::copy with pointers instead of iterators?  I hope to find out tomorrow.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 86: October 16, 2017
 
 **Today's Progress**: Editor
