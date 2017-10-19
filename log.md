@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 88: October 18, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+Things are going to be slow for the next few days because of Diwali and the
+Gujarati New Year.
+
+I did some messing around with the operators in BufferIterator which didn't
+really seem to help.  It seems a conceptual mistake I've made is treating
+the point and gap start and end as BufferIterators when they should just be
+iterators to the underlying container or even just pointers.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 87: October 17, 2017
 
 **Today's Progress**: Editor
