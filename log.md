@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 89: October 19, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+The point ironically does not need to be a pointer; it is just an offset into
+the buffer so it can be an integral type. (size_t.)
+
+It's still not working unfortunately.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 88: October 18, 2017
 
 **Today's Progress**: Editor
