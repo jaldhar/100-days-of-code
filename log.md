@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 90: October 20, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+All this operator nonsense is too complicated so I'm ditching it for now. I'm
+only keeping enough bits to make BufferIterator a ForwardIterator.  Hopefully
+that will make it easier to debug.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 89: October 19, 2017
 
 **Today's Progress**: Editor
