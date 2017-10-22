@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 91: October 20, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+It was the use of std::distance() that was messing things up.  When I changed
+the gap and user coordinate conversion methods to just subtract
+gapEnd - gapStart a lot of bugs went away.  But not all.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 90: October 20, 2017
 
 **Today's Progress**: Editor
