@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
-## Round 2, Day 91: October 20, 2017
+## Round 2, Day 92: October 22, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I realized I do not need a count member in the Buffer class as that can be
+calculated on the fly as needed.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
+## Round 2, Day 91: October 21, 2017
 
 **Today's Progress**: Editor
 
