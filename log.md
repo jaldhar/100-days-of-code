@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 93: October 23, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+HOORAY! Incrementing and therefore insert finally work the way they should.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 92: October 22, 2017
 
 **Today's Progress**: Editor
