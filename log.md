@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 94: October 24, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+One remaining annoyance is that if the point goes beyond the beginning or the
+end of the buffer, the program freezes.  (It refuses to take further input.)
+Today I finally debugged and fixed this.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 93: October 23, 2017
 
 **Today's Progress**: Editor
