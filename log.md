@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 95: October 25, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I added back all the operators I took out on day 90 and added some missing ones.
+So BufferIterator is a fully functional RandomAccessIterator again. I am not
+really using that functionality right now but I will need it later on.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 94: October 24, 2017
 
 **Today's Progress**: Editor
