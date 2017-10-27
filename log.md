@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 96: October 26, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+Very productive day today with a lot of free time in between the usual real-life
+activities.  I implemented backspace and delete.  One minor annoyance is that
+I wanted delete to be bound to the Ctrl-d key as well as the DEL key.  But somehow
+Ctrl-d is being "eaten" by something&mdash;the console, shell or I dont know what&mdash;and is
+not getting through to my program.  I don't understand why.  I also made more
+changes to the API of the Buffer and BufferIterator classes.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 95: October 25, 2017
 
 **Today's Progress**: Editor
