@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 97: October 27, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+The problem with Ctrl-d turned out to be something obvious in hindsight.  The
+Curses getch() function which gets a character from the keyboard returns an int.
+I was casting that to a char because I am only dealing with ASCII characters so
+who needs a whole int right? Turns out if you want to properly distinguish
+between control keys and extended keys such as delete or left-arrow, you do need
+the whole int.  Changing char to int had to be done in a number of places. I
+should abstract that into a typedef in the event I  ever need to do it again,
+
+Also did more cleanup work in bounds checking etc.  This has revealed a new
+problem.  I can now sucessfully delete a character at the beginning of the 
+buffer (It didn't work before.) but the display shows the old character and
+deletes the one next to it.  I know what the problem is I think but fixing it
+might be rather difficult.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 96: October 26, 2017
 
 **Today's Progress**: Editor
