@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 98: October 28, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+Did next to nothing today except change the signature of Buffers constructor
+to perhaps solve the delete first character display bug.  Didn't work and
+had to revert it.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 97: October 27, 2017
 
 **Today's Progress**: Editor
