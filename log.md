@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 99: October 29, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+Hooray! I fixed the bug.  After last nights log entry I went to sleep and I
+had a dream about it.  The next morning I implemented the idea I had dreamed of
+and lo and behold it worked!  The solution seems a bit hacky to me so perhaps
+dreams are not the next software engineering breakthrough. :-)
+
+I also implemented a few more methods and changed the signatures of some others
+to make the Buffer class a proper STL container.
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 98: October 28, 2017
 
 **Today's Progress**: Editor
