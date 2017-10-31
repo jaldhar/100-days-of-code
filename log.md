@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Round 2, Day 100: October 30, 2017
+
+**Today's Progress**: Round two finished! Editor
+
+**Thoughts**:
+
+Looking back on the last 100 days I feel I have started a bunch of things and
+not completed them.  So the focus of round three (there will be a round three!)
+will be to complete them.  Namely, the roguelike game, Perdu, the interpreter,
+learning React, and learning Perl6, Swift, and Kotlin.  I also want to build
+some Android apps but this will be my "day job" and may or may not be part
+of my 100 days of code challenge.
+
+As for the editor, todays progress was in making the Buffer expandable. This is
+the crucial step before the editor can be used for anything longer than one line.
+
+I still need a name for it.
+
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 99: October 29, 2017
 
 **Today's Progress**: Editor
