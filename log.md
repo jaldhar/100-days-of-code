@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 1: November 1, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+After taking one days' break (from logging, not coding.)  I'm back for round 3.
+
+I took a step back from implementing new features in the editor to do some
+refactoring.  Further departing from the Finseth book. I changed the names of
+some of the methods in Subeditor to be more in line with what EMACS uses.
+I also removed the BufferStart and BufferEnd methods.  They are useful for a
+C interface not a C++ STL based one.  I also seperated out the code for the
+Buffer and BufferIterator methods from their class definitions.  An annoying
+defect in C++ is that all the code for a templated class effectively has to
+go into the header file.  There is a kludgy workaround which is to put the methods
+into another file and then include that in the header which is what I did but
+I don't like it.
+
+With all that out of the way I could get back to adding features.  The biggest
+is that the Buffer will now resize if the gap gets filled up.  If your terminal
+supports it, it will beep if an error occurs such as trying to move past the
+end of the buffer.  And in Evaluate there is support for giving subeditor commands
+arguments (so you can do things such as move left 5 characters.)  This is not
+fully implemented yet. 
+
+**Links to work:**
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 2, Day 100: October 30, 2017
 
 **Today's Progress**: Round two finished! Editor
