@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 2: November 2, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I decided to submit my Buffer class to [codereview.stackexchange.com](https://codereview.stackexchange.com/) and
+I got some good feedback.  The good news is that it seems my code is basically sound.
+But there are lots of C++ stylistic things I can improve.  I only comitted one
+today; some of the others will require more study.
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 3, Day 1: November 1, 2017
 
 **Today's Progress**: Editor
