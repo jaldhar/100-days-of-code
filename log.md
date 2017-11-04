@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 3: November 3, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I didn't get a lot of time today but in the moments I did have, I made more
+of the changes recommended in the code review and asked for clarification of
+some of the others.
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 3, Day 2: November 2, 2017
 
 **Today's Progress**: Editor
