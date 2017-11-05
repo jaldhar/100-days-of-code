@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 4: November 4, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+Another day with more distractions than time to code. I implemented all the
+other recommendations from the code review.  I just have one annoyance remaining
+in the buffer code namely the implementation of operator+= (which is the basis
+for all the iterator arithmetic functions really.)  This seems like it could
+be made simpler but I am just not getting how.
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 3, Day 3: November 3, 2017
 
 **Today's Progress**: Editor
