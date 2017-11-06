@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 5: November 5, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+The time drought continues.  The main work today was to rename the member variables
+in BufferIterator to be more descriptive.  I gave in on operator+= and asked
+on Stack Overflow how to fix it.
+
+[Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 3, Day 4: November 4, 2017
 
 **Today's Progress**: Editor
