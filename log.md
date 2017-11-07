@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 6: November 6, 2017
+
+**Today's Progress**: Editor; Calculator
+
+**Thoughts**:
+
+Hooray! I got an answer on Stack Overflow which solves my operator+= problem.
+And in hindsight it was so simple.  I made a few other changes notably move
+support and I now consider the Buffer and BufferIterator classes complete. The
+next step is to actually make the editor multiline and able to load and save
+files.
+
+The indefatigable Jens Grabner popped up again after three months with a report
+of another bug in the calculator I made for the freeCodeCamp front-end certificate.
+I am really grateful to him for the amount of effort he has put into QA'ing this.
+Unfortunately it is going to require a bit more detective work to figure out
+exactly where the problem lies. I made some minor cosmetic changes while I was
+at it.
+
+**Links to work:**
+
+* [Editor](https://github.com/jaldhar/editor)
+* [Free Code Camp Calculator App](http://www.braincells.com/webdev/calculator/)
+
+
 ## Round 3, Day 5: November 5, 2017
 
 **Today's Progress**: Editor
@@ -9,6 +34,8 @@
 The time drought continues.  The main work today was to rename the member variables
 in BufferIterator to be more descriptive.  I gave in on operator+= and asked
 on Stack Overflow how to fix it.
+
+**Links to work:**
 
 [Editor](https://github.com/jaldhar/editor)
 
@@ -25,6 +52,8 @@ in the buffer code namely the implementation of operator+= (which is the basis
 for all the iterator arithmetic functions really.)  This seems like it could
 be made simpler but I am just not getting how.
 
+**Links to work:**
+
 [Editor](https://github.com/jaldhar/editor)
 
 
@@ -37,6 +66,8 @@ be made simpler but I am just not getting how.
 I didn't get a lot of time today but in the moments I did have, I made more
 of the changes recommended in the code review and asked for clarification of
 some of the others.
+
+**Links to work:**
 
 [Editor](https://github.com/jaldhar/editor)
 
@@ -51,6 +82,8 @@ I decided to submit my Buffer class to [codereview.stackexchange.com](https://co
 I got some good feedback.  The good news is that it seems my code is basically sound.
 But there are lots of C++ stylistic things I can improve.  I only comitted one
 today; some of the others will require more study.
+
+**Links to work:**
 
 [Editor](https://github.com/jaldhar/editor)
 
