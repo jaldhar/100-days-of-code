@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 7: November 7, 2017
+
+**Today's Progress**: Editor; Calculator
+
+**Thoughts**:
+
+I fixed the problem in the calculator and in the process, simplified the code
+a little bit.
+
+On the editor front, I did most of the infrastructure to make it multiline. It
+isn't yet because I don't handle newlines but that will be easy to do tomorrow.
+
+**Links to work:**
+
+* [Editor](https://github.com/jaldhar/editor)
+* [Free Code Camp Calculator App](http://www.braincells.com/webdev/calculator/)
+
+
 ## Round 3, Day 6: November 6, 2017
 
 **Today's Progress**: Editor; Calculator
