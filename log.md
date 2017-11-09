@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 8: November 8, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+So adding multiline support to the editor is proving to be a _little_ bit harder
+than I made out yesterday but it is almost there.  It's on a local branch for
+now not uploaded to github.
+
+**Links to work:**
+
+* [Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 3, Day 7: November 7, 2017
 
 **Today's Progress**: Editor; Calculator
