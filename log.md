@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 9: November 9, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+So with full-screen multiline support on the way I thought I would implement
+operations such as move to the beginning of the line, end of the line, top of
+the text, end of the text and so on.  It seemed pretty straightforward then
+all hell broke lose.  The problem it turns out is that I have implemented const
+iterators incorrectly but thats' not what the compiler told me.  Instead it
+spewed out hundreds of lines of gibberish.  Is it really necessary to give a
+full expansion of each template every time?  Can we have the option to turn
+off the notes which suggest every single class in the STL could be a candidate
+for the right definition but never is?  I supposes it is a better policy to give
+too much information rather than risk not giving enough but it makes things
+really difficult especially if, like me,  you are not a C++ expert. A bit of
+googling suggests that g++ doesn't have an option to control this.  It really
+should.
+
+**Links to work:**
+
+* [Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 3, Day 8: November 8, 2017
 
 **Today's Progress**: Editor
