@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 10: November 10, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I solved my problem from yesterday by completely redoing the implementation
+of BufferIterator.  Articles by Pete Goodliffe in the ACCU journal Overload ([part 1](https://accu.org/index.php/journals/380) and [part 2](https://accu.org/index.php/journals/383))
+were very helpful in improving my understanding of how this is all actually supposed to work.
+
+**Links to work:**
+
+* [Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 3, Day 9: November 9, 2017
 
 **Today's Progress**: Editor
