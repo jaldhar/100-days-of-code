@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 11: November 11, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+Now that my const iterators work properly, it is easy to add support for reverse
+iterators too.  I'm going to need this for e.g. moving up a line.  I would
+have to find the last newline and go past that.
+
+**Links to work:**
+
+* [Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 3, Day 10: November 10, 2017
 
 **Today's Progress**: Editor
