@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Round 3, Day 12: November 12, 2017
+
+**Today's Progress**: Editor
+
+**Thoughts**:
+
+I've added methods to buffer to search backwards and forwards.  Using that,
+I added methods in Subeditor (and bindings in Evaluate) to go to the beginning
+of a line, end of a line, up a line or down a line.  However, the editor remains
+resolutely single-line for now so you can't actually move up or down.
+
+Oh and it looks like go to the beginning of a line is causing a segfault.
+Back to the drawing board! :(
+
+**Links to work:**
+
+* [Editor](https://github.com/jaldhar/editor)
+
+
 ## Round 3, Day 11: November 11, 2017
 
 **Today's Progress**: Editor
