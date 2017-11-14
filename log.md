@@ -41,7 +41,7 @@ have to find the last newline and go past that.
 **Thoughts**:
 
 I solved my problem from yesterday by completely redoing the implementation
-of BufferIterator.  Articles by Pete Goodliffe in the ACCU journal Overload ([part 1](https://accu.org/index.php/journals/380) and [part 2](https://accu.org/index.php/journals/383))
+of BufferIterator.  Articles by Pete Goodliffe in the ACCU journal Overload ([part 1](https://accu.org/index.php/journals/389) and [part 2](https://accu.org/index.php/journals/383))
 were very helpful in improving my understanding of how this is all actually supposed to work.
 
 **Links to work:**
